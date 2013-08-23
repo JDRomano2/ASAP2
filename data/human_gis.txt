@@ -1,0 +1,12 @@
+This file contains the Homo sapiens protein products corresponding to the refseq mRNA transcripts used as overall queries for BLAST:
+
+A2M: 62088808
+ACE: 295844837
+APBB2: 50083291
+APP: 324021738
+BCHE: 119598998
+BLMH: 62898367
+MPO: 4557759
+NOS3: 231571329
+PLAU: 4505863
+SORL1: 4507157

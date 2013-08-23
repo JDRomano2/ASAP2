@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cluster_list>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="17" speclong="Pristionchus pacificus"/>
+    <clusters>
+      <cluster nr="820">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="0.675" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000382304" gene_id="ENSG00000166535" score="0.272" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000382304" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166535" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin-like protein 1 Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 9) [Source:UniProtKB/Swiss-Prot;Acc:A8K2U0]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000266524" gene_id="ENSG00000177359" score="0.227" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000266524" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000177359" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Ovostatin homolog 2 Precursor  [Source:UniProtKB/Swiss-Prot;Acc:Q6IE36]</description>
+          <alt_ids>
+            <alt_id id="Q6IE36" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q6IE36"/>
+            <alt_id id="NP_001073971" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001073971"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000291440" gene_id="ENSG00000160111" score="0.076" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000291440" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000160111" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>C3 and PZP-like alpha-2-macroglobulin domain-containing protein 8 Precursor  [Source:UniProtKB/Swiss-Prot;Acc:Q8IZJ3]</description>
+          <alt_ids>
+            <alt_id id="Q8IZJ3" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q8IZJ3"/>
+            <alt_id id="NP_056507" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_056507"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000287097" gene_id="ENSG00000156535" score="0.058" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000287097" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000156535" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>CD109 antigen Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 7)(150 KDa TGF-beta-1-binding protein)(Platelet-specific Gov antigen)(p180)(r150)(CD109 antigen) [Source:UniProtKB/Swiss-Prot;Acc:Q6YHK3]</description>
+          <alt_ids>
+            <alt_id id="Q6YHK3" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q6YHK3"/>
+            <alt_id id="NP_598000" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_598000"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="PP01438" gene_id="WBGene00104143" score="1" boot="100%" protlink="http://www.wormbase.org/db/seq/protein?name=PP:PP01438" genelink="http://www.wormbase.org/db/gene/gene?name=WBGene00104143" speclink="http://wormbase.org/" speclong="Pristionchus pacificus" specshort="P.pacificus" spec_id="17">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="20" speclong="Ixodes scapularis"/>
+    <clusters>
+      <cluster nr="888">
+        <protein prot_id="ENSP00000382304" gene_id="ENSG00000166535" score="1" boot="67%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000382304" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166535" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin-like protein 1 Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 9) [Source:UniProtKB/Swiss-Prot;Acc:A8K2U0]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="0.215" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="0.176" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000266524" gene_id="ENSG00000177359" score="0.063" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000266524" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000177359" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Ovostatin homolog 2 Precursor  [Source:UniProtKB/Swiss-Prot;Acc:Q6IE36]</description>
+          <alt_ids>
+            <alt_id id="Q6IE36" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q6IE36"/>
+            <alt_id id="NP_001073971" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001073971"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ISCW023777-PA" gene_id="ISCW023777" score="1" boot="99%" protlink="http://iscapularis.vectorbase.org/Genome/ProtView/?db=core;peptide=ISCW023777-PA" genelink="http://iscapularis.vectorbase.org/Genome/GeneView/?gene=ISCW023777" speclink="http://iscapularis.vectorbase.org" speclong="Ixodes scapularis" specshort="I.scapularis" spec_id="20">
+          <description>alpha-macroglobulin, putative</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="21" speclong="Bombyx mori"/>
+    <clusters>
+      <cluster nr="2305">
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000382304" gene_id="ENSG00000166535" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000382304" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166535" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin-like protein 1 Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 9) [Source:UniProtKB/Swiss-Prot;Acc:A8K2U0]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="0.688" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000266524" gene_id="ENSG00000177359" score="0.246" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000266524" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000177359" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Ovostatin homolog 2 Precursor  [Source:UniProtKB/Swiss-Prot;Acc:Q6IE36]</description>
+          <alt_ids>
+            <alt_id id="Q6IE36" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q6IE36"/>
+            <alt_id id="NP_001073971" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001073971"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="BGIBMGA012631-PA" gene_id="BGIBMGA012631" score="1" boot="98%" genelink="http://silkworm.swu.edu.cn/cgi-bin/gbrowse/silkdb/?name=BGIBMGA012631" speclink="http://silkworm.swu.edu.cn/silkdb" speclong="Bombyx mori" specshort="B.mori" spec_id="21">
+          <description>Alpha-2-macroglobulin, N-terminal 2; A-macroglobulin complement component; Alpha-2-macroglobulin, N-terminal; Terpenoid cylases/protein prenyltransferase alpha-alpha toroid; Alpha-2-macroglobulin</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="22" speclong="Schistosoma mansoni"/>
+    <clusters>
+      <cluster nr="1203">
+        <protein prot_id="ENSP00000382304" gene_id="ENSG00000166535" score="1" boot="96%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000382304" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166535" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin-like protein 1 Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 9) [Source:UniProtKB/Swiss-Prot;Acc:A8K2U0]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="0.279" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="0.243" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000266524" gene_id="ENSG00000177359" score="0.139" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000266524" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000177359" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Ovostatin homolog 2 Precursor  [Source:UniProtKB/Swiss-Prot;Acc:Q6IE36]</description>
+          <alt_ids>
+            <alt_id id="Q6IE36" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q6IE36"/>
+            <alt_id id="NP_001073971" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001073971"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000291440" gene_id="ENSG00000160111" score="0.076" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000291440" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000160111" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>C3 and PZP-like alpha-2-macroglobulin domain-containing protein 8 Precursor  [Source:UniProtKB/Swiss-Prot;Acc:Q8IZJ3]</description>
+          <alt_ids>
+            <alt_id id="Q8IZJ3" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q8IZJ3"/>
+            <alt_id id="NP_056507" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_056507"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000287097" gene_id="ENSG00000156535" score="0.065" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000287097" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000156535" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>CD109 antigen Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 7)(150 KDa TGF-beta-1-binding protein)(Platelet-specific Gov antigen)(p180)(r150)(CD109 antigen) [Source:UniProtKB/Swiss-Prot;Acc:Q6YHK3]</description>
+          <alt_ids>
+            <alt_id id="Q6YHK3" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q6YHK3"/>
+            <alt_id id="NP_598000" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_598000"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="Smp_089670" gene_id="Smp_089670" score="1" boot="99%" protlink="http://www.genedb.org/genedb/Search?submit=Search+for&amp;organism=smansoni&amp;name=Smp_089670" genelink="http://www.genedb.org/genedb/Search?submit=Search+for&amp;organism=smansoni&amp;name=Smp_089670" speclink="http://www.genedb.org/genedb/smansoni/" speclong="Schistosoma mansoni" specshort="S.mansoni" spec_id="22">
+          <description>macroglobulin/complement, putative</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="23" speclong="Branchiostoma floridae"/>
+    <clusters>
+      <cluster nr="938">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="98%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="0.608" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000382304" gene_id="ENSG00000166535" score="0.123" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000382304" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166535" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin-like protein 1 Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 9) [Source:UniProtKB/Swiss-Prot;Acc:A8K2U0]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000266524" gene_id="ENSG00000177359" score="0.068" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000266524" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000177359" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Ovostatin homolog 2 Precursor  [Source:UniProtKB/Swiss-Prot;Acc:Q6IE36]</description>
+          <alt_ids>
+            <alt_id id="Q6IE36" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q6IE36"/>
+            <alt_id id="NP_001073971" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001073971"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="122130" gene_id="122130" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=122130" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=122130" speclink="http://genome.jgi-psf.org/Brafl1/Brafl1.home.html" speclong="Branchiostoma floridae" specshort="B.floridae" spec_id="23">
+          <description>Actin regulatory protein (Wiskott-Aldrich syndrome protein)</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="108989" gene_id="108989" score="0.14" boot="" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=108989" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=108989" speclink="http://genome.jgi-psf.org/Brafl1/Brafl1.home.html" speclong="Branchiostoma floridae" specshort="B.floridae" spec_id="23">
+          <description>Alpha-macroglobulin</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="24" speclong="Capitella spI"/>
+    <clusters>
+      <cluster nr="806">
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="1" boot="92%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="0.618" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000382304" gene_id="ENSG00000166535" score="0.096" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000382304" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166535" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin-like protein 1 Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 9) [Source:UniProtKB/Swiss-Prot;Acc:A8K2U0]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000266524" gene_id="ENSG00000177359" score="0.078" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000266524" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000177359" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Ovostatin homolog 2 Precursor  [Source:UniProtKB/Swiss-Prot;Acc:Q6IE36]</description>
+          <alt_ids>
+            <alt_id id="NP_001073971" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001073971"/>
+            <alt_id id="Q6IE36" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q6IE36"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="228650" gene_id="228650" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Capca1&amp;tid=228650" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Capca1&amp;tid=228650" speclink="http://genome.jgi-psf.org/Capca1/Capca1.home.html" speclong="Capitella spI" specshort="C.spI" spec_id="24">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="27" speclong="Lottia gigantea"/>
+    <clusters>
+      <cluster nr="1242">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="83%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="0.637" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000382304" gene_id="ENSG00000166535" score="0.188" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000382304" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166535" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin-like protein 1 Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 9) [Source:UniProtKB/Swiss-Prot;Acc:A8K2U0]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000266524" gene_id="ENSG00000177359" score="0.137" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000266524" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000177359" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Ovostatin homolog 2 Precursor  [Source:UniProtKB/Swiss-Prot;Acc:Q6IE36]</description>
+          <alt_ids>
+            <alt_id id="Q6IE36" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q6IE36"/>
+            <alt_id id="NP_001073971" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001073971"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="227923" gene_id="227923" score="1" boot="98%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Lotgi1&amp;tid=227923" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Lotgi1&amp;tid=227923" speclink="http://genome.jgi-psf.org/Lotgi1/Lotgi1.home.html" speclong="Lottia gigantea" specshort="L.gigantea" spec_id="27">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="31" speclong="Apis mellifera"/>
+    <clusters>
+      <cluster nr="829">
+        <protein prot_id="ENSP00000382304" gene_id="ENSG00000166535" score="1" boot="85%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000382304" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166535" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin-like protein 1 Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 9) [Source:UniProtKB/Swiss-Prot;Acc:A8K2U0]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="0.185" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="0.145" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_392454.2" gene_id="408926" score="1" boot="99%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_392454.2" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=408926" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=9555" speclong="Apis mellifera" specshort="A.mellifera" spec_id="31">
+          <description> PREDICTED: similar to alpha-2-macroglobulin-like 1</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="32" speclong="Nasonia vitripennis"/>
+    <clusters>
+      <cluster nr="852">
+        <protein prot_id="ENSP00000382304" gene_id="ENSG00000166535" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000382304" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166535" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin-like protein 1 Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 9) [Source:UniProtKB/Swiss-Prot;Acc:A8K2U0]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="0.195" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="0.155" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001604193.1" gene_id="100120561" score="1" boot="99%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001604193.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100120561" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13647" speclong="Nasonia vitripennis" specshort="N.vitripennis" spec_id="32">
+          <description> PREDICTED: similar to alpha-2-macroglobulin precursor splice variant 1; TAM</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="33" speclong="Strongylocentrotus purpuratus"/>
+    <clusters>
+      <cluster nr="886">
+        <protein prot_id="ENSP00000382304" gene_id="ENSG00000166535" score="1" boot="96%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000382304" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166535" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin-like protein 1 Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 9) [Source:UniProtKB/Swiss-Prot;Acc:A8K2U0]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="0.175" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="0.135" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001187783.1" gene_id="594725" score="1" boot="99%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001187783.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=594725" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=10728" speclong="Strongylocentrotus purpuratus" specshort="S.purpuratus" spec_id="33">
+          <description> PREDICTED: similar to alpha macroglobulin</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="57" speclong="Pongo pygmaeus abelii"/>
+    <clusters>
+      <cluster nr="736">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSPPYP00000004847" gene_id="ENSPPYG00000004250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/protview?peptide=ENSPPYP00000004847" genelink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/geneview?gene=ENSPPYG00000004250" speclink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/Info/Index/" speclong="Pongo pygmaeus abelii" specshort="P.pygmaeus" spec_id="57">
+          <description>Alpha-2-macroglobulin precursor (Alpha-2-M). [Source:UniProtKB/Swiss-Prot;Acc:Q5R4N8]</description>
+          <alt_ids>
+            <alt_id id="Q5R4N8" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q5R4N8"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="58" speclong="Gallus gallus"/>
+    <clusters>
+      <cluster nr="1160">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="0.333" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSGALP00000036406" gene_id="ENSGALG00000022964" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Gallus_gallus/protview?peptide=ENSGALP00000036406" genelink="http://Dec2008.archive.ensembl.org/Gallus_gallus/geneview?gene=ENSGALG00000022964" speclink="http://Dec2008.archive.ensembl.org/Gallus_gallus/Info/Index/" speclong="Gallus gallus" specshort="G.gallus" spec_id="58">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="59" speclong="Pan troglodytes"/>
+    <clusters>
+      <cluster nr="818">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSPTRP00000007943" gene_id="ENSPTRG00000004650" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/protview?peptide=ENSPTRP00000007943" genelink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/geneview?gene=ENSPTRG00000004650" speclink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/Info/Index/" speclong="Pan troglodytes" specshort="P.troglodytes" spec_id="59">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="60" speclong="Bos taurus"/>
+    <clusters>
+      <cluster nr="851">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSBTAP00000006167" gene_id="ENSBTAG00000018137" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Bos_taurus/protview?peptide=ENSBTAP00000006167" genelink="http://Dec2008.archive.ensembl.org/Bos_taurus/geneview?gene=ENSBTAG00000018137" speclink="http://Dec2008.archive.ensembl.org/Bos_taurus/Info/Index/" speclong="Bos taurus" specshort="B.taurus" spec_id="60">
+          <description>Alpha-2-macroglobulin Fragment (Alpha-2-M) [Source:UniProtKB/Swiss-Prot;Acc:Q7SIH1]</description>
+          <alt_ids>
+            <alt_id id="A8E647" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=A8E647"/>
+            <alt_id id="NP_001103265" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001103265"/>
+            <alt_id id="Q7SIH1" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q7SIH1"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="61" speclong="Canis familiaris"/>
+    <clusters>
+      <cluster nr="943">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSCAFP00000020293" gene_id="ENSCAFG00000025567" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Canis_familiaris/protview?peptide=ENSCAFP00000020293" genelink="http://Dec2008.archive.ensembl.org/Canis_familiaris/geneview?gene=ENSCAFG00000025567" speclink="http://Dec2008.archive.ensembl.org/Canis_familiaris/Info/Index/" speclong="Canis familiaris" specshort="C.familiaris" spec_id="61">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="63" speclong="Cavia porcellus"/>
+    <clusters>
+      <cluster nr="1140">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSCPOP00000000065" gene_id="ENSCPOG00000000074" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/protview?peptide=ENSCPOP00000000065" genelink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/geneview?gene=ENSCPOG00000000074" speclink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/Info/Index/" speclong="Cavia porcellus" specshort="C.porcellus" spec_id="63">
+          <description>Alpha-macroglobulin precursor. [Source:UniProtKB/TrEMBL;Acc:Q60486]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="64" speclong="Equus caballus"/>
+    <clusters>
+      <cluster nr="922">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSECAP00000010822" gene_id="ENSECAG00000012558" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Equus_caballus/protview?peptide=ENSECAP00000010822" genelink="http://Dec2008.archive.ensembl.org/Equus_caballus/geneview?gene=ENSECAG00000012558" speclink="http://Dec2008.archive.ensembl.org/Equus_caballus/Info/Index/" speclong="Equus caballus" specshort="E.caballus" spec_id="64">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="66" speclong="Macaca mulatta"/>
+    <clusters>
+      <cluster nr="729">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSMMUP00000019581" gene_id="ENSMMUG00000003238" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/protview?peptide=ENSMMUP00000019581" genelink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/geneview?gene=ENSMMUG00000003238" speclink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/Info/Index/" speclong="Macaca mulatta" specshort="M.mulatta" spec_id="66">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="68" speclong="Mus musculus"/>
+    <clusters>
+      <cluster nr="1254">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSMUSP00000032203" gene_id="ENSMUSG00000030111" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Mus_musculus/protview?peptide=ENSMUSP00000032203" genelink="http://Dec2008.archive.ensembl.org/Mus_musculus/geneview?gene=ENSMUSG00000030111" speclink="http://Dec2008.archive.ensembl.org/Mus_musculus/Info/Index/" speclong="Mus musculus" specshort="M.musculus" spec_id="68">
+          <description>alpha-2-macroglobulin Gene [Source:MGI Symbol;Acc:MGI:2449119]</description>
+          <alt_ids>
+            <alt_id id="NP_783327" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_783327"/>
+            <alt_id id="MGI:2449119" db="MGI ID" link="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:2449119"/>
+            <alt_id id="Q6GQT1" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q6GQT1"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="69" speclong="Monodelphis domestica"/>
+    <clusters>
+      <cluster nr="1382">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="0.291" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMODP00000022434" gene_id="ENSMODG00000017988" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/protview?peptide=ENSMODP00000022434" genelink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/geneview?gene=ENSMODG00000017988" speclink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/Info/Index/" speclong="Monodelphis domestica" specshort="M.domestica" spec_id="69">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="70" speclong="Ornithorhynchus anatinus"/>
+    <clusters>
+      <cluster nr="933">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="0.396" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSOANP00000022374" gene_id="ENSOANG00000014191" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/protview?peptide=ENSOANP00000022374" genelink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/geneview?gene=ENSOANG00000014191" speclink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/Info/Index/" speclong="Ornithorhynchus anatinus" specshort="O.anatinus" spec_id="70">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="71" speclong="Rattus norvegicus"/>
+    <clusters>
+      <cluster nr="1009">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSRNOP00000019346" gene_id="ENSRNOG00000028896" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/protview?peptide=ENSRNOP00000019346" genelink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/geneview?gene=ENSRNOG00000028896" speclink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/Info/Index/" speclong="Rattus norvegicus" specshort="R.norvegicus" spec_id="71">
+          <description>Alpha-2-macroglobulin precursor (Alpha-2-M). [Source:UniProtKB/Swiss-Prot;Acc:P06238]</description>
+          <alt_ids>
+            <alt_id id="Q63334" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q63334"/>
+            <alt_id id="Q5D1M8" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q5D1M8"/>
+            <alt_id id="Q6LDG8" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q6LDG8"/>
+            <alt_id id="Q6LDR4" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q6LDR4"/>
+            <alt_id id="Q5FX35" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q5FX35"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="72" speclong="Gasterosteus aculeatus"/>
+    <clusters>
+      <cluster nr="2088">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="0.565" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSGACP00000006942" gene_id="ENSGACG00000005228" score="1" boot="67%" protlink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/protview?peptide=ENSGACP00000006942" genelink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/geneview?gene=ENSGACG00000005228" speclink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/Info/Index/" speclong="Gasterosteus aculeatus" specshort="G.aculeatus" spec_id="72">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="74" speclong="Xenopus tropicalis"/>
+    <clusters>
+      <cluster nr="922">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="0.457" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSXETP00000052265" gene_id="ENSXETG00000024219" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/protview?peptide=ENSXETP00000052265" genelink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/geneview?gene=ENSXETG00000024219" speclink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/Info/Index/" speclong="Xenopus tropicalis" specshort="X.tropicalis" spec_id="74">
+          <description>LOC619586 protein (Fragment). [Source:UniProtKB/TrEMBL;Acc:Q566M0]</description>
+          <alt_ids>
+            <alt_id id="Q566M0" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q566M0"/>
+            <alt_id id="BC093458.1" db="Xenopus jamboree" link="http://www.ensembl.org/Xenopus_tropicalis/geneview?gene=BC093458.1"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="75" speclong="Danio rerio"/>
+    <clusters>
+      <cluster nr="1678">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="0.576" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSDARP00000061097" gene_id="ENSDARG00000041685" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000061097" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000041685" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSDARP00000033180" gene_id="ENSDARG00000024892" score="0.81" boot="" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000033180" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000024892" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description>hypothetical protein LOC100006895 (LOC100006895), mRNA [Source:RefSeq_dna;Acc:XR_030051]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSDARP00000073195" gene_id="ENSDARG00000056314" score="0.805" boot="" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000073195" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000056314" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description>Hypothetical protein (Fragment). [Source:UniProtKB/TrEMBL;Acc:A0JMP8]</description>
+          <alt_ids>
+            <alt_id id="A0JMP8" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=A0JMP8"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSDARP00000046442" gene_id="ENSDARG00000041645" score="0.788" boot="" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000046442" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000041645" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description>hypothetical protein LOC100006868 (LOC100006868), mRNA [Source:RefSeq_dna;Acc:XR_030047]</description>
+          <alt_ids>
+            <alt_id id="A4QNS8" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=A4QNS8"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSDARP00000037250" gene_id="ENSDARG00000056588" score="0.648" boot="" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000037250" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000056588" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSDARP00000047864" gene_id="ENSDARG00000017289" score="0.64" boot="" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000047864" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000017289" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSDARP00000061057" gene_id="ENSDARG00000017619" score="0.553" boot="" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000061057" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000017619" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description>hypothetical protein LOC100006925 (LOC100006925), mRNA [Source:RefSeq_dna;Acc:XR_030057]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSDARP00000046453" gene_id="ENSDARG00000041639" score="0.408" boot="" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000046453" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000041639" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSDARP00000017776" gene_id="ENSDARG00000053178" score="0.325" boot="" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000017776" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000053178" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSDARP00000016163" gene_id="ENSDARG00000035291" score="0.324" boot="" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000016163" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000035291" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description>similar to alpha-2-macroglobulin-1 (LOC572081), mRNA [Source:RefSeq_dna;Acc:XR_028906]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSDARP00000041243" gene_id="ENSDARG00000027924" score="0.324" boot="" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000041243" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000027924" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSDARP00000047993" gene_id="ENSDARG00000035292" score="0.316" boot="" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000047993" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000035292" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSDARP00000025496" gene_id="ENSDARG00000041653" score="0.238" boot="" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000025496" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000041653" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="100" speclong="Escherichia coliK12"/>
+    <clusters>
+      <cluster nr="415">
+        <protein prot_id="ENSP00000323929" gene_id="ENSG00000175899" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000323929" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000175899" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin Precursor (Alpha-2-M)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5) [Source:UniProtKB/Swiss-Prot;Acc:P01023]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000261336" gene_id="ENSG00000126838" score="0.707" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000261336" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000126838" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Pregnancy zone protein Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6) [Source:UniProtKB/Swiss-Prot;Acc:P20742]</description>
+          <alt_ids>
+            <alt_id id="P20742" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P20742"/>
+            <alt_id id="NP_002855" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002855"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000382304" gene_id="ENSG00000166535" score="0.345" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000382304" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166535" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Alpha-2-macroglobulin-like protein 1 Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 9) [Source:UniProtKB/Swiss-Prot;Acc:A8K2U0]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000266524" gene_id="ENSG00000177359" score="0.303" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000266524" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000177359" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Ovostatin homolog 2 Precursor  [Source:UniProtKB/Swiss-Prot;Acc:Q6IE36]</description>
+          <alt_ids>
+            <alt_id id="Q6IE36" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q6IE36"/>
+            <alt_id id="NP_001073971" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001073971"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000291440" gene_id="ENSG00000160111" score="0.167" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000291440" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000160111" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>C3 and PZP-like alpha-2-macroglobulin domain-containing protein 8 Precursor  [Source:UniProtKB/Swiss-Prot;Acc:Q8IZJ3]</description>
+          <alt_ids>
+            <alt_id id="Q8IZJ3" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q8IZJ3"/>
+            <alt_id id="NP_056507" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_056507"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000287097" gene_id="ENSG00000156535" score="0.151" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000287097" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000156535" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>CD109 antigen Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 7)(150 KDa TGF-beta-1-binding protein)(Platelet-specific Gov antigen)(p180)(r150)(CD109 antigen) [Source:UniProtKB/Swiss-Prot;Acc:Q6YHK3]</description>
+          <alt_ids>
+            <alt_id id="Q6YHK3" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q6YHK3"/>
+            <alt_id id="NP_598000" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_598000"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000245907" gene_id="ENSG00000125730" score="0.094" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000245907" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000125730" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Complement C3 Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 1) [Contains Complement C3 beta chain;Complement C3 alpha chain;C3a anaphylatoxin;Complement C3b alpha' chain;Complement C3c alpha' chain fragment 1;Complement C3dg fragment;Complement C3g fragment;Complement C3d fragment;Complement C3f fragment;Complement C3c alpha' chain fragment 2] [Source:UniProtKB/Swiss-Prot;Acc:P01024]</description>
+          <alt_ids>
+            <alt_id id="P01024" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P01024"/>
+            <alt_id id="NP_000055" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000055"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000364444" gene_id="ENSG00000204342" score="0.076" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000364444" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000204342" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>complement component 4B preproprotein  [Source:RefSeq peptide;Acc:NP_001002029]</description>
+          <alt_ids>
+            <alt_id id="NP_001002029" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001002029"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000372648" gene_id="ENSG00000206264" score="0.076" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000372648" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000206264" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>complement component 4B preproprotein  [Source:RefSeq peptide;Acc:NP_001002029]</description>
+          <alt_ids>
+            <alt_id id="NP_001002029" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001002029"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000364321" gene_id="ENSG00000204319" score="0.075" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000364321" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000204319" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Complement C4-B Precursor (Basic complement C4)(C3 and PZP-like alpha-2-macroglobulin domain-containing protein 3) [Contains Complement C4 beta chain;Complement C4-B alpha chain;C4a anaphylatoxin;C4b-B;C4d-B;Complement C4 gamma chain] [Source:UniProtKB/Swiss-Prot;Acc:P0C0L5]</description>
+          <alt_ids>
+            <alt_id id="P0C0L5" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P0C0L5"/>
+            <alt_id id="P0C0L4" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P0C0L4"/>
+            <alt_id id="NP_009224" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_009224"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000372815" gene_id="ENSG00000206340" score="0.075" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000372815" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000206340" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Complement component 4A (Rodgers blood group) (Uncharacterized protein ENSP00000372815)  [Source:UniProtKB/TrEMBL;Acc:Q5JNX2]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000223642" gene_id="ENSG00000106804" score="0.065" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000223642" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000106804" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Complement C5 Precursor (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 4) [Contains Complement C5 beta chain;Complement C5 alpha chain;C5a anaphylatoxin;Complement C5 alpha' chain] [Source:UniProtKB/Swiss-Prot;Acc:P01031]</description>
+          <alt_ids>
+            <alt_id id="P01031" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P01031"/>
+            <alt_id id="NP_001726" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001726"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="NP_417015.1" gene_id="16130445" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=NP_417015.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=16130445" speclink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=genomeprj&amp;cmd=Retrieve&amp;dopt=Overview&amp;list_uids=225" speclong="Escherichia coliK12" specshort="E.coliK12" spec_id="100">
+          <description>conserved protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+</cluster_list>

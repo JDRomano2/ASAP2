@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cluster_list>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="1" speclong="Aedes aegypti"/>
+    <clusters>
+      <cluster nr="210">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.149" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.082" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="AAEL009745-PA" gene_id="AAEL009745" score="1" boot="100%" protlink="http://dec2008.archive.ensembl.org/Aedes_aegypti/protview?peptide=AAEL009745-PA" genelink="http://dec2008.archive.ensembl.org/Aedes_aegypti/geneview?gene=AAEL009745" speclink="http://dec2008.archive.ensembl.org/Aedes_aegypti/" speclong="Aedes aegypti" specshort="A.aegypti" spec_id="1">
+          <description>nitric oxide synthase</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="2" speclong="Anopheles gambiae"/>
+    <clusters>
+      <cluster nr="209">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.147" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.08" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="AGAP008255-PA" gene_id="AGAP008255" score="1" boot="100%" protlink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/protview?peptide=AGAP008255-PA" genelink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/geneview?gene=AGAP008255" speclink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/" speclong="Anopheles gambiae" specshort="A.gambiae" spec_id="2">
+          <description>NOS (Fragment). [Source:UniProtKB/TrEMBL;Acc:Q6VFD9]</description>
+          <alt_ids>
+            <alt_id id="O76811" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=O76811"/>
+            <alt_id id="Q6VFD9" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q6VFD9"/>
+            <alt_id id="XP_317213" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_317213"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="4" speclong="Ciona savignyi"/>
+    <clusters>
+      <cluster nr="179">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.085" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCSAVP00000016538" gene_id="ENSCSAVG00000009725" score="1" boot="100%" protlink="http://dec2008.archive.ensembl.org/Ciona_savignyi/protview?peptide=ENSCSAVP00000016538" genelink="http://dec2008.archive.ensembl.org/Ciona_savignyi/geneview?gene=ENSCSAVG00000009725" speclink="http://dec2008.archive.ensembl.org/Ciona_savignyi/" speclong="Ciona savignyi" specshort="C.savignyi" spec_id="4">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="5" speclong="Drosophila ananassae"/>
+    <clusters>
+      <cluster nr="205">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.145" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.078" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0117257" gene_id="FBgn0091092" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0117257" genelink="http://flybase.org/.bin/fbidq.html?FBgn0091092" speclink="http://flybase.org/" speclong="Drosophila ananassae" specshort="D.ananassae" spec_id="5">
+          <description></description>
+          <alt_ids>
+            <alt_id id="B3MJW2" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B3MJW2"/>
+            <alt_id id="XP_001963196" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001963196"/>
+            <alt_id id="EDV32417" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDV32417"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="6" speclong="Drosophila grimshawi"/>
+    <clusters>
+      <cluster nr="214">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.139" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.071" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0147243" gene_id="FBgn0120813" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0147243" genelink="http://flybase.org/.bin/fbidq.html?FBgn0120813" speclink="http://flybase.org/" speclong="Drosophila grimshawi" specshort="D.grimshawi" spec_id="6">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_001992998" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001992998"/>
+            <alt_id id="EDV98923" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDV98923"/>
+            <alt_id id="B4JPU3" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B4JPU3"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="7" speclong="Drosophila melanogaster"/>
+    <clusters>
+      <cluster nr="223">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.145" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.077" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0099922" gene_id="FBgn0011676" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0099922" genelink="http://flybase.org/.bin/fbidq.html?FBgn0011676" speclink="http://flybase.org/" speclong="Drosophila melanogaster" specshort="D.melanogaster" spec_id="7">
+          <description>nitric-oxide synthase activity; FAD binding; iron ion binding; heme binding; calmodulin binding; NADP binding; FMN binding; electron carrier activity</description>
+          <alt_ids>
+            <alt_id id="NP_001027243" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001027243"/>
+            <alt_id id="AAZ66452" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=AAZ66452"/>
+            <alt_id id="Q27571" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=Q27571"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="8" speclong="Drosophila mojavensis"/>
+    <clusters>
+      <cluster nr="206">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.15" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.083" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0167029" gene_id="FBgn0140553" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0167029" genelink="http://flybase.org/.bin/fbidq.html?FBgn0140553" speclink="http://flybase.org/" speclong="Drosophila mojavensis" specshort="D.mojavensis" spec_id="8">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_002003249" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_002003249"/>
+            <alt_id id="EDW12691" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDW12691"/>
+            <alt_id id="B4KKM7" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B4KKM7"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="9" speclong="Drosophila pseudoobscura"/>
+    <clusters>
+      <cluster nr="205">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.149" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.082" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0287477" gene_id="FBgn0079801" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0287477" genelink="http://flybase.org/.bin/fbidq.html?FBgn0079801" speclink="http://flybase.org/" speclong="Drosophila pseudoobscura" specshort="D.pseudoobscura" spec_id="9">
+          <description>nitric-oxide synthase activity; FAD binding; iron ion binding; heme binding; calmodulin binding; NADP binding; FMN binding; electron carrier activity</description>
+          <alt_ids>
+            <alt_id id="Q29KP6" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=Q29KP6"/>
+            <alt_id id="XP_001356069" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001356069"/>
+            <alt_id id="EAL33128" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EAL33128"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="10" speclong="Drosophila virilis"/>
+    <clusters>
+      <cluster nr="213">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.149" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.083" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0232056" gene_id="FBgn0204808" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0232056" genelink="http://flybase.org/.bin/fbidq.html?FBgn0204808" speclink="http://flybase.org/" speclong="Drosophila virilis" specshort="D.virilis" spec_id="10">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_002052605" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_002052605"/>
+            <alt_id id="EDW64760" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDW64760"/>
+            <alt_id id="B4LS74" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B4LS74"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="11" speclong="Drosophila willistoni"/>
+    <clusters>
+      <cluster nr="205">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.128" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.059" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0253122" gene_id="FBgn0225941" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0253122" genelink="http://flybase.org/.bin/fbidq.html?FBgn0225941" speclink="http://flybase.org/" speclong="Drosophila willistoni" specshort="D.willistoni" spec_id="11">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_002064654" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_002064654"/>
+            <alt_id id="EDW75640" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDW75640"/>
+            <alt_id id="B4MU51" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B4MU51"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="19" speclong="Pediculus humanus"/>
+    <clusters>
+      <cluster nr="265">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.144" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.076" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="PHUM007301-PA" gene_id="PHUM007301" score="1" boot="100%" protlink="http://www.tigr.org/tigr-scripts/gbrowse/gbrowse/louse/?=PHUM007301-PA" genelink="http://www.tigr.org/tigr-scripts/gbrowse/gbrowse/louse/?=PHUM007301" speclink="http://phumanus.vectorbase.org" speclong="Pediculus humanus" specshort="P.humanus" spec_id="19">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="20" speclong="Ixodes scapularis"/>
+    <clusters>
+      <cluster nr="178">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.151" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.085" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ISCW018074-PA" gene_id="ISCW018074" score="1" boot="100%" protlink="http://iscapularis.vectorbase.org/Genome/ProtView/?db=core;peptide=ISCW018074-PA" genelink="http://iscapularis.vectorbase.org/Genome/GeneView/?gene=ISCW018074" speclink="http://iscapularis.vectorbase.org" speclong="Ixodes scapularis" specshort="I.scapularis" spec_id="20">
+          <description>nitric oxide synthase, putative</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="21" speclong="Bombyx mori"/>
+    <clusters>
+      <cluster nr="157">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.159" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.093" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="BGIBMGA002937-PA" gene_id="BGIBMGA002937" score="1" boot="100%" genelink="http://silkworm.swu.edu.cn/cgi-bin/gbrowse/silkdb/?name=BGIBMGA002937" speclink="http://silkworm.swu.edu.cn/silkdb" speclong="Bombyx mori" specshort="B.mori" spec_id="21">
+          <description>Flavoprotein pyridine nucleotide cytochrome reductase; Nitric oxide synthase, NOS; Flavodoxin/nitric oxide synthase; Flavodoxin-like; Oxidoreductase FAD/NAD(P)-binding; Nitric-oxide synthase; FAD-binding</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="BGIBMGA002938-PA" gene_id="BGIBMGA002938" score="0.349" boot="" genelink="http://silkworm.swu.edu.cn/cgi-bin/gbrowse/silkdb/?name=BGIBMGA002938" speclink="http://silkworm.swu.edu.cn/silkdb" speclong="Bombyx mori" specshort="B.mori" spec_id="21">
+          <description>Flavoprotein pyridine nucleotide cytochrome reductase; Nitric oxide synthase, NOS; Flavodoxin/nitric oxide synthase; Flavodoxin-like; Oxidoreductase FAD/NAD(P)-binding; Nitric-oxide synthase; FAD-binding</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="25" speclong="Daphnia pulex"/>
+    <clusters>
+      <cluster nr="312">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.183" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.119" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="49977" gene_id="49977" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Dappu1&amp;tid=49977" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Dappu1&amp;tid=49977" speclink="http://genome.jgi-psf.org/Dappu1/Dappu1.home.html" speclong="Daphnia pulex" specshort="D.pulex" spec_id="25">
+          <description>NADP/FAD dependent oxidoreductase</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="27" speclong="Lottia gigantea"/>
+    <clusters>
+      <cluster nr="242">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.067" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="197993" gene_id="197993" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Lotgi1&amp;tid=197993" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Lotgi1&amp;tid=197993" speclink="http://genome.jgi-psf.org/Lotgi1/Lotgi1.home.html" speclong="Lottia gigantea" specshort="L.gigantea" spec_id="27">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="28" speclong="Nematostella vectensis"/>
+    <clusters>
+      <cluster nr="171">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.096" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="110599" gene_id="110599" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Nemve1&amp;tid=110599" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Nemve1&amp;tid=110599" speclink="http://genome.jgi-psf.org/Nemve1/Nemve1.home.html" speclong="Nematostella vectensis" specshort="N.vectensis" spec_id="28">
+          <description>NADP/FAD dependent oxidoreductase</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="29" speclong="Trichoplax adhaerens"/>
+    <clusters>
+      <cluster nr="168">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.154" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.088" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="31504" gene_id="31504" score="1" boot="56%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Triad1&amp;tid=31504" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Triad1&amp;tid=31504" speclink="http://genome.jgi-psf.org/Triad1/Triad1.home.html" speclong="Trichoplax adhaerens" specshort="T.adhaerens" spec_id="29">
+          <description>NADP/FAD dependent oxidoreductase</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="19964" gene_id="19964" score="0.401" boot="" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Triad1&amp;tid=19964" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Triad1&amp;tid=19964" speclink="http://genome.jgi-psf.org/Triad1/Triad1.home.html" speclong="Trichoplax adhaerens" specshort="T.adhaerens" spec_id="29">
+          <description>NADP/FAD dependent oxidoreductase</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="30" speclong="Acyrthosiphon pisum"/>
+    <clusters>
+      <cluster nr="177">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.138" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.07" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001946209.1" gene_id="100160390" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001946209.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100160390" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13646" speclong="Acyrthosiphon pisum" specshort="A.pisum" spec_id="30">
+          <description> PREDICTED: similar to nitric oxide synthase</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="31" speclong="Apis mellifera"/>
+    <clusters>
+      <cluster nr="205">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.132" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.064" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="NP_001012980.1" gene_id="503861" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=NP_001012980.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=503861" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=9555" speclong="Apis mellifera" specshort="A.mellifera" spec_id="31">
+          <description> nitric oxide synthase</description>
+          <alt_ids>
+            <alt_id id="Q5FAN1" db="UniProt" link="http://www.uniprot.org/uniprot/?query=Q5FAN1"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="33" speclong="Strongylocentrotus purpuratus"/>
+    <clusters>
+      <cluster nr="342">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.214" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.152" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_791956.2" gene_id="587111" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_791956.2" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=587111" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=10728" speclong="Strongylocentrotus purpuratus" specshort="S.purpuratus" spec_id="33">
+          <description> PREDICTED: similar to neuronal nitric oxide synthase</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="34" speclong="Tribolium castaneum"/>
+    <clusters>
+      <cluster nr="220">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.117" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_967195.1" gene_id="655549" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_967195.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=655549" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=12539" speclong="Tribolium castaneum" specshort="T.castaneum" spec_id="34">
+          <description> PREDICTED: similar to nitric oxide synthase</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="56" speclong="Yarrowia lipolytica CLIB122"/>
+    <clusters>
+      <cluster nr="1557">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.434" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.389" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="YALI0E16368g" gene_id="YALI0E16368g" score="1" boot="100%" protlink="http://www.genolevures.org/elt/YALI/YALI0E16368g" genelink="http://www.genolevures.org/elt/YALI/YALI0E16368g" speclink="http://www.genolevures.org/elt/YALI/YALI" speclong="Yarrowia lipolytica CLIB122" specshort="Y.lipolytica" spec_id="56">
+          <description>similar to uniprot|P39692 Saccharomyces cerevisiae YFR030w MET10 sulfite reductase flavin-binding subunit [Yarrowia lipolytica] Complete CDS. YALI0E16368g</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="57" speclong="Pongo pygmaeus abelii"/>
+    <clusters>
+      <cluster nr="2646">
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSPPYP00000020384" gene_id="ENSPPYG00000018178" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/protview?peptide=ENSPPYP00000020384" genelink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/geneview?gene=ENSPPYG00000018178" speclink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/Info/Index/" speclong="Pongo pygmaeus abelii" specshort="P.pygmaeus" spec_id="57">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="59" speclong="Pan troglodytes"/>
+    <clusters>
+      <cluster nr="1660">
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSPTRP00000034022" gene_id="ENSPTRG00000019868" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/protview?peptide=ENSPTRP00000034022" genelink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/geneview?gene=ENSPTRG00000019868" speclink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/Info/Index/" speclong="Pan troglodytes" specshort="P.troglodytes" spec_id="59">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="60" speclong="Bos taurus"/>
+    <clusters>
+      <cluster nr="836">
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSBTAP00000023515" gene_id="ENSBTAG00000017680" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Bos_taurus/protview?peptide=ENSBTAP00000023515" genelink="http://Dec2008.archive.ensembl.org/Bos_taurus/geneview?gene=ENSBTAG00000017680" speclink="http://Dec2008.archive.ensembl.org/Bos_taurus/Info/Index/" speclong="Bos taurus" specshort="B.taurus" spec_id="60">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29473]</description>
+          <alt_ids>
+            <alt_id id="P29473" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29473"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="61" speclong="Canis familiaris"/>
+    <clusters>
+      <cluster nr="954">
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCAFP00000006985" gene_id="ENSCAFG00000004687" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Canis_familiaris/protview?peptide=ENSCAFP00000006985" genelink="http://Dec2008.archive.ensembl.org/Canis_familiaris/geneview?gene=ENSCAFG00000004687" speclink="http://Dec2008.archive.ensembl.org/Canis_familiaris/Info/Index/" speclong="Canis familiaris" specshort="C.familiaris" spec_id="61">
+          <description>Nitric-oxide synthase, endothelial (EC 1.14.13.39) (EC-NOS) (NOS type III) (NOSIII) (Endothelial NOS) (eNOS) (Constitutive NOS) (cNOS). [Source:UniProtKB/Swiss-Prot;Acc:Q9TUX8]</description>
+          <alt_ids>
+            <alt_id id="Q5XL26" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q5XL26"/>
+            <alt_id id="Q6R744" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q6R744"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="63" speclong="Cavia porcellus"/>
+    <clusters>
+      <cluster nr="879">
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCPOP00000003945" gene_id="ENSCPOG00000004373" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/protview?peptide=ENSCPOP00000003945" genelink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/geneview?gene=ENSCPOG00000004373" speclink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/Info/Index/" speclong="Cavia porcellus" specshort="C.porcellus" spec_id="63">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39) (Endothelial NOS) (eNOS) (EC-NOS) (NOS type III) (NOSIII) (Constitutive NOS) (cNOS) (Fragment). [Source:UniProtKB/Swiss-Prot;Acc:P97270]</description>
+          <alt_ids>
+            <alt_id id="Q9WTK6" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q9WTK6"/>
+            <alt_id id="AAD29753" db="Protein ID" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=AAD29753"/>
+            <alt_id id="AAD29752" db="Protein ID" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=AAD29752"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="64" speclong="Equus caballus"/>
+    <clusters>
+      <cluster nr="984">
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSECAP00000022325" gene_id="ENSECAG00000024562" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Equus_caballus/protview?peptide=ENSECAP00000022325" genelink="http://Dec2008.archive.ensembl.org/Equus_caballus/geneview?gene=ENSECAG00000024562" speclink="http://Dec2008.archive.ensembl.org/Equus_caballus/Info/Index/" speclong="Equus caballus" specshort="E.caballus" spec_id="64">
+          <description>Endothelia NO synthase (Fragment). [Source:UniProtKB/TrEMBL;Acc:Q8SPL6]</description>
+          <alt_ids>
+            <alt_id id="Q8SPL6" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q8SPL6"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="66" speclong="Macaca mulatta"/>
+    <clusters>
+      <cluster nr="1122">
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMMUP00000026905" gene_id="ENSMMUG00000020437" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/protview?peptide=ENSMMUP00000026905" genelink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/geneview?gene=ENSMMUG00000020437" speclink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/Info/Index/" speclong="Macaca mulatta" specshort="M.mulatta" spec_id="66">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="68" speclong="Mus musculus"/>
+    <clusters>
+      <cluster nr="970">
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMUSP00000030834" gene_id="ENSMUSG00000028978" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Mus_musculus/protview?peptide=ENSMUSP00000030834" genelink="http://Dec2008.archive.ensembl.org/Mus_musculus/geneview?gene=ENSMUSG00000028978" speclink="http://Dec2008.archive.ensembl.org/Mus_musculus/Info/Index/" speclong="Mus musculus" specshort="M.musculus" spec_id="68">
+          <description>nitric oxide synthase 3, endothelial cell Gene [Source:MGI (curated);Acc:Nos3-001]</description>
+          <alt_ids>
+            <alt_id id="Q7TSV7" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q7TSV7"/>
+            <alt_id id="Q9WTY7" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q9WTY7"/>
+            <alt_id id="Q8C5P3" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q8C5P3"/>
+            <alt_id id="P70313" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P70313"/>
+            <alt_id id="NP_032739" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_032739"/>
+            <alt_id id="MGI:97362" db="MGI ID" link="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:97362"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="69" speclong="Monodelphis domestica"/>
+    <clusters>
+      <cluster nr="771">
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMODP00000033577" gene_id="ENSMODG00000003903" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/protview?peptide=ENSMODP00000033577" genelink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/geneview?gene=ENSMODG00000003903" speclink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/Info/Index/" speclong="Monodelphis domestica" specshort="M.domestica" spec_id="69">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="71" speclong="Rattus norvegicus"/>
+    <clusters>
+      <cluster nr="823">
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSRNOP00000013058" gene_id="ENSRNOG00000009348" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/protview?peptide=ENSRNOP00000013058" genelink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/geneview?gene=ENSRNOG00000009348" speclink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/Info/Index/" speclong="Rattus norvegicus" specshort="R.norvegicus" spec_id="71">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39) (EC-NOS) (NOS type III) (NOSIII) (Endothelial NOS) (eNOS) (Constitutive NOS) (cNOS). [Source:UniProtKB/Swiss-Prot;Acc:Q62600]</description>
+          <alt_ids>
+            <alt_id id="Q9JJY7" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q9JJY7"/>
+            <alt_id id="Q9Z1P9" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q9Z1P9"/>
+            <alt_id id="Q62600" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q62600"/>
+            <alt_id id="NP_068610" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_068610"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="74" speclong="Xenopus tropicalis"/>
+    <clusters>
+      <cluster nr="679">
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSXETP00000026200" gene_id="ENSXETG00000011979" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/protview?peptide=ENSXETP00000026200" genelink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/geneview?gene=ENSXETG00000011979" speclink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/Info/Index/" speclong="Xenopus tropicalis" specshort="X.tropicalis" spec_id="74">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="78" speclong="Cryptosporidium hominis"/>
+    <clusters>
+      <cluster nr="664">
+        <protein prot_id="ENSP00000265302" gene_id="ENSG00000127948" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000265302" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000127948" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>NADPH--cytochrome P450 reductase (CPR)(P450R)(EC 1.6.2.4) [Source:UniProtKB/Swiss-Prot;Acc:P16435]</description>
+          <alt_ids>
+            <alt_id id="P16435" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P16435"/>
+            <alt_id id="NP_000932" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000932"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000264668" gene_id="ENSG00000124275" score="0.13" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000264668" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000124275" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Methionine synthase reductase, mitochondrial Precursor (MSR)(EC 1.16.1.8) [Source:UniProtKB/Swiss-Prot;Acc:Q9UBK8]</description>
+          <alt_ids>
+            <alt_id id="Q9UBK8" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q9UBK8"/>
+            <alt_id id="NP_076915" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_076915"/>
+            <alt_id id="NP_002445" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002445"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000360576" gene_id="ENSG00000188566" score="0.124" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000360576" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000188566" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>NADPH-dependent diflavin oxidoreductase 1 (EC 1.6.-.-)(Novel reductase 1)(NADPH-dependent FMN and FAD containing oxidoreductase) [Source:UniProtKB/Swiss-Prot;Acc:Q9UHB4]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.102" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.096" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="Chro.40304" gene_id="Chro.40304" score="1" boot="100%" protlink="http://cryptodb.org/cryptodb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&amp;project_id=CryptoDB&amp;source_id=Chro.40304" genelink="http://cryptodb.org/cryptodb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&amp;project_id=CryptoDB&amp;source_id=Chro.40304" speclink="http://cryptodb.org/cryptodb/" speclong="Cryptosporidium hominis" specshort="C.hominis" spec_id="78">
+          <description>nitric-oxide synthase (NOS) </description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="79" speclong="Cryptosporidium parvum"/>
+    <clusters>
+      <cluster nr="749">
+        <protein prot_id="ENSP00000265302" gene_id="ENSG00000127948" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000265302" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000127948" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>NADPH--cytochrome P450 reductase (CPR)(P450R)(EC 1.6.2.4) [Source:UniProtKB/Swiss-Prot;Acc:P16435]</description>
+          <alt_ids>
+            <alt_id id="P16435" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P16435"/>
+            <alt_id id="NP_000932" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000932"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000264668" gene_id="ENSG00000124275" score="0.12" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000264668" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000124275" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Methionine synthase reductase, mitochondrial Precursor (MSR)(EC 1.16.1.8) [Source:UniProtKB/Swiss-Prot;Acc:Q9UBK8]</description>
+          <alt_ids>
+            <alt_id id="Q9UBK8" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q9UBK8"/>
+            <alt_id id="NP_076915" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_076915"/>
+            <alt_id id="NP_002445" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002445"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000360576" gene_id="ENSG00000188566" score="0.114" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000360576" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000188566" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>NADPH-dependent diflavin oxidoreductase 1 (EC 1.6.-.-)(Novel reductase 1)(NADPH-dependent FMN and FAD containing oxidoreductase) [Source:UniProtKB/Swiss-Prot;Acc:Q9UHB4]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.092" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.086" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="cgd4_1330" gene_id="cgd4_1330" score="1" boot="62%" protlink="http://cryptodb.org/cryptodb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&amp;project_id=CryptoDB&amp;source_id=cgd4_1330" genelink="http://cryptodb.org/cryptodb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&amp;project_id=CryptoDB&amp;source_id=cgd4_1330" speclink="http://cryptodb.org/cryptodb/" speclong="Cryptosporidium parvum" specshort="C.parvum" spec_id="79">
+          <description>NADPH-dependent FMN FAD containing oxidoreductase </description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="81" speclong="Giardia lamblia"/>
+    <clusters>
+      <cluster nr="610">
+        <protein prot_id="ENSP00000264668" gene_id="ENSG00000124275" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000264668" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000124275" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Methionine synthase reductase, mitochondrial Precursor (MSR)(EC 1.16.1.8) [Source:UniProtKB/Swiss-Prot;Acc:Q9UBK8]</description>
+          <alt_ids>
+            <alt_id id="Q9UBK8" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q9UBK8"/>
+            <alt_id id="NP_076915" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_076915"/>
+            <alt_id id="NP_002445" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002445"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000265302" gene_id="ENSG00000127948" score="0.133" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000265302" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000127948" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>NADPH--cytochrome P450 reductase (CPR)(P450R)(EC 1.6.2.4) [Source:UniProtKB/Swiss-Prot;Acc:P16435]</description>
+          <alt_ids>
+            <alt_id id="P16435" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P16435"/>
+            <alt_id id="NP_000932" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000932"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.101" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.078" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="GL50803_15897" gene_id="GL50803_15897" score="1" boot="100%" protlink="http://giardiadb.org/giardiadb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&amp;project_id=GiardiaDB&amp;source_id=GL50803_15897" genelink="http://giardiadb.org/giardiadb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&amp;project_id=GiardiaDB&amp;source_id=GL50803_15897" speclink="http://giardiadb.org/giardiadb/" speclong="Giardia lamblia" specshort="G.lamblia" spec_id="81">
+          <description>Hypothetical protein </description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="84" speclong="Theileria parva"/>
+    <clusters>
+      <cluster nr="807">
+        <protein prot_id="ENSP00000265302" gene_id="ENSG00000127948" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000265302" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000127948" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>NADPH--cytochrome P450 reductase (CPR)(P450R)(EC 1.6.2.4) [Source:UniProtKB/Swiss-Prot;Acc:P16435]</description>
+          <alt_ids>
+            <alt_id id="P16435" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P16435"/>
+            <alt_id id="NP_000932" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000932"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000360576" gene_id="ENSG00000188566" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000360576" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000188566" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>NADPH-dependent diflavin oxidoreductase 1 (EC 1.6.-.-)(Novel reductase 1)(NADPH-dependent FMN and FAD containing oxidoreductase) [Source:UniProtKB/Swiss-Prot;Acc:Q9UHB4]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000264668" gene_id="ENSG00000124275" score="0.141" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000264668" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000124275" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Methionine synthase reductase, mitochondrial Precursor (MSR)(EC 1.16.1.8) [Source:UniProtKB/Swiss-Prot;Acc:Q9UBK8]</description>
+          <alt_ids>
+            <alt_id id="Q9UBK8" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q9UBK8"/>
+            <alt_id id="NP_076915" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_076915"/>
+            <alt_id id="NP_002445" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002445"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.113" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.108" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="TP01_0838" gene_id="TP01_0838" score="1" boot="79%" protlink="http://www.tigr.org/tigr-scripts/euk_manatee/shared/ORF_infopage.cgi?db=tpa1&amp;orf=TP01_0838" genelink="http://www.tigr.org/tigr-scripts/euk_manatee/shared/ORF_infopage.cgi?db=tpa1&amp;orf=TP01_0838" speclink="http://www.tigr.org/tdb/e2k1/tpa1/" speclong="Theileria parva" specshort="T.parva" spec_id="84">
+          <description>hypothetical protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="85" speclong="Theileria annulata"/>
+    <clusters>
+      <cluster nr="891">
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="0.508" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.464" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000264668" gene_id="ENSG00000124275" score="0.064" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000264668" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000124275" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Methionine synthase reductase, mitochondrial Precursor (MSR)(EC 1.16.1.8) [Source:UniProtKB/Swiss-Prot;Acc:Q9UBK8]</description>
+          <alt_ids>
+            <alt_id id="Q9UBK8" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q9UBK8"/>
+            <alt_id id="NP_076915" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_076915"/>
+            <alt_id id="NP_002445" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002445"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="TA04090" gene_id="TA04090" score="1" boot="100%" protlink="http://www.genedb.org/genedb/Search?organism=annulata&amp;desc=yes&amp;wildcard=yes&amp;searchId=Search&amp;name=TA04090" genelink="http://www.genedb.org/genedb/Search?organism=annulata&amp;desc=yes&amp;wildcard=yes&amp;searchId=Search&amp;name=TA04090" speclink="http://www.genedb.org/genedb/annulata" speclong="Theileria annulata" specshort="T.annulata" spec_id="85">
+          <description>cytochrome reductase, putative</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="91" speclong="Phytophthora ramorum"/>
+    <clusters>
+      <cluster nr="1593">
+        <protein prot_id="ENSP00000337459" gene_id="ENSG00000089250" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000337459" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000089250" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, brain (EC 1.14.13.39)(bNOS)(NOS type I)(Neuronal NOS)(N-NOS)(nNOS)(Constitutive NOS)(NC-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P29475]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.426" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.381" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="81878" gene_id="81878" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Phyra1_1&amp;id=81878" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Phyra1_1&amp;id=81878" speclink="http://genome.jgi-psf.org/Phyra1_1/Phyra1_1.home.html" speclong="Phytophthora ramorum" specshort="P.ramorum" spec_id="91">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="92" speclong="Trichomonas vaginalis"/>
+    <clusters>
+      <cluster nr="923">
+        <protein prot_id="ENSP00000265302" gene_id="ENSG00000127948" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000265302" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000127948" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>NADPH--cytochrome P450 reductase (CPR)(P450R)(EC 1.6.2.4) [Source:UniProtKB/Swiss-Prot;Acc:P16435]</description>
+          <alt_ids>
+            <alt_id id="P16435" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P16435"/>
+            <alt_id id="NP_000932" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000932"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000264668" gene_id="ENSG00000124275" score="0.124" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000264668" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000124275" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Methionine synthase reductase, mitochondrial Precursor (MSR)(EC 1.16.1.8) [Source:UniProtKB/Swiss-Prot;Acc:Q9UBK8]</description>
+          <alt_ids>
+            <alt_id id="Q9UBK8" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q9UBK8"/>
+            <alt_id id="NP_076915" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_076915"/>
+            <alt_id id="NP_002445" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002445"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000360576" gene_id="ENSG00000188566" score="0.118" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000360576" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000188566" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>NADPH-dependent diflavin oxidoreductase 1 (EC 1.6.-.-)(Novel reductase 1)(NADPH-dependent FMN and FAD containing oxidoreductase) [Source:UniProtKB/Swiss-Prot;Acc:Q9UHB4]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000327251" gene_id="ENSG00000007171" score="0.096" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000327251" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000007171" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, inducible (EC 1.14.13.39)(Inducible NO synthase)(Inducible NOS)(iNOS)(NOS type II)(Hepatocyte NOS)(HEP-NOS) [Source:UniProtKB/Swiss-Prot;Acc:P35228]</description>
+          <alt_ids>
+            <alt_id id="P35228" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35228"/>
+            <alt_id id="NP_000616" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000616"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000297494" gene_id="ENSG00000164867" score="0.091" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000297494" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000164867" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Nitric oxide synthase, endothelial (EC 1.14.13.39)(Endothelial NOS)(eNOS)(EC-NOS)(NOS type III)(NOSIII)(Constitutive NOS)(cNOS) [Source:UniProtKB/Swiss-Prot;Acc:P29474]</description>
+          <alt_ids>
+            <alt_id id="P29474" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29474"/>
+            <alt_id id="NP_000594" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000594"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="84843.m00225" gene_id="84843.m00225" score="1" boot="100%" protlink="http://www.tigr.org/tigr-scripts/euk_manatee/shared/ORF_infopage.cgi?db=tva1&amp;orf=84843.m00225" genelink="http://www.tigr.org/tigr-scripts/euk_manatee/shared/ORF_infopage.cgi?db=tva1&amp;orf=84843.m00225" speclink="http://www.tigr.org/tdb/e2k1/tvg/" speclong="Trichomonas vaginalis" specshort="T.vaginalis" spec_id="92">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="97007.m00150" gene_id="97007.m00150" score="0.512" boot="" protlink="http://www.tigr.org/tigr-scripts/euk_manatee/shared/ORF_infopage.cgi?db=tva1&amp;orf=97007.m00150" genelink="http://www.tigr.org/tigr-scripts/euk_manatee/shared/ORF_infopage.cgi?db=tva1&amp;orf=97007.m00150" speclink="http://www.tigr.org/tdb/e2k1/tvg/" speclong="Trichomonas vaginalis" specshort="T.vaginalis" spec_id="92">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+</cluster_list>

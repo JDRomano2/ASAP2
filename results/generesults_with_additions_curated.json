@@ -1,0 +1,463 @@
+[{
+    "species": "Homo sapiens",
+    "genes": {
+        "apbb2": "50083291",
+        "ace": "295844837",
+        "app": "324021738",
+        "nos3": "231571329",
+        "plau": "4505863",
+        "a2m": "62088808",
+        "mpo": "4557759",
+        "bche": "119598998",
+        "blmh": "62898367",
+        "sorl1": "4507157"
+    }
+},
+
+{
+    "species": "Pan troglodytes",
+    "genes": {
+        "apbb2": "332819361",
+        "ace": "11138414",
+        "app": "61316399",
+        "nos3": "332869955",
+        "plau": "332834431",
+        "a2m": "114643413",
+        "mpo": "332848613",
+        "bche": "114590210",
+        "blmh": "332848139",
+        "sorl1": "332838038"
+    }
+},
+
+{
+    "species": "Nomascus leucogenys",
+    "genes": {
+        "apbb2": "332219034",
+        "ace": "332243146",
+        "app": "332229355",
+        "nos3": "332243598",
+        "plau": "441657631",
+        "a2m": "332232615",
+        "mpo": "332246423",
+        "bche": "332214651",
+        "blmh": "332256042",
+        "sorl1": "441645106"
+    }
+},
+
+{
+    "species": "Macaca mulatta",
+    "genes": {
+        "apbb2": "109074088",
+        "ace": "355568815",
+        "app": "297287715",
+        "nos3": "355561174",
+        "plau": "109089275",
+        "a2m": "109095556",
+        "mpo": "297272667",
+        "bche": "297286482",
+        "blmh": "297272275",
+        "sorl1": "297269425"
+    }
+},
+
+{
+    "species": "Papio anubis",
+    "genes": {
+        "apbb2": "402869229",
+        "ace": "402900709",
+        "app": "402862584",
+        "nos3": "402865393",
+        "plau": "402880412",
+        "a2m": "402885087",
+        "mpo": "402899767",
+        "bche": "402861047",
+        "blmh": "402899225",
+        "sorl1": "402895573"
+    }
+},
+
+{
+    "species": "Saimiri boliviensis boliviensis",
+    "genes": {
+        "apbb2": "403300640",
+        "ace": "403303843",
+        "app": "403263124",
+        "nos3": "403276442",
+        "plau": "403298034",
+        "a2m": "403269387",
+        "mpo": "403274814",
+        "bche": "403265619",
+        "blmh": "403279965",
+        "sorl1": "403263172"
+    }
+},
+
+{
+    "species": "Callithrix jacchus",
+    "genes": {
+        "apbb2": "296196672",
+        "ace": "390463223",
+        "app": "390478125",
+        "nos3": "390466973",
+        "plau": "296220330",
+        "a2m": "390467482",
+        "mpo": "390481029",
+        "bche": "390476146",
+        "blmh": "390463443",
+        "sorl1": "296216435"
+    }
+},
+
+{
+    "species": "Ailuropoda melanoleuca",
+    "genes": {
+        "apbb2": "301782269",
+        "ace": "301773322",
+        "app": "301769381",
+        "nos3": "301759409",
+        "plau": "301770031",
+        "a2m": "301789849",
+        "mpo": "301788065",
+        "bche": "301766374",
+        "blmh": "301753006",
+        "sorl1": "301756562"
+    }
+},
+
+{
+    "species": "Felis catus",
+    "genes": {
+        "apbb2": "410957709",
+        "ace": "410981474",
+        "app": "410970178",
+        "nos3": "410953210",
+        "plau": "410975468",
+        "a2m": "410963779",
+        "mpo": "170763531",
+        "bche": "57163907",
+        "blmh": "410980281",
+        "sorl1": "410972147"
+    }
+},
+
+{
+    "species": "Otolemur garnettii",
+    "genes": {
+        "apbb2": "395856696",
+        "ace": "395826103",
+        "app": "395821216",
+        "nos3": "395838399",
+        "plau": "395820478",
+        "a2m": "395847504",
+        "mpo": "395845971",
+        "bche": "395843862",
+        "blmh": "395855413",
+        "sorl1": "395848635"
+    }
+},
+
+{
+    "species": "Bos taurus",
+    "genes": {
+        "apbb2": "116003921",
+        "ace": "331284213",
+        "app": "119919082",
+        "nos3": "317008623",
+        "plau": "1321710",
+        "a2m": "157954061",
+        "mpo": "164519010",
+        "bche": "116004027",
+        "blmh": "296476886",
+        "sorl1": "300795351"
+    }
+},
+
+{
+    "species": "Ovis aries",
+    "genes": {
+        "apbb2": "426231617",
+        "ace": "66710717",
+        "app": "426217223",
+        "nos3": "194018578",
+        "plau": "254692796",
+        "a2m": "426225572",
+        "mpo": "426236991",
+        "bche": "426218006",
+        "blmh": "426237250",
+        "sorl1": "426245664"
+    }
+},
+
+{
+    "species": "Oryctolagus cuniculus",
+    "genes": {
+        "apbb2": "291385693",
+        "ace": "283806567",
+        "app": "307548924",
+        "nos3": "296932693",
+        "plau": "22074828",
+        "a2m": "291392861",
+        "mpo": "291405719",
+        "bche": "291400118",
+        "blmh": "291405439",
+        "sorl1": "130502114"
+    }
+},
+
+{
+    "species": "Tupaia chinensis",
+    "genes": {
+        "apbb2": "444513678",
+        "ace": "444727006",
+        "app": "444707710",
+        "nos3": "444724209",
+        "plau": "444512213",
+        "a2m": "444518826",
+        "mpo": "444720817",
+        "bche": "444724200",
+        "blmh": "444513089",
+        "sorl1": "444725271"
+    }
+},
+
+{
+    "species": "Rattus norvegicus",
+    "genes": {
+        "apbb2": "392333026",
+        "ace": "23305781",
+        "app": "27436861",
+        "nos3": "83305036",
+        "plau": "267251",
+        "a2m": "158138551",
+        "mpo": "157823473",
+        "bche": "12621110",
+        "blmh": "77681960",
+        "sorl1": "281599339"
+    }
+},
+
+{
+    "species": "Mus musculus",
+    "genes": {
+        "apbb2": "74199616",
+        "ace": "33468873",
+        "app": "311893408",
+        "nos3": "1518956",
+        "plau": "6679377",
+        "a2m": "148277039",
+        "mpo": "41059732",
+        "bche": "124487350",
+        "blmh": "30519997",
+        "sorl1": "110625645"
+    }
+},
+
+{
+    "species": "Cavia porcellus",
+    "genes": {
+        "apbb2": "348571804",
+        "ace": "348560335",
+        "app": "348562873",
+        "nos3": "290543595",
+        "plau": "348575754",
+        "a2m": "290543549",
+        "mpo": "348562522",
+        "bche": "348567235",
+        "blmh": "348567917",
+        "sorl1": "348574051"
+    }
+},
+
+{
+    "species": "Pteropus alecto",
+    "genes": {
+        "apbb2": "431893807",
+        "ace": "431908891",
+        "app": "431915228",
+        "nos3": "431895758",
+        "plau": "431904102",
+        "a2m": "431905394",
+        "mpo": "431890836",
+        "bche": "431915168",
+        "blmh": "431890998",
+        "sorl1": "431842055"
+    }
+},
+
+{
+    "species": "Cricetulus griseus",
+    "genes": {
+        "apbb2": "344246343",
+        "ace": "354481662",
+        "app": "354485381",
+        "nos3": "354478332",
+        "plau": "354468671",
+        "a2m": "354487225",
+        "mpo": "354483316",
+        "bche": "354496810",
+        "blmh": "354487940",
+        "sorl1": "354498637"
+    }
+},
+
+{
+    "species": "Orcinus orca",
+    "genes": {
+        "apbb2": "465988496",
+        "ace": "466037854",
+        "app": "465978050",
+        "nos3": "466065246",
+        "plau": "466025583",
+        "a2m": "466065100",
+        "mpo": "466018953",
+        "bche": "466076197",
+        "blmh": "465993604",
+        "sorl1": "466062869"
+    }
+},
+
+{
+    "species": "Danio rerio",
+    "genes": {
+        "apbb2": "326663929",
+        "ace": "326672223",
+        "app": "14518287",
+        "nos3": "40538768",
+        "plau": "356640251",
+        "a2m": "326674182",
+        "mpo": "RKNPFWGSANTGLARWLPAEYEDGENQPKGWNAGRQYNGFQLPPVREVSKRIIRSSSSALQEDRDYSQMLVDWGQYIDHDISFTPQSSSQTSFTPGFDCLRTCVSADPCFPIQISRDDPLSRNSSCLPFFRSSPSCTGLQRQQLNSITSFIDASTVYGSSEEQQQILRSSAGLLAVSDEFWDTGRPFLPSVPQRPSACLQQPGSLALLARVECFAAGDSRVNEVLPLAVLHTLWMREHNRLAELLAQINTHWGKQRVYQETRKIIGALHQIFTMRDYIPKVIGQESVNEFLGPYEGYNESVDPSVSNVFATAAFRFGHVTISPYLRRLNQSFQEDERYETLTLQQSFFSPWRLVREGGLDPVLRALLSAPAVLQDQEHLMTEELTERLLVLNVPQNLDLAALNLQRGRDHGLPGYNAWRVFCGLDRVESRSDLLKLVGSDDLVKEIMDLYGHPDNVDVWLGGLLERPLSGARTGPLFSCLIGKQMKKLRDGDRFWWLNPGVFSAEQRHELQTHSLSRVICDNSGLMEVPLDAFRRSSYPEDFHLCGSVPTLDLEAWREQPD",
+        "bche": "18858245",
+        "blmh": "41053353",
+        "sorl1": "326674188"
+    }
+},
+
+{
+    "species": "Takifugu rubripes",
+    "genes": {
+        "apbb2": "410917510",
+        "ace": "410896067",
+        "app": "410896562",
+        "nos3": "410923539",
+        "plau": "410895327",
+        "a2m": "410927253",
+        "mpo": "410927139",
+        "bche": "410906651",
+        "blmh": "410909632",
+        "sorl1": "410927276"
+    }
+},
+
+{
+    "species": "Tetraodon nigroviridis",
+    "genes": {
+        "apbb2": "DVWGDGDLPPGWREISDSSEVYFWHVPTGTTQYHRPVAPGNQHASPNAEPGAGDGLCEKREDCAQPSTEVRGAISSASVSSLKTRVAMIRMISPSKKSFPVRSLGWMEMAEQDLCEGRSSVAVHHCIRQLSYCRRDIRDSAGVWGEGKGMLLVLQDRMLNLIDPDDHSLLHSQPISSIRVWGVGRDHDRDSDFAYVARDKNTRVLKCHVFRCDTPAAAIATSLHEICSKIMAERKSAKAAACSSTQASSDVPLQAEFPMPKTELVQKFHVLYLGMTTVSRPIGMDIINGAIENLLSSTGKEDWTPVMLSIADTTLAVIKEKAGEEEEEVVIECRVRFLSFMGVGRDAHTFAFIMDTGNQHFQCHVFWCDPNAGSVSEAVQTACVLRYQKCLVA",
+        "ace": "47226030",
+        "app": "47226946",
+        "nos3": "47221496",
+        "plau": "CLHGGSSIPSLTSGDHMFCLCADGFEGKNCETVKNSHCYEGLGFLYRGTASQSESGRTCQDWDAPDPRALPDLDTNSGRHNYCRNLHYRRRPWCYVVKNQQLQWEYCAVPRCNSESSPSLAPPTTTDPGTESTCGQRIRRKQMKIVGGTVATVESHPWVAAIFWRSKSKEKVFRCGGSLISSCWVLTAAHCFPDGSHQKTHRFSVVLGKNALNESKPNMEQKFGVEQIVVHEDFDNTDGNFNNDVALLRLKSKGGKCARDSRTVRSVCLPQQVLQPGLPCQIAGYGKEKHGLWFRSQYLREAQVNIISDDVCRQERYYGNLITDNMFCAGWPDWSQDACEGDSGGPLVCEVNRRFYLFGVISWGDGCAREFRPGVYTRVTNYLRWIEEKIHGSSTFPH",
+        "a2m": "47224905",
+        "mpo": "47223756",
+        "bche": "58011282",
+        "blmh": "47212639",
+        "sorl1": "47224917"
+    }
+},
+
+{
+    "species": "Ornithorhynchus anatinus",
+    "genes": {
+        "apbb2": "345324784",
+        "ace": "PPPLPLPRYFVSFILQFQIHQALCSAADFKGPLHRCDIYRSVEAGKKLKSGTGAGEGRDGGGGAWDRVSLRGQSARLRLEILMLLTLSEAWEEELQVGGGLVTASTPALPPPLDKVSDEVEAQKFLEEFDRTAQLAWYENTEASWAYNTNITEHNRQIMLDKSLQVSQHTLDFGKKARQFDDTDFKNSSVKRTLKKLQDLGRAALPQNELKEVTGVRRGEEEGPGRGEAAWPSGKNPDLTELMATSQNYEELLWAWQGWREAAGKPVRQKFERYVELSNKAARLNGHADNGVSWRAMYETPTFEQDLERLYQELQPLYLNLHAYVRRQLHRRYGDKFVNCAGPSPPTCSGNMWAQTWSNIYNLVVPFPSASQVDATPAMKNKNWNPKKMFEESDSFFKSLGLLPMPEEFWEKSMLEKPSDGREVVCHASAWDFYNGKDFRIKQCTTVNMEDLITVHHEMGHVQYYLQYKEQPVVFREGANPGFHEAIGDVLALSVSTPRHLHSIGLLDNEGEGYESEINYLMSMALDKIAFLPFGYLMDQWRWKVFDGRITKENYNQEWWNLRLKYQGLCPPVIRSQTDFDPGAKFHIPANVPYIRYFVSFVIQFQFHEALCRAASHTGPLHKCDIYKSQKAGKLLSDAMKLGSSKPWPEAMQILTGQPNMSAAALMSYFKPLLDWLVTENNRQNEVLGWPQFTWKPDNPSXPPCPTSAQPQS",
+        "app": "345325970",
+        "nos3": "345322722",
+        "plau": "MKLLVSCQLALPLLLCAMVVGSQSVNHKTNLLKKAFSVGCHCQNGGECVSYKLFSRIHRCNCPKGFEGEHCEIDSQEQCYKDNGESYRGTAQRDEFGRQCLSWDSVNVLKKPFNASRKDALQLGLGKHNYCRNPNGQEKPWCYVQVGLNQLVRGCDVPFCSKKKQDHRDRYDGVKSCLQQQPAVLFAEFKCGQRRSNRYFKIVGGERMSIDSQPWLAAIYRESRGVEKFICGGSLISACWVLSAAHCFTEHEKDHYSVYLGSSNMKIKDEEHRFKVTQLILHKGYYSKTLSHHNDIALLRLLSDSGDCAEPSDVIQTICLPTSSRDPPSYAVCEVSGYGKEDYRDYMYSNHLKTSRVNLISHRVCQQPSYYGSEVTKNMLCAGDPKWETDACQGDSGGPLVCRDRDRMVLYGIVSWGEDCAVKNKPGVYTRVSQYLPWISNHTGINTSLDP",
+        "a2m": "345316090",
+        "mpo": "149411244",
+        "bche": "149633332",
+        "blmh": "345329694",
+        "sorl1": "345324392"
+    }
+},
+
+{
+    "species": "Monodelphis domestica",
+    "genes": {
+        "apbb2": "334331377",
+        "ace": "334322869",
+        "app": "334329399",
+        "nos3": "334348740",
+        "plau": "MRALLASLLLCVLVLGCRFSPSYCFHQPHLSFPGNCGCLNNGVCISYKYFSKIHRCSCPENFIGEHCEIGSSQVSDRGNSLTIWAFLRGWPTGFHGRSVLKWNADVLASKTYHANSDAVKLGLGKHNYCRNPDNGKKPWCFVQIGRMQFKRECKVQQCSIGKGEGDIYGPLSSPTEKGGFQCGYKSMTPRFKIVGGNTTPIENQPWFAAIYRNHLGGSSSFTCGGTLISSCWVVSAAHCFPKIKRGENYVLYLGQSMRKSQTGGDSQFEVEQIILHENFSTGAIAYHNDIALLKIRSKTGQCAEPSRVVQTICLPKAYEDVPSGSDCEVTGFGLENQNDYLYPEYLKMAVVNPISHKQCARPDYYGTEVTPKMLCAAHPEWKSDACQGDSGGPLVCPIDDRMVLVGVVSWGIDCAAENKPGVYTRVSHFLPWIQAHTG",
+        "a2m": "334348277",
+        "mpo": "334312530",
+        "bche": "334323445",
+        "blmh": "126314189",
+        "sorl1": "126326518"
+    }
+},
+
+{
+    "species": "Canis lupus familiaris",
+    "genes": {
+        "apbb2": "MTSFFFPGDSGVDTVAVFMASSGATDITNRNSPATPPNTLHLRSSHNELLNAEIKHTESKNSTPPKCRKKYALTNIQVAMGLSDPAAQPLLGSGSANIKLVKNGENQLRKAAEQGQQDPNKNVSPTAVINITSEKLEGKEPHPCDSSGSEILPSQPRRTKSFLNYYADLETSTRELEQNLGNQHGVVEEKSQPGQGQASTVIGNGEALPQKANKAQFSPEDGQVATVSSSPETKKDHPKTGAKTDCALHRIQNLAPSDEESSWTTLSQDSASPSSPDETADIWSDHSFQTDPDLPPGWKRINDIAGTYYWHIPTGTTQWERPVSIPADLHGSRKGSLSSVTSSPTPEHEKQPWSDFAVLNGGKINSDIWKDLHAATVNPDPSLKEFEGATLRYASLKLRNAPHADDDDSCSINSDPEAKCFAVRSLGWVEMAEEDLAPGKSSVAVNNCIRQLSYCKNDIRDTVGIWGEGKDMYLILENDTLSLVDPMDRSVLHSQPIASIRVWGVGRDNGREKDFAYVARDKDTRILKCHVFRCDTPAKAIATSLHEICSKIMAERKNAKALACSSLQERTNVNLDVPLQVDFPTPKTELVQKFHVQYLGMLPVDKPVGMDTLNNAIESLMTSSNQEDWLSVNMNVADATVTVISEKNEEETLVECRVRFLSFMGVGKDVHTFAFIMDTGNQRFECHVFWCEPNAGNVSEAVQAACMLRYQKCLVARPPSQKVRPPPPPADSVTRRVTTNVKRGVLSLIDTLKQKRPVTETP",
+        "ace": "359320273",
+        "app": "62363233",
+        "nos3": "354622997",
+        "plau": "303227912",
+        "a2m": "345792424",
+        "mpo": "73966685",
+        "bche": "74003707",
+        "blmh": "345804988",
+        "sorl1": "73954998"
+    }
+},
+
+{
+    "species": "Gallus gallus",
+    "genes": {
+        "apbb2": "363733758",
+        "ace": "268370291",
+        "app": "45383530",
+        "nos3": "118098891",
+        "plau": "MKLIIFLTVTLCTLVTGLDSVYIRQYYKLSHKHRPQHRECQCLNGGTCITYRFFSQIKRCLCPEGYGGLHCEIDTNSVCYSGNGEDYRGMAEDPGCLYWDHPSVIRWGDYHADLKNALQLGLGKHNYCRNPNGRSRPWCYTKRRYSIQETPCSTIEKCERTCGQRSFSKYFKIVGGSQAEVETQPWIAGIFQNIMGTDQFLCGGSLIDPCWVLTAAHCFYNPTKKQPNKSVYKVFLGKSILNTNDEHEQVFMVDEIISHPDFTDHTGGNDNDIALIRIRTASGQCAVESNYVRTVCLPEKNLNLYDNTWCEIAGYGKQNSYDIYYAQRLMSATVNLISQDDCKNKYYDSTRVTDNMVCAGDPLWETDACKGDSGGPMVCEHNGRMTLYGIVSWGDGCAKKNKPGVYTRVTRYLNWIDSNMNAVFTKSRSFREPK",
+        "a2m": "363728304",
+        "mpo": "118100016",
+        "bche": "45382845",
+        "blmh": "45384138",
+        "sorl1": "363742529"
+    }
+},
+
+{
+    "species": "Equus caballus",
+    "genes": {
+        "apbb2": "338711542",
+        "ace": "338711376",
+        "app": "338720678",
+        "nos3": "338724479",
+        "plau": "338716897",
+        "a2m": "194211675",
+        "mpo": "338711542",
+        "bche": "126352540",
+        "blmh": "338711620",
+        "sorl1": "194212791"
+    }
+},
+
+{
+    "species": "Pongo pygmaeus abelii",
+    "genes": {
+        "apbb2": "55726908",
+        "ace": "395749325",
+        "app": "297690697",
+        "nos3": "297700308",
+        "plau": "197101755",
+        "a2m": "197102064",
+        "mpo": "297700700",
+        "bche": "197097436",
+        "blmh": "297700451",
+        "sorl1": "297690488"
+    }
+}]

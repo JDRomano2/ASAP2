@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cluster_list>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="2" speclong="Anopheles gambiae"/>
+    <clusters>
+      <cluster nr="2405">
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="0.548" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.315" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="AGAP008350-PA" gene_id="AGAP008350" score="1" boot="98%" protlink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/protview?peptide=AGAP008350-PA" genelink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/geneview?gene=AGAP008350" speclink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/" speclong="Anopheles gambiae" specshort="A.gambiae" spec_id="2">
+          <description>Peroxidase 13B (Fragment). [Source:UniProtKB/TrEMBL;Acc:Q5UEA6]</description>
+          <alt_ids>
+            <alt_id id="Q5UEA7" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q5UEA7"/>
+            <alt_id id="Q5UEA6" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q5UEA6"/>
+            <alt_id id="XP_001237888" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001237888"/>
+            <alt_id id="XP_317106" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_317106"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="AGAP010735-PA" gene_id="AGAP010735" score="0.075" boot="" protlink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/protview?peptide=AGAP010735-PA" genelink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/geneview?gene=AGAP010735" speclink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/" speclong="Anopheles gambiae" specshort="A.gambiae" spec_id="2">
+          <description>Peroxidase 5B (Fragment). [Source:UniProtKB/TrEMBL;Acc:Q5UEB5]</description>
+          <alt_ids>
+            <alt_id id="Q5UEB5" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q5UEB5"/>
+            <alt_id id="Q5UEB6" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q5UEB6"/>
+            <alt_id id="XP_311449" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_311449"/>
+            <alt_id id="XP_001237390" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001237390"/>
+            <alt_id id="XP_001237389" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001237389"/>
+            <alt_id id="XP_559246" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_559246"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="AGAP010899-PA" gene_id="AGAP010899" score="0.06" boot="" protlink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/protview?peptide=AGAP010899-PA" genelink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/geneview?gene=AGAP010899" speclink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/" speclong="Anopheles gambiae" specshort="A.gambiae" spec_id="2">
+          <description>Peroxidase 8 (Fragment). [Source:UniProtKB/TrEMBL;Acc:Q5UEB2]</description>
+          <alt_ids>
+            <alt_id id="Q5UEB2" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q5UEB2"/>
+            <alt_id id="Q5UEB3" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q5UEB3"/>
+            <alt_id id="Q5UEB4" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q5UEB4"/>
+            <alt_id id="XP_309790" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_309790"/>
+            <alt_id id="XP_309791" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_309791"/>
+            <alt_id id="XP_309792" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_309792"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="5" speclong="Drosophila ananassae"/>
+    <clusters>
+      <cluster nr="2417">
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="0.548" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.314" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0118251" gene_id="FBgn0092084" score="1" boot="98%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0118251" genelink="http://flybase.org/.bin/fbidq.html?FBgn0092084" speclink="http://flybase.org/" speclong="Drosophila ananassae" specshort="D.ananassae" spec_id="5">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_001961618" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001961618"/>
+            <alt_id id="EDV30839" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDV30839"/>
+            <alt_id id="B3MM24" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B3MM24"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="6" speclong="Drosophila grimshawi"/>
+    <clusters>
+      <cluster nr="2409">
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="0.547" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.313" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0145120" gene_id="FBgn0118695" score="1" boot="97%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0145120" genelink="http://flybase.org/.bin/fbidq.html?FBgn0118695" speclink="http://flybase.org/" speclong="Drosophila grimshawi" specshort="D.grimshawi" spec_id="6">
+          <description></description>
+          <alt_ids>
+            <alt_id id="B4JDM1" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B4JDM1"/>
+            <alt_id id="XP_001988524" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001988524"/>
+            <alt_id id="EDW03391" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDW03391"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="7" speclong="Drosophila melanogaster"/>
+    <clusters>
+      <cluster nr="2508">
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="0.548" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.315" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0080619" gene_id="FBgn0032685" score="1" boot="98%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0080619" genelink="http://flybase.org/.bin/fbidq.html?FBgn0032685" speclink="http://flybase.org/" speclong="Drosophila melanogaster" specshort="D.melanogaster" spec_id="7">
+          <description>heme binding; peroxidase activity</description>
+          <alt_ids>
+            <alt_id id="NP_609883" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_609883"/>
+            <alt_id id="AAF53674" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=AAF53674"/>
+            <alt_id id="Q9VJ80" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=Q9VJ80"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="8" speclong="Drosophila mojavensis"/>
+    <clusters>
+      <cluster nr="2341">
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="0.545" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.31" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0163352" gene_id="FBgn0136889" score="1" boot="96%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0163352" genelink="http://flybase.org/.bin/fbidq.html?FBgn0136889" speclink="http://flybase.org/" speclong="Drosophila mojavensis" specshort="D.mojavensis" spec_id="8">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_002002105" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_002002105"/>
+            <alt_id id="EDW11547" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDW11547"/>
+            <alt_id id="B4KK29" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B4KK29"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="9" speclong="Drosophila pseudoobscura"/>
+    <clusters>
+      <cluster nr="2338">
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000329869" gene_id="ENSG00000115705" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000329869" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000115705" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Thyroid peroxidase Precursor (TPO)(EC 1.11.1.8) [Source:UniProtKB/Swiss-Prot;Acc:P07202]</description>
+          <alt_ids>
+            <alt_id id="P07202" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P07202"/>
+            <alt_id id="NP_000538" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000538"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.37" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000348645" gene_id="ENSG00000147485" score="0.085" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000348645" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000147485" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Putative uncharacterized protein ENSP00000348645  [Source:UniProtKB/TrEMBL;Acc:B5ME43]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="FBpp0280498" gene_id="FBgn0070219" score="1" boot="98%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0280498" genelink="http://flybase.org/.bin/fbidq.html?FBgn0070219" speclink="http://flybase.org/" speclong="Drosophila pseudoobscura" specshort="D.pseudoobscura" spec_id="9">
+          <description>heme binding; peroxidase activity</description>
+          <alt_ids>
+            <alt_id id="XP_001356583" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001356583"/>
+            <alt_id id="EAL33647" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EAL33647"/>
+            <alt_id id="Q29MP6" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=Q29MP6"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0282355" gene_id="FBgn0079192" score="1" boot="89%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0282355" genelink="http://flybase.org/.bin/fbidq.html?FBgn0079192" speclink="http://flybase.org/" speclong="Drosophila pseudoobscura" specshort="D.pseudoobscura" spec_id="9">
+          <description>heme binding; peroxidase activity</description>
+          <alt_ids>
+            <alt_id id="XP_001358327" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001358327"/>
+            <alt_id id="EAL27465" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EAL27465"/>
+            <alt_id id="Q29A85" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=Q29A85"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0283856" gene_id="FBgn0079989" score="1" boot="91%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0283856" genelink="http://flybase.org/.bin/fbidq.html?FBgn0079989" speclink="http://flybase.org/" speclong="Drosophila pseudoobscura" specshort="D.pseudoobscura" spec_id="9">
+          <description>heme binding; peroxidase activity</description>
+          <alt_ids>
+            <alt_id id="XP_001358608" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001358608"/>
+            <alt_id id="EAL27749" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EAL27749"/>
+            <alt_id id="Q299F4" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=Q299F4"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="11" speclong="Drosophila willistoni"/>
+    <clusters>
+      <cluster nr="2625">
+        <protein prot_id="ENSP00000329869" gene_id="ENSG00000115705" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000329869" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000115705" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Thyroid peroxidase Precursor (TPO)(EC 1.11.1.8) [Source:UniProtKB/Swiss-Prot;Acc:P07202]</description>
+          <alt_ids>
+            <alt_id id="P07202" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P07202"/>
+            <alt_id id="NP_000538" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000538"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="0.181" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.177" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.146" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000348645" gene_id="ENSG00000147485" score="0.051" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000348645" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000147485" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Putative uncharacterized protein ENSP00000348645  [Source:UniProtKB/TrEMBL;Acc:B5ME43]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="FBpp0240794" gene_id="FBgn0213662" score="1" boot="89%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0240794" genelink="http://flybase.org/.bin/fbidq.html?FBgn0213662" speclink="http://flybase.org/" speclong="Drosophila willistoni" specshort="D.willistoni" spec_id="11">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_002069672" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_002069672"/>
+            <alt_id id="EDW80658" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDW80658"/>
+            <alt_id id="B4N9U3" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B4N9U3"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0251800" gene_id="FBgn0224634" score="0.054" boot="" protlink="http://flybase.org/.bin/fbidq.html?FBpp0251800" genelink="http://flybase.org/.bin/fbidq.html?FBgn0224634" speclink="http://flybase.org/" speclong="Drosophila willistoni" specshort="D.willistoni" spec_id="11">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_002072087" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_002072087"/>
+            <alt_id id="EDW83073" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDW83073"/>
+            <alt_id id="B4NFK6" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B4NFK6"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="17" speclong="Pristionchus pacificus"/>
+    <clusters>
+      <cluster nr="957">
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000348645" gene_id="ENSG00000147485" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000348645" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000147485" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Putative uncharacterized protein ENSP00000348645  [Source:UniProtKB/TrEMBL;Acc:B5ME43]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.609" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.354" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000329869" gene_id="ENSG00000115705" score="0.237" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000329869" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000115705" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Thyroid peroxidase Precursor (TPO)(EC 1.11.1.8) [Source:UniProtKB/Swiss-Prot;Acc:P07202]</description>
+          <alt_ids>
+            <alt_id id="P07202" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P07202"/>
+            <alt_id id="NP_000538" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000538"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="PP11223" gene_id="WBGene00092412" score="1" boot="98%" protlink="http://www.wormbase.org/db/seq/protein?name=PP:PP11223" genelink="http://www.wormbase.org/db/gene/gene?name=WBGene00092412" speclink="http://wormbase.org/" speclong="Pristionchus pacificus" specshort="P.pacificus" spec_id="17">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="PP24846" gene_id="WBGene00112969" score="1" boot="95%" protlink="http://www.wormbase.org/db/seq/protein?name=PP:PP24846" genelink="http://www.wormbase.org/db/gene/gene?name=WBGene00112969" speclink="http://wormbase.org/" speclong="Pristionchus pacificus" specshort="P.pacificus" spec_id="17">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="PP16255" gene_id="WBGene00097716" score="0.181" boot="" protlink="http://www.wormbase.org/db/seq/protein?name=PP:PP16255" genelink="http://www.wormbase.org/db/gene/gene?name=WBGene00097716" speclink="http://wormbase.org/" speclong="Pristionchus pacificus" specshort="P.pacificus" spec_id="17">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="30" speclong="Acyrthosiphon pisum"/>
+    <clusters>
+      <cluster nr="2129">
+        <protein prot_id="ENSP00000329869" gene_id="ENSG00000115705" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000329869" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000115705" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Thyroid peroxidase Precursor (TPO)(EC 1.11.1.8) [Source:UniProtKB/Swiss-Prot;Acc:P07202]</description>
+          <alt_ids>
+            <alt_id id="P07202" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P07202"/>
+            <alt_id id="NP_000538" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000538"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="0.164" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.16" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.129" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001946672.1" gene_id="100160088" score="1" boot="90%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001946672.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100160088" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13646" speclong="Acyrthosiphon pisum" specshort="A.pisum" spec_id="30">
+          <description> PREDICTED: similar to peroxinectin</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_001949485.1" gene_id="100164444" score="0.086" boot="" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001949485.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100164444" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13646" speclong="Acyrthosiphon pisum" specshort="A.pisum" spec_id="30">
+          <description> PREDICTED: similar to AGAP010734-PA, partial</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_001947809.1" gene_id="100167648" score="0.079" boot="" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001947809.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100167648" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13646" speclong="Acyrthosiphon pisum" specshort="A.pisum" spec_id="30">
+          <description> PREDICTED: similar to oxidase/peroxidase, partial</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_001948948.1" gene_id="100164660" score="0.079" boot="" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001948948.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100164660" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13646" speclong="Acyrthosiphon pisum" specshort="A.pisum" spec_id="30">
+          <description> PREDICTED: similar to chorion peroxidase</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_001951916.1" gene_id="100164711" score="0.068" boot="" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001951916.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100164711" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13646" speclong="Acyrthosiphon pisum" specshort="A.pisum" spec_id="30">
+          <description> PREDICTED: similar to peroxinectin</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_001947847.1" gene_id="100168521" score="0.054" boot="" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001947847.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100168521" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13646" speclong="Acyrthosiphon pisum" specshort="A.pisum" spec_id="30">
+          <description> PREDICTED: similar to peroxinectin, partial</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_001944794.1" gene_id="100167402" score="0.052" boot="" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001944794.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100167402" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13646" speclong="Acyrthosiphon pisum" specshort="A.pisum" spec_id="30">
+          <description> PREDICTED: similar to peroxinectin</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="33" speclong="Strongylocentrotus purpuratus"/>
+    <clusters>
+      <cluster nr="3136">
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.62" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000329869" gene_id="ENSG00000115705" score="0.258" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000329869" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000115705" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Thyroid peroxidase Precursor (TPO)(EC 1.11.1.8) [Source:UniProtKB/Swiss-Prot;Acc:P07202]</description>
+          <alt_ids>
+            <alt_id id="P07202" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P07202"/>
+            <alt_id id="NP_000538" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000538"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000348645" gene_id="ENSG00000147485" score="0.087" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000348645" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000147485" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Putative uncharacterized protein ENSP00000348645  [Source:UniProtKB/TrEMBL;Acc:B5ME43]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="NP_999755.1" gene_id="373402" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=NP_999755.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=373402" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=10728" speclong="Strongylocentrotus purpuratus" specshort="S.purpuratus" spec_id="33">
+          <description> ovoperoxidase</description>
+          <alt_ids>
+            <alt_id id="O44391" db="UniProt" link="http://www.uniprot.org/uniprot/?query=O44391"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001196459.1" gene_id="579920" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001196459.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=579920" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=10728" speclong="Strongylocentrotus purpuratus" specshort="S.purpuratus" spec_id="33">
+          <description> PREDICTED: similar to ovoperoxidase, partial</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_001179997.1" gene_id="582144" score="0.06" boot="" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001179997.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=582144" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=10728" speclong="Strongylocentrotus purpuratus" specshort="S.purpuratus" spec_id="33">
+          <description> PREDICTED: similar to ovoperoxidase, partial</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="34" speclong="Tribolium castaneum"/>
+    <clusters>
+      <cluster nr="2600">
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.356" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000329869" gene_id="ENSG00000115705" score="0.24" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000329869" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000115705" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Thyroid peroxidase Precursor (TPO)(EC 1.11.1.8) [Source:UniProtKB/Swiss-Prot;Acc:P07202]</description>
+          <alt_ids>
+            <alt_id id="P07202" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P07202"/>
+            <alt_id id="NP_000538" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000538"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000348645" gene_id="ENSG00000147485" score="0.065" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000348645" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000147485" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Putative uncharacterized protein ENSP00000348645  [Source:UniProtKB/TrEMBL;Acc:B5ME43]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_001807949.1" gene_id="656619" score="1" boot="96%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001807949.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=656619" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=12539" speclong="Tribolium castaneum" specshort="T.castaneum" spec_id="34">
+          <description> PREDICTED: similar to oxidase/peroxidase</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_973018.1" gene_id="661785" score="1" boot="97%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_973018.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=661785" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=12539" speclong="Tribolium castaneum" specshort="T.castaneum" spec_id="34">
+          <description> PREDICTED: similar to oxidase/peroxidase</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_973252.2" gene_id="662034" score="0.077" boot="" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_973252.2" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=662034" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=12539" speclong="Tribolium castaneum" specshort="T.castaneum" spec_id="34">
+          <description> PREDICTED: similar to GA19195-PA</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_972021.1" gene_id="660719" score="0.063" boot="" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_972021.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=660719" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=12539" speclong="Tribolium castaneum" specshort="T.castaneum" spec_id="34">
+          <description> PREDICTED: similar to oxidase/peroxidase</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="35" speclong="Brugia malayi"/>
+    <clusters>
+      <cluster nr="797">
+        <protein prot_id="ENSP00000329869" gene_id="ENSG00000115705" score="1" boot="87%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000329869" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000115705" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Thyroid peroxidase Precursor (TPO)(EC 1.11.1.8) [Source:UniProtKB/Swiss-Prot;Acc:P07202]</description>
+          <alt_ids>
+            <alt_id id="P07202" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P07202"/>
+            <alt_id id="NP_000538" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000538"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="0.165" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.161" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.129" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001892119.1" gene_id="6095569" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001892119.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=6095569" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=9549" speclong="Brugia malayi" specshort="B.malayi" spec_id="35">
+          <description>Animal haem peroxidase family protein</description>
+          <alt_ids>
+            <alt_id id="A8NIF5" db="UniProt" link="http://www.uniprot.org/uniprot/?query=A8NIF5"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="44" speclong="Fusarium graminearum FG3"/>
+    <clusters>
+      <cluster nr="2130">
+        <protein prot_id="ENSP00000348645" gene_id="ENSG00000147485" score="1" boot="75%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000348645" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000147485" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Putative uncharacterized protein ENSP00000348645  [Source:UniProtKB/TrEMBL;Acc:B5ME43]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="0.316" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.3" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000329869" gene_id="ENSG00000115705" score="0.299" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000329869" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000115705" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Thyroid peroxidase Precursor (TPO)(EC 1.11.1.8) [Source:UniProtKB/Swiss-Prot;Acc:P07202]</description>
+          <alt_ids>
+            <alt_id id="P07202" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P07202"/>
+            <alt_id id="NP_000538" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000538"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.278" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FGST_10061" gene_id="FGSG_08151" score="1" boot="100%" genelink="http://www.broad.mit.edu/annotation/genome/fusarium_graminearum/GeneLocus.html?sp=SFGSG_08151" speclink="http://www.broad.mit.edu/annotation/genome/fusarium_graminearum/" speclong="Fusarium graminearum FG3" specshort="F.graminearum" spec_id="44">
+          <description>Fusarium graminearum hypothetical protein similar to animal haem peroxidase</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="48" speclong="Neurospora crassa OR74A"/>
+    <clusters>
+      <cluster nr="2304">
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="1" boot="61%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="0.467" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.462" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000329869" gene_id="ENSG00000115705" score="0.331" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000329869" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000115705" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Thyroid peroxidase Precursor (TPO)(EC 1.11.1.8) [Source:UniProtKB/Swiss-Prot;Acc:P07202]</description>
+          <alt_ids>
+            <alt_id id="P07202" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P07202"/>
+            <alt_id id="NP_000538" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000538"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000348645" gene_id="ENSG00000147485" score="0.204" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000348645" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000147485" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Putative uncharacterized protein ENSP00000348645  [Source:UniProtKB/TrEMBL;Acc:B5ME43]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="NCUT_04625" gene_id="NCU11286" score="1" boot="100%" genelink="http://www.broad.mit.edu/annotation/genome/neurospora/GeneLocus.html?sp=SNCU11286" speclink="http://www.broad.mit.edu/annotation/genome/neurospora/" speclong="Neurospora crassa OR74A" specshort="N.crassa" spec_id="48">
+          <description>Neurospora crassa conserved hypothetical protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="54" speclong="Stagonospora nodorum SN15"/>
+    <clusters>
+      <cluster nr="2305">
+        <protein prot_id="ENSP00000348645" gene_id="ENSG00000147485" score="1" boot="54%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000348645" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000147485" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Putative uncharacterized protein ENSP00000348645  [Source:UniProtKB/TrEMBL;Acc:B5ME43]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="0.33" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.314" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000329869" gene_id="ENSG00000115705" score="0.313" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000329869" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000115705" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Thyroid peroxidase Precursor (TPO)(EC 1.11.1.8) [Source:UniProtKB/Swiss-Prot;Acc:P07202]</description>
+          <alt_ids>
+            <alt_id id="NP_000538" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000538"/>
+            <alt_id id="P07202" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P07202"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.292" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="SNOT_05522" gene_id="SNOG_05522" score="1" boot="100%" genelink="http://www.broad.mit.edu/annotation/genome/stagonospora_nodoorum/GeneLocus.html?sp=SSNOG_05522" speclink="http://www.broad.mit.edu/annotation/genome/stagonospora_nodoorum/" speclong="Stagonospora nodorum SN15" specshort="S.nodoorum" spec_id="54">
+          <description>Stagonospora nodorum hypothetical protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="57" speclong="Pongo pygmaeus abelii"/>
+    <clusters>
+      <cluster nr="3394">
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSPPYP00000009253" gene_id="ENSPPYG00000008235" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/protview?peptide=ENSPPYP00000009253" genelink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/geneview?gene=ENSPPYG00000008235" speclink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/Info/Index/" speclong="Pongo pygmaeus abelii" specshort="P.pygmaeus" spec_id="57">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="58" speclong="Gallus gallus"/>
+    <clusters>
+      <cluster nr="3922">
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.247" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSGALP00000001480" gene_id="ENSGALG00000001004" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Gallus_gallus/protview?peptide=ENSGALP00000001480" genelink="http://Dec2008.archive.ensembl.org/Gallus_gallus/geneview?gene=ENSGALG00000001004" speclink="http://Dec2008.archive.ensembl.org/Gallus_gallus/Info/Index/" speclong="Gallus gallus" specshort="G.gallus" spec_id="58">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="59" speclong="Pan troglodytes"/>
+    <clusters>
+      <cluster nr="3376">
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSPTRP00000016043" gene_id="ENSPTRG00000009449" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/protview?peptide=ENSPTRP00000016043" genelink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/geneview?gene=ENSPTRG00000009449" speclink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/Info/Index/" speclong="Pan troglodytes" specshort="P.troglodytes" spec_id="59">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="60" speclong="Bos taurus"/>
+    <clusters>
+      <cluster nr="7520">
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.373" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSBTAP00000045056" gene_id="ENSBTAG00000033762" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Bos_taurus/protview?peptide=ENSBTAP00000045056" genelink="http://Dec2008.archive.ensembl.org/Bos_taurus/geneview?gene=ENSBTAG00000033762" speclink="http://Dec2008.archive.ensembl.org/Bos_taurus/Info/Index/" speclong="Bos taurus" specshort="B.taurus" spec_id="60">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="61" speclong="Canis familiaris"/>
+    <clusters>
+      <cluster nr="4883">
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSCAFP00000025760" gene_id="ENSCAFG00000017474" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Canis_familiaris/protview?peptide=ENSCAFP00000025760" genelink="http://Dec2008.archive.ensembl.org/Canis_familiaris/geneview?gene=ENSCAFG00000017474" speclink="http://Dec2008.archive.ensembl.org/Canis_familiaris/Info/Index/" speclong="Canis familiaris" specshort="C.familiaris" spec_id="61">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="62" speclong="Takifugu rubripes"/>
+    <clusters>
+      <cluster nr="4116">
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.43" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.059" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSTRUP00000005629" gene_id="ENSTRUG00000002432" score="1" boot="90%" protlink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/protview?peptide=ENSTRUP00000005629" genelink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/geneview?gene=ENSTRUG00000002432" speclink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/Info/Index/" speclong="Takifugu rubripes" specshort="T.rubripes" spec_id="62">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSTRUP00000028710" gene_id="ENSTRUG00000011376" score="0.251" boot="" protlink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/protview?peptide=ENSTRUP00000028710" genelink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/geneview?gene=ENSTRUG00000011376" speclink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/Info/Index/" speclong="Takifugu rubripes" specshort="T.rubripes" spec_id="62">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="63" speclong="Cavia porcellus"/>
+    <clusters>
+      <cluster nr="3458">
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSCPOP00000014678" gene_id="ENSCPOG00000027142" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/protview?peptide=ENSCPOP00000014678" genelink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/geneview?gene=ENSCPOG00000027142" speclink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/Info/Index/" speclong="Cavia porcellus" specshort="C.porcellus" spec_id="63">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="64" speclong="Equus caballus"/>
+    <clusters>
+      <cluster nr="3529">
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSECAP00000005617" gene_id="ENSECAG00000006662" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Equus_caballus/protview?peptide=ENSECAP00000005617" genelink="http://Dec2008.archive.ensembl.org/Equus_caballus/geneview?gene=ENSECAG00000006662" speclink="http://Dec2008.archive.ensembl.org/Equus_caballus/Info/Index/" speclong="Equus caballus" specshort="E.caballus" spec_id="64">
+          <description>Myeloperoxidase (Fragment). [Source:UniProtKB/TrEMBL;Acc:A5A4Z8]</description>
+          <alt_ids>
+            <alt_id id="A5A4Z8" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=A5A4Z8"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="66" speclong="Macaca mulatta"/>
+    <clusters>
+      <cluster nr="3142">
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSMMUP00000003023" gene_id="ENSMMUG00000002266" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/protview?peptide=ENSMMUP00000003023" genelink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/geneview?gene=ENSMMUG00000002266" speclink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/Info/Index/" speclong="Macaca mulatta" specshort="M.mulatta" spec_id="66">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="67" speclong="Oryzias latipes"/>
+    <clusters>
+      <cluster nr="3799">
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.425" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSORLP00000011722" gene_id="ENSORLG00000009349" score="1" boot="93%" protlink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/protview?peptide=ENSORLP00000011722" genelink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/geneview?gene=ENSORLG00000009349" speclink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/Info/Index/" speclong="Oryzias latipes" specshort="O.latipes" spec_id="67">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSORLP00000011661" gene_id="ENSORLG00000009297" score="0.63" boot="" protlink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/protview?peptide=ENSORLP00000011661" genelink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/geneview?gene=ENSORLG00000009297" speclink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/Info/Index/" speclong="Oryzias latipes" specshort="O.latipes" spec_id="67">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSORLP00000007991" gene_id="ENSORLG00000006362" score="0.145" boot="" protlink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/protview?peptide=ENSORLP00000007991" genelink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/geneview?gene=ENSORLG00000006362" speclink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/Info/Index/" speclong="Oryzias latipes" specshort="O.latipes" spec_id="67">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="68" speclong="Mus musculus"/>
+    <clusters>
+      <cluster nr="3790">
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSMUSP00000020779" gene_id="ENSMUSG00000009350" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Mus_musculus/protview?peptide=ENSMUSP00000020779" genelink="http://Dec2008.archive.ensembl.org/Mus_musculus/geneview?gene=ENSMUSG00000009350" speclink="http://Dec2008.archive.ensembl.org/Mus_musculus/Info/Index/" speclong="Mus musculus" specshort="M.musculus" spec_id="68">
+          <description>myeloperoxidase Gene [Source:MGI (curated);Acc:Mpo-001]</description>
+          <alt_ids>
+            <alt_id id="Q571G0" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q571G0"/>
+            <alt_id id="Q7TMS4" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q7TMS4"/>
+            <alt_id id="Q5NCP1" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q5NCP1"/>
+            <alt_id id="Q5NCP2" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q5NCP2"/>
+            <alt_id id="Q6RFG4" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q6RFG4"/>
+            <alt_id id="B2KGI2" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=B2KGI2"/>
+            <alt_id id="P11247" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11247"/>
+            <alt_id id="NP_034954" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_034954"/>
+            <alt_id id="MGI:97137" db="MGI ID" link="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:97137"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="70" speclong="Ornithorhynchus anatinus"/>
+    <clusters>
+      <cluster nr="4185">
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.44" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.074" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSOANP00000001964" gene_id="ENSOANG00000001232" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/protview?peptide=ENSOANP00000001964" genelink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/geneview?gene=ENSOANG00000001232" speclink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/Info/Index/" speclong="Ornithorhynchus anatinus" specshort="O.anatinus" spec_id="70">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="71" speclong="Rattus norvegicus"/>
+    <clusters>
+      <cluster nr="3347">
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSRNOP00000011108" gene_id="ENSRNOG00000008310" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/protview?peptide=ENSRNOP00000011108" genelink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/geneview?gene=ENSRNOG00000008310" speclink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/Info/Index/" speclong="Rattus norvegicus" specshort="R.norvegicus" spec_id="71">
+          <description>myeloperoxidase Gene [Source:MGI (curated);Acc:Mpo-001]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="72" speclong="Gasterosteus aculeatus"/>
+    <clusters>
+      <cluster nr="4175">
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.433" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.062" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSGACP00000011163" gene_id="ENSGACG00000008429" score="1" boot="93%" protlink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/protview?peptide=ENSGACP00000011163" genelink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/geneview?gene=ENSGACG00000008429" speclink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/Info/Index/" speclong="Gasterosteus aculeatus" specshort="G.aculeatus" spec_id="72">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSGACP00000022681" gene_id="ENSGACG00000017166" score="0.294" boot="" protlink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/protview?peptide=ENSGACP00000022681" genelink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/geneview?gene=ENSGACG00000017166" speclink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/Info/Index/" speclong="Gasterosteus aculeatus" specshort="G.aculeatus" spec_id="72">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="73" speclong="Tetraodon nigroviridis"/>
+    <clusters>
+      <cluster nr="3715">
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.428" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.055" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSTNIP00000011972" gene_id="ENSTNIG00000009113" score="1" boot="87%" protlink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/protview?peptide=ENSTNIP00000011972" genelink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/geneview?gene=ENSTNIG00000009113" speclink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/Info/Index/" speclong="Tetraodon nigroviridis" specshort="T.nigroviridis" spec_id="73">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSTNIP00000018929" gene_id="ENSTNIG00000015844" score="0.238" boot="" protlink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/protview?peptide=ENSTNIP00000018929" genelink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/geneview?gene=ENSTNIG00000015844" speclink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/Info/Index/" speclong="Tetraodon nigroviridis" specshort="T.nigroviridis" spec_id="73">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="74" speclong="Xenopus tropicalis"/>
+    <clusters>
+      <cluster nr="2739">
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="0.218" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSXETP00000042718" gene_id="ENSXETG00000019727" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/protview?peptide=ENSXETP00000042718" genelink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/geneview?gene=ENSXETG00000019727" speclink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/Info/Index/" speclong="Xenopus tropicalis" specshort="X.tropicalis" spec_id="74">
+          <description>Eosinophil peroxidase precursor (EC 1.11.1.7) (EPO) [Contains: Eosinophil peroxidase light chain; Eosinophil peroxidase heavy chain]. [Source:UniProtKB/Swiss-Prot;Acc:P11678] [from human gene ENSG00000121053]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSXETP00000017008" gene_id="ENSXETG00000007787" score="0.25" boot="" protlink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/protview?peptide=ENSXETP00000017008" genelink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/geneview?gene=ENSXETG00000007787" speclink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/Info/Index/" speclong="Xenopus tropicalis" specshort="X.tropicalis" spec_id="74">
+          <description>Eosinophil peroxidase precursor (EC 1.11.1.7) (EPO) [Contains: Eosinophil peroxidase light chain; Eosinophil peroxidase heavy chain]. [Source:UniProtKB/Swiss-Prot;Acc:P11678] [from human gene ENSG00000121053]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="75" speclong="Danio rerio"/>
+    <clusters>
+      <cluster nr="3157">
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.418" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSDARP00000043960" gene_id="ENSDARG00000019521" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000043960" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000019521" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description>myeloid-specific peroxidase [Source:RefSeq_peptide;Acc:NP_997944]</description>
+          <alt_ids>
+            <alt_id id="Q90Z78" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q90Z78"/>
+            <alt_id id="ZDB-GENE-030131-9460" db="ZFIN ID" link="zfin.org/cgi-bin/ZFIN_jump?record=ZDB-GENE-030131-9460"/>
+            <alt_id id="mpx" db="ZFIN symbol" link="http://zfin.org/cgi-bin/webdriver?MIval=aa-newmrkrselect.apg&amp;compare=contains&amp;input_name=zgc%3Ampx&amp;input_acc=&amp;marker_type=all&amp;lg=0&amp;WINSIZE=25&amp;query_results=exist&amp;START=1&amp;action=SEARCH"/>
+            <alt_id id="Q7SZR3" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q7SZR3"/>
+            <alt_id id="Q6NUY7" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q6NUY7"/>
+            <alt_id id="Q90WB3" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q90WB3"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="76" speclong="Dictyostelium discoideum"/>
+    <clusters>
+      <cluster nr="1677">
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="0.587" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.374" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000329869" gene_id="ENSG00000115705" score="0.28" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000329869" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000115705" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Thyroid peroxidase Precursor (TPO)(EC 1.11.1.8) [Source:UniProtKB/Swiss-Prot;Acc:P07202]</description>
+          <alt_ids>
+            <alt_id id="P07202" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P07202"/>
+            <alt_id id="NP_000538" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000538"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000348645" gene_id="ENSG00000147485" score="0.131" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000348645" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000147485" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Putative uncharacterized protein ENSP00000348645  [Source:UniProtKB/TrEMBL;Acc:B5ME43]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="DDB0191269" gene_id="DDB_G0277275" score="1" boot="100%" protlink="http://dictybase.org/db/cgi-bin/gene_page.pl?dictybaseid=DDB0191269" genelink="http://dictybase.org/db/cgi-bin/gene_page.pl?dictybaseid=DDB_G0277275" speclink="http://dictybase.org/" speclong="Dictyostelium discoideum" specshort="D.discoideum" spec_id="76">
+          <description>animal heme peroxidase family protein</description>
+          <alt_ids>
+            <alt_id id="Q6TMK4" db="UniProt AC" link="http://www.uniprot.org/uniprot/?query=Q6TMK4"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="88" speclong="Thalassiosira pseudonana"/>
+    <clusters>
+      <cluster nr="1083">
+        <protein prot_id="ENSP00000348645" gene_id="ENSG00000147485" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000348645" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000147485" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Putative uncharacterized protein ENSP00000348645  [Source:UniProtKB/TrEMBL;Acc:B5ME43]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="0.254" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.237" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000329869" gene_id="ENSG00000115705" score="0.235" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000329869" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000115705" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Thyroid peroxidase Precursor (TPO)(EC 1.11.1.8) [Source:UniProtKB/Swiss-Prot;Acc:P07202]</description>
+          <alt_ids>
+            <alt_id id="P07202" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P07202"/>
+            <alt_id id="NP_000538" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000538"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.212" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="267958" gene_id="267958" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Thaps3&amp;tid=267958" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Thaps3&amp;tid=267958" speclink="http://genome.jgi-psf.org/Thaps3/Thaps3.home.html" speclong="Thalassiosira pseudonana" specshort="T.pseudonana" spec_id="88">
+          <description>Peroxidase/oxygenase</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="93" speclong="Arabidopsis thaliana"/>
+    <clusters>
+      <cluster nr="2790">
+        <protein prot_id="ENSP00000225371" gene_id="ENSG00000121053" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000225371" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000121053" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Eosinophil peroxidase Precursor (EPO)(EC 1.11.1.7) [Contains Eosinophil peroxidase light chain;Eosinophil peroxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P11678]</description>
+          <alt_ids>
+            <alt_id id="P11678" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P11678"/>
+            <alt_id id="NP_000493" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000493"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000354612" gene_id="ENSG00000095303" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000354612" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000095303" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Prostaglandin G/H synthase 1 Precursor (EC 1.14.99.1)(Cyclooxygenase-1)(COX-1)(Prostaglandin-endoperoxide synthase 1)(Prostaglandin H2 synthase 1)(PGH synthase 1)(PGHS-1)(PHS 1) [Source:UniProtKB/Swiss-Prot;Acc:P23219]</description>
+          <alt_ids>
+            <alt_id id="P23219" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P23219"/>
+            <alt_id id="NP_000953" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000953"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000344419" gene_id="ENSG00000005381" score="0.68" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000344419" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000005381" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Myeloperoxidase Precursor (MPO)(EC 1.11.1.7) [Contains 89 kDa myeloperoxidase;84 kDa myeloperoxidase;Myeloperoxidase light chain;Myeloperoxidase heavy chain] [Source:UniProtKB/Swiss-Prot;Acc:P05164]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000356438" gene_id="ENSG00000073756" score="0.6" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000356438" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000073756" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Prostaglandin G/H synthase 2 Precursor (EC 1.14.99.1)(Cyclooxygenase-2)(COX-2)(Prostaglandin-endoperoxide synthase 2)(Prostaglandin H2 synthase 2)(PGH synthase 2)(PGHS-2)(PHS II) [Source:UniProtKB/Swiss-Prot;Acc:P35354]</description>
+          <alt_ids>
+            <alt_id id="P35354" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P35354"/>
+            <alt_id id="NP_000954" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000954"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000262290" gene_id="ENSG00000167419" score="0.471" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000262290" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000167419" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Lactoperoxidase Precursor (LPO)(EC 1.11.1.7)(Salivary peroxidase)(SPO) [Source:UniProtKB/Swiss-Prot;Acc:P22079]</description>
+          <alt_ids>
+            <alt_id id="P22079" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P22079"/>
+            <alt_id id="NP_006142" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006142"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000329869" gene_id="ENSG00000115705" score="0.375" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000329869" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000115705" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Thyroid peroxidase Precursor (TPO)(EC 1.11.1.8) [Source:UniProtKB/Swiss-Prot;Acc:P07202]</description>
+          <alt_ids>
+            <alt_id id="P07202" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P07202"/>
+            <alt_id id="NP_000538" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000538"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000348645" gene_id="ENSG00000147485" score="0.232" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000348645" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000147485" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Putative uncharacterized protein ENSP00000348645  [Source:UniProtKB/TrEMBL;Acc:B5ME43]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="At1g73680.1" gene_id="At1g73680" score="1" boot="100%" protlink="http://arabidopsis.org/servlets/TairObject?type=aa_sequence&amp;name=At1g73680.1" genelink="http://arabidopsis.org/servlets/TairObject?type=locus&amp;name=At1g73680" speclink="http://arabidopsis.org/" speclong="Arabidopsis thaliana" specshort="A.thaliana" spec_id="93">
+          <description>pathogen-responsive alpha-dioxygenase, putative similar to pathogen-inducible alpha-dioxygenase [Nicotiana attenuata] GI:12539609; contains Pfam profile PF03098: Animal haem peroxidase</description>
+          <alt_ids>
+            <alt_id id="Q9C9U3" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=Q9C9U3"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="At3g01420.1" gene_id="At3g01420" score="1" boot="100%" protlink="http://arabidopsis.org/servlets/TairObject?type=aa_sequence&amp;name=At3g01420.1" genelink="http://arabidopsis.org/servlets/TairObject?type=locus&amp;name=At3g01420" speclink="http://arabidopsis.org/" speclong="Arabidopsis thaliana" specshort="A.thaliana" spec_id="93">
+          <description>pathogen-responsive alpha-dioxygenase, putative similar to pathogen-inducible alpha-dioxygenase [Nicotiana attenuata] GI:12539609; contains Pfam profile PF03098: Animal haem peroxidase</description>
+          <alt_ids>
+            <alt_id id="Q9SGH6" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=Q9SGH6"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+</cluster_list>

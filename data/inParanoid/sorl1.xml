@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cluster_list>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="1" speclong="Aedes aegypti"/>
+    <clusters>
+      <cluster nr="289">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="AAEL005861-PA" gene_id="AAEL005861" score="1" boot="100%" protlink="http://dec2008.archive.ensembl.org/Aedes_aegypti/protview?peptide=AAEL005861-PA" genelink="http://dec2008.archive.ensembl.org/Aedes_aegypti/geneview?gene=AAEL005861" speclink="http://dec2008.archive.ensembl.org/Aedes_aegypti/" speclong="Aedes aegypti" specshort="A.aegypti" spec_id="1">
+          <description>vacuolar sorting protein (vps)</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="2" speclong="Anopheles gambiae"/>
+    <clusters>
+      <cluster nr="396">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="AGAP010896-PA" gene_id="AGAP010896" score="1" boot="100%" protlink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/protview?peptide=AGAP010896-PA" genelink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/geneview?gene=AGAP010896" speclink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/" speclong="Anopheles gambiae" specshort="A.gambiae" spec_id="2">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_309794" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_309794"/>
+            <alt_id id="XP_309795" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_309795"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="3" speclong="Ciona intestinalis"/>
+    <clusters>
+      <cluster nr="401">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCINP00000024362" gene_id="ENSCING00000013226" score="1" boot="100%" protlink="http://dec2008.archive.ensembl.org/Ciona_intestinalis/protview?peptide=ENSCINP00000024362" genelink="http://dec2008.archive.ensembl.org/Ciona_intestinalis/geneview?gene=ENSCING00000013226" speclink="http://dec2008.archive.ensembl.org/Ciona_intestinalis/" speclong="Ciona intestinalis" specshort="C.intestinalis" spec_id="3">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="4" speclong="Ciona savignyi"/>
+    <clusters>
+      <cluster nr="348">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCSAVP00000004828" gene_id="ENSCSAVG00000002878" score="1" boot="100%" protlink="http://dec2008.archive.ensembl.org/Ciona_savignyi/protview?peptide=ENSCSAVP00000004828" genelink="http://dec2008.archive.ensembl.org/Ciona_savignyi/geneview?gene=ENSCSAVG00000002878" speclink="http://dec2008.archive.ensembl.org/Ciona_savignyi/" speclong="Ciona savignyi" specshort="C.savignyi" spec_id="4">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="18" speclong="Culex pipiens"/>
+    <clusters>
+      <cluster nr="254">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="CPIJ005423" gene_id="CPIJ005423" score="1" boot="100%" protlink="http://cpipiens.vectorbase.org/Genome/GeneView/?gene=CPIJ005423" genelink="http://cpipiens.vectorbase.org/Genome/GeneView/?gene=CPIJ005423" speclink="http://cpipiens.vectorbase.org" speclong="Culex pipiens" specshort="C.pipiens" spec_id="18">
+          <description>vacuolar sorting protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="19" speclong="Pediculus humanus"/>
+    <clusters>
+      <cluster nr="337">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="PHUM001985-PA" gene_id="PHUM001985" score="1" boot="100%" protlink="http://www.tigr.org/tigr-scripts/gbrowse/gbrowse/louse/?=PHUM001985-PA" genelink="http://www.tigr.org/tigr-scripts/gbrowse/gbrowse/louse/?=PHUM001985" speclink="http://phumanus.vectorbase.org" speclong="Pediculus humanus" specshort="P.humanus" spec_id="19">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="20" speclong="Ixodes scapularis"/>
+    <clusters>
+      <cluster nr="961">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ISCW016499-PA" gene_id="ISCW016499" score="1" boot="100%" protlink="http://iscapularis.vectorbase.org/Genome/ProtView/?db=core;peptide=ISCW016499-PA" genelink="http://iscapularis.vectorbase.org/Genome/GeneView/?gene=ISCW016499" speclink="http://iscapularis.vectorbase.org" speclong="Ixodes scapularis" specshort="I.scapularis" spec_id="20">
+          <description>low-density lipoprotein receptor, putative</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="23" speclong="Branchiostoma floridae"/>
+    <clusters>
+      <cluster nr="224">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="127132" gene_id="127132" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=127132" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=127132" speclink="http://genome.jgi-psf.org/Brafl1/Brafl1.home.html" speclong="Branchiostoma floridae" specshort="B.floridae" spec_id="23">
+          <description>Projectin/twitchin and related proteins</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="118765" gene_id="118765" score="0.769" boot="" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=118765" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=118765" speclink="http://genome.jgi-psf.org/Brafl1/Brafl1.home.html" speclong="Branchiostoma floridae" specshort="B.floridae" spec_id="23">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="24" speclong="Capitella spI"/>
+    <clusters>
+      <cluster nr="277">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="219450" gene_id="219450" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Capca1&amp;tid=219450" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Capca1&amp;tid=219450" speclink="http://genome.jgi-psf.org/Capca1/Capca1.home.html" speclong="Capitella spI" specshort="C.spI" spec_id="24">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="25" speclong="Daphnia pulex"/>
+    <clusters>
+      <cluster nr="227">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="304684" gene_id="304684" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Dappu1&amp;tid=304684" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Dappu1&amp;tid=304684" speclink="http://genome.jgi-psf.org/Dappu1/Dappu1.home.html" speclong="Daphnia pulex" specshort="D.pulex" spec_id="25">
+          <description>Low-density lipoprotein receptors containing Ca2+-binding EGF-like domains</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="26" speclong="Helobdella robusta"/>
+    <clusters>
+      <cluster nr="361">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="194679" gene_id="194679" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Helro1&amp;tid=194679" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Helro1&amp;tid=194679" speclink="http://genome.jgi-psf.org/Helro1/Helro1.home.html" speclong="Helobdella robusta" specshort="H.robusta" spec_id="26">
+          <description>Low-density lipoprotein receptors containing Ca2+-binding EGF-like domains</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="27" speclong="Lottia gigantea"/>
+    <clusters>
+      <cluster nr="556">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="126149" gene_id="126149" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Lotgi1&amp;tid=126149" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Lotgi1&amp;tid=126149" speclink="http://genome.jgi-psf.org/Lotgi1/Lotgi1.home.html" speclong="Lottia gigantea" specshort="L.gigantea" spec_id="27">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="28" speclong="Nematostella vectensis"/>
+    <clusters>
+      <cluster nr="252">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="240569" gene_id="240569" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Nemve1&amp;tid=240569" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Nemve1&amp;tid=240569" speclink="http://genome.jgi-psf.org/Nemve1/Nemve1.home.html" speclong="Nematostella vectensis" specshort="N.vectensis" spec_id="28">
+          <description>Low-density lipoprotein receptors containing Ca2+-binding EGF-like domains</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="31" speclong="Apis mellifera"/>
+    <clusters>
+      <cluster nr="231">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_392519.1" gene_id="408987" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_392519.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=408987" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=9555" speclong="Apis mellifera" specshort="A.mellifera" spec_id="31">
+          <description> PREDICTED: similar to sortilin-related receptor containing LDLR class A repeats preproprotein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="32" speclong="Nasonia vitripennis"/>
+    <clusters>
+      <cluster nr="226">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001606252.1" gene_id="100122642" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001606252.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100122642" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13647" speclong="Nasonia vitripennis" specshort="N.vitripennis" spec_id="32">
+          <description> PREDICTED: similar to vacuolar sorting protein (vps)</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="34" speclong="Tribolium castaneum"/>
+    <clusters>
+      <cluster nr="254">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_966891.2" gene_id="655269" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_966891.2" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=655269" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=12539" speclong="Tribolium castaneum" specshort="T.castaneum" spec_id="34">
+          <description> PREDICTED: similar to vacuolar sorting protein (vps)</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="36" speclong="Aspergillus fumigatus"/>
+    <clusters>
+      <cluster nr="1433">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="AFUA_8G02780.t1" gene_id="AFUA_8G02780" score="1" boot="100%" genelink="http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene&amp;cmd=search&amp;term=AFUA_8G02780" speclink="http://www.sanger.ac.uk/Projects/A_fumigatus/" speclong="Aspergillus fumigatus" specshort="A.fumigatus" spec_id="36">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="51" speclong="Saccharomyces cerevisiae S288c"/>
+    <clusters>
+      <cluster nr="1057">
+        <protein prot_id="ENSP00000256637" gene_id="ENSG00000134243" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000256637" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000134243" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin Precursor (Neurotensin receptor 3)(NTR3)(NT3)(Glycoprotein 95)(Gp95)(100 kDa NT receptor) [Source:UniProtKB/Swiss-Prot;Acc:Q99523]</description>
+          <alt_ids>
+            <alt_id id="Q99523" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q99523"/>
+            <alt_id id="NP_002950" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_002950"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000376876" gene_id="ENSG00000156395" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000376876" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000156395" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>VPS10 domain-containing receptor SorCS3 Precursor  [Source:UniProtKB/Swiss-Prot;Acc:Q9UPU3]</description>
+          <alt_ids>
+            <alt_id id="Q9UPU3" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q9UPU3"/>
+            <alt_id id="NP_055793" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_055793"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000345964" gene_id="ENSG00000108018" score="0.619" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000345964" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108018" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>VPS10 domain-containing receptor SorCS1 Precursor (hSorCS) [Source:UniProtKB/Swiss-Prot;Acc:Q8WY21]</description>
+          <alt_ids>
+            <alt_id id="NP_001013049" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001013049"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000329124" gene_id="ENSG00000184985" score="0.332" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000329124" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000184985" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>VPS10 domain-containing receptor SorCS2 Precursor  [Source:UniProtKB/Swiss-Prot;Acc:Q96PQ0]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="0.052" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="YBL017C" gene_id="PEP1" score="1" boot="100%" protlink="http://www.yeastgenome.org/cgi-bin/locus.fpl?locus=YBL017C" genelink="http://www.yeastgenome.org/cgi-bin/locus.fpl?locus=PEP1" speclink="http://www.yeastgenome.org/" speclong="Saccharomyces cerevisiae S288c" specshort="S.cerevisiae" spec_id="51">
+          <description>Type I transmembrane sorting receptor for multiple vacuolar hydrolases; cycles between the late-Golgi and prevacuolar endosome-like compartments</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="YNR065C" gene_id="YNR065C" score="1" boot="100%" protlink="http://www.yeastgenome.org/cgi-bin/locus.fpl?locus=YNR065C" genelink="http://www.yeastgenome.org/cgi-bin/locus.fpl?locus=YNR065C" speclink="http://www.yeastgenome.org/" speclong="Saccharomyces cerevisiae S288c" specshort="S.cerevisiae" spec_id="51">
+          <description>Protein of unknown function; protein-protein interactions suggest a possible role in actin patch formation; YNR065C is not an essential gene</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="YJL222W" gene_id="VTH2" score="0.866" boot="" protlink="http://www.yeastgenome.org/cgi-bin/locus.fpl?locus=YJL222W" genelink="http://www.yeastgenome.org/cgi-bin/locus.fpl?locus=VTH2" speclink="http://www.yeastgenome.org/" speclong="Saccharomyces cerevisiae S288c" specshort="S.cerevisiae" spec_id="51">
+          <description>Putative membrane glycoprotein with strong similarity to Vth1p and Pep1p/Vps10p, may be involved in vacuolar protein sorting</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="YIL173W" gene_id="VTH1" score="0.865" boot="" protlink="http://www.yeastgenome.org/cgi-bin/locus.fpl?locus=YIL173W" genelink="http://www.yeastgenome.org/cgi-bin/locus.fpl?locus=VTH1" speclink="http://www.yeastgenome.org/" speclong="Saccharomyces cerevisiae S288c" specshort="S.cerevisiae" spec_id="51">
+          <description>Putative membrane glycoprotein with strong similarity to Vth2p and Pep1p/Vps10p, may be involved in vacuolar protein sorting</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="57" speclong="Pongo pygmaeus abelii"/>
+    <clusters>
+      <cluster nr="221">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSPPYP00000004559" gene_id="ENSPPYG00000003981" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/protview?peptide=ENSPPYP00000004559" genelink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/geneview?gene=ENSPPYG00000003981" speclink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/Info/Index/" speclong="Pongo pygmaeus abelii" specshort="P.pygmaeus" spec_id="57">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="58" speclong="Gallus gallus"/>
+    <clusters>
+      <cluster nr="160">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSGALP00000010625" gene_id="ENSGALG00000006598" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Gallus_gallus/protview?peptide=ENSGALP00000010625" genelink="http://Dec2008.archive.ensembl.org/Gallus_gallus/geneview?gene=ENSGALG00000006598" speclink="http://Dec2008.archive.ensembl.org/Gallus_gallus/Info/Index/" speclong="Gallus gallus" specshort="G.gallus" spec_id="58">
+          <description>Sortilin-related receptor (Sorting protein-related receptor containing LDLR class A repeats) (SorLA) (SorLA-1) (Low-density lipoprotein receptor relative with 11 ligand-binding repeats) (LDLR relative with 11 ligand-binding repeats) (LR11) (Fragment). [Source:UniProtKB/Swiss-Prot;Acc:Q98930]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="59" speclong="Pan troglodytes"/>
+    <clusters>
+      <cluster nr="239">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSPTRP00000007532" gene_id="ENSPTRG00000004398" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/protview?peptide=ENSPTRP00000007532" genelink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/geneview?gene=ENSPTRG00000004398" speclink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/Info/Index/" speclong="Pan troglodytes" specshort="P.troglodytes" spec_id="59">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="60" speclong="Bos taurus"/>
+    <clusters>
+      <cluster nr="147">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSBTAP00000019457" gene_id="ENSBTAG00000014611" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Bos_taurus/protview?peptide=ENSBTAP00000019457" genelink="http://Dec2008.archive.ensembl.org/Bos_taurus/geneview?gene=ENSBTAG00000014611" speclink="http://Dec2008.archive.ensembl.org/Bos_taurus/Info/Index/" speclong="Bos taurus" specshort="B.taurus" spec_id="60">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="61" speclong="Canis familiaris"/>
+    <clusters>
+      <cluster nr="174">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCAFP00000017344" gene_id="ENSCAFG00000011745" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Canis_familiaris/protview?peptide=ENSCAFP00000017344" genelink="http://Dec2008.archive.ensembl.org/Canis_familiaris/geneview?gene=ENSCAFG00000011745" speclink="http://Dec2008.archive.ensembl.org/Canis_familiaris/Info/Index/" speclong="Canis familiaris" specshort="C.familiaris" spec_id="61">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="62" speclong="Takifugu rubripes"/>
+    <clusters>
+      <cluster nr="593">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSTRUP00000032097" gene_id="ENSTRUG00000012673" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/protview?peptide=ENSTRUP00000032097" genelink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/geneview?gene=ENSTRUG00000012673" speclink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/Info/Index/" speclong="Takifugu rubripes" specshort="T.rubripes" spec_id="62">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="63" speclong="Cavia porcellus"/>
+    <clusters>
+      <cluster nr="155">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCPOP00000013835" gene_id="ENSCPOG00000015350" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/protview?peptide=ENSCPOP00000013835" genelink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/geneview?gene=ENSCPOG00000015350" speclink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/Info/Index/" speclong="Cavia porcellus" specshort="C.porcellus" spec_id="63">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="64" speclong="Equus caballus"/>
+    <clusters>
+      <cluster nr="199">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSECAP00000017252" gene_id="ENSECAG00000019083" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Equus_caballus/protview?peptide=ENSECAP00000017252" genelink="http://Dec2008.archive.ensembl.org/Equus_caballus/geneview?gene=ENSECAG00000019083" speclink="http://Dec2008.archive.ensembl.org/Equus_caballus/Info/Index/" speclong="Equus caballus" specshort="E.caballus" spec_id="64">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="68" speclong="Mus musculus"/>
+    <clusters>
+      <cluster nr="179">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMUSP00000058613" gene_id="ENSMUSG00000049313" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Mus_musculus/protview?peptide=ENSMUSP00000058613" genelink="http://Dec2008.archive.ensembl.org/Mus_musculus/geneview?gene=ENSMUSG00000049313" speclink="http://Dec2008.archive.ensembl.org/Mus_musculus/Info/Index/" speclong="Mus musculus" specshort="M.musculus" spec_id="68">
+          <description>sortilin-related receptor, LDLR class A repeats-containing Gene [Source:MGI (curated);Acc:Sorl1-001]</description>
+          <alt_ids>
+            <alt_id id="Q3UHM3" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q3UHM3"/>
+            <alt_id id="O88307" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=O88307"/>
+            <alt_id id="NP_035566" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_035566"/>
+            <alt_id id="MGI:1202296" db="MGI ID" link="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1202296"/>
+            <alt_id id="Q8CE39" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q8CE39"/>
+            <alt_id id="Q3U2X9" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q3U2X9"/>
+            <alt_id id="Q3UV32" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q3UV32"/>
+            <alt_id id="Q8C2R1" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q8C2R1"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="69" speclong="Monodelphis domestica"/>
+    <clusters>
+      <cluster nr="148">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMODP00000016287" gene_id="ENSMODG00000013024" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/protview?peptide=ENSMODP00000016287" genelink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/geneview?gene=ENSMODG00000013024" speclink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/Info/Index/" speclong="Monodelphis domestica" specshort="M.domestica" spec_id="69">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="70" speclong="Ornithorhynchus anatinus"/>
+    <clusters>
+      <cluster nr="96">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSOANP00000002823" gene_id="ENSOANG00000001772" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/protview?peptide=ENSOANP00000002823" genelink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/geneview?gene=ENSOANG00000001772" speclink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/Info/Index/" speclong="Ornithorhynchus anatinus" specshort="O.anatinus" spec_id="70">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="71" speclong="Rattus norvegicus"/>
+    <clusters>
+      <cluster nr="806">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSRNOP00000056722" gene_id="ENSRNOG00000024374" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/protview?peptide=ENSRNOP00000056722" genelink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/geneview?gene=ENSRNOG00000024374" speclink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/Info/Index/" speclong="Rattus norvegicus" specshort="R.norvegicus" spec_id="71">
+          <description>LR11 (Fragment). [Source:UniProtKB/TrEMBL;Acc:Q9R0N2]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="73" speclong="Tetraodon nigroviridis"/>
+    <clusters>
+      <cluster nr="120">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSTNIP00000017394" gene_id="ENSTNIG00000014377" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/protview?peptide=ENSTNIP00000017394" genelink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/geneview?gene=ENSTNIG00000014377" speclink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/Info/Index/" speclong="Tetraodon nigroviridis" specshort="T.nigroviridis" spec_id="73">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="74" speclong="Xenopus tropicalis"/>
+    <clusters>
+      <cluster nr="386">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSXETP00000036914" gene_id="ENSXETG00000016937" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/protview?peptide=ENSXETP00000036914" genelink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/geneview?gene=ENSXETG00000016937" speclink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/Info/Index/" speclong="Xenopus tropicalis" specshort="X.tropicalis" spec_id="74">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="75" speclong="Danio rerio"/>
+    <clusters>
+      <cluster nr="102">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSDARP00000073688" gene_id="ENSDARG00000013892" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000073688" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000013892" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="86" speclong="Tetrahymena thermophila"/>
+    <clusters>
+      <cluster nr="790">
+        <protein prot_id="ENSP00000260197" gene_id="ENSG00000137642" score="1" boot="77%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000260197" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000137642" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Sortilin-related receptor Precursor (Sorting protein-related receptor containing LDLR class A repeats)(SorLA)(SorLA-1)(Low-density lipoprotein receptor relative with 11 ligand-binding repeats)(LDLR relative with 11 ligand-binding repeats)(LR11) [Source:UniProtKB/Swiss-Prot;Acc:Q92673]</description>
+          <alt_ids>
+            <alt_id id="Q92673" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92673"/>
+            <alt_id id="NP_003096" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_003096"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="3714.m00052" gene_id="3714.m00052" score="1" boot="100%" protlink="http://www.ciliate.org/cgi-bin/gbrowse/tt-genomic/?name=3714.m00052" genelink="http://www.ciliate.org/cgi-bin/gbrowse/tt-genomic/?name=3714.m00052" speclink="http://www.ciliate.org/" speclong="Tetrahymena thermophila" specshort="T.thermophila" spec_id="86">
+          <description>BNR/Asp-box repeat family protein</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="3810.m01921" gene_id="3810.m01921" score="0.136" boot="" protlink="http://www.ciliate.org/cgi-bin/gbrowse/tt-genomic/?name=3810.m01921" genelink="http://www.ciliate.org/cgi-bin/gbrowse/tt-genomic/?name=3810.m01921" speclink="http://www.ciliate.org/" speclong="Tetrahymena thermophila" specshort="T.thermophila" spec_id="86">
+          <description>BNR/Asp-box repeat family protein</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="3710.m00045" gene_id="3710.m00045" score="0.098" boot="" protlink="http://www.ciliate.org/cgi-bin/gbrowse/tt-genomic/?name=3710.m00045" genelink="http://www.ciliate.org/cgi-bin/gbrowse/tt-genomic/?name=3710.m00045" speclink="http://www.ciliate.org/" speclong="Tetrahymena thermophila" specshort="T.thermophila" spec_id="86">
+          <description>BNR/Asp-box repeat family protein</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="3679.m00091" gene_id="3679.m00091" score="0.053" boot="" protlink="http://www.ciliate.org/cgi-bin/gbrowse/tt-genomic/?name=3679.m00091" genelink="http://www.ciliate.org/cgi-bin/gbrowse/tt-genomic/?name=3679.m00091" speclink="http://www.ciliate.org/" speclong="Tetrahymena thermophila" specshort="T.thermophila" spec_id="86">
+          <description>BNR/Asp-box repeat family protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+</cluster_list>

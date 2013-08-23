@@ -1,0 +1,184 @@
+Watch is ON 
+Collapsing trees with TBR 
+Time reset 
+Tree file: tmp.tre 
+tsave 0.00 secs. 
+Record search status: every 1 rep(s). 
+
+
+        ------------------------------------------------------------
+        Search routine used:
+           finding optimal score 20 times independently, using defaults
+           of "xmult" plus 10 cycles of tree-drifting (Goloboff
+           1999).
+           Note: for consensus calculation, trees TBR-collapsed.
+           ALSO NOTE: THIS IS AN OVERKILL FOR MOST DATA SETS!
+        ------------------------------------------------------------ 
+Space for 1000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+0     FUSE       5           856         856          0:00:00    326,033       
+1     FUSE       5           856         856          0:00:00    645,989       
+2     FUSE       5           856         856          0:00:00    976,795       
+3     FUSE       5           856         856          0:00:00    1,300,670     
+4     FUSE       5           856         856          0:00:00    1,622,360     
+5     FUSE       5           856         856          0:00:00    1,944,986     
+6     FUSE       5           856         856          0:00:00    2,269,147     
+7     FUSE       5           856         856          0:00:00    2,588,574     
+8     FUSE       5           856         856          0:00:00    2,910,173     
+9     FUSE       5           856         856          0:00:00    3,246,704     
+10    FUSE       5           856         856          0:00:00    3,569,937     
+11    FUSE       5           856         856          0:00:00    3,894,133     
+12    FUSE       5           856         856          0:00:00    4,227,375     
+13    FUSE       5           856         856          0:00:01    4,554,690     
+14    FUSE       5           856         856          0:00:01    4,876,432     
+15    FUSE       5           856         856          0:00:01    5,193,858     
+16    FUSE       5           856         856          0:00:01    5,518,349     
+17    FUSE       5           856         856          0:00:01    5,839,364     
+18    FUSE       5           856         856          0:00:01    6,154,006     
+19    FUSE       5           856         856          0:00:01    6,471,917     
+19    FUSE       5           ------      856          0:00:01    6,471,917     
+Completed search.
+Total rearrangements examined: 6,471,917. 
+No target score defined.  Best score hit 20 times.
+Best score: 856.  1 trees retained. 
+xmult 1.00 secs. 
+1 trees saved to tmp.tre           
+save 0.00 secs. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (with TBR) 
+Strict consensus of 1 trees (0 taxa excluded) calculated, as tree 1 
+nelsen 0.00 secs. 
+
+
+        ------------------------------------------------------------
+        Synapomorphies of 1 trees plotted on the strict
+        consensus.  Only unambiguous synapomorphies, occuring in
+        every tree, are indicated. This makes results much more
+        conservative!
+        ------------------------------------------------------------ 
+Collapsing branches with no possible support ("rule 3") 
+ 
+Synapomorphies common to 1 trees 
+   ,-- 'Cricetulus_griseus'
+   |                                                                          ,--38,39,40,47,62,128,228,229,260,262,431,437,447,449,488,519,626 'Mus_musculus'
+|--|  ,--56,86,108,121,155,169,224,291,303,334,353,379,383,478,531,553,577,603---43,44,72,88,123,202,246,318,328,330,345,346,354,382,457,460,482,557,600,607,638 'Rattus_norvegicus'
+   |  |                                                                                                                                 ,--53,59,64,66,68,106,122,134,139,203,231,258,273,277,295,296,298,308,313,321,323,357,377,401,402,414,417,420,429,434,466,470,474,476,482,483,553,556,564,601,604,610,617,623,633 'Cavia_porcellus'
+   `--|                                                                                                                                 |                                               ,--43,54,62,64,70,72,80,81,84,194,202,305,322,337,350,352,380,420,428,448,474,477,485,642 'Oryctolagus_cuniculus'
+      |                                                                                                                                 |                                               |                                                   ,--44,45,47,53,64,85,185,280,304,325,342,343,452,531,569,579,600,607 'Bos_taurus'
+      `--72,80,84,85,179,194,278,282,302,305,345,350,352,356,412,423,424,431,432,436,440,442,446,449,452,461,481,526,562,575,580,585,588|                                         ,--640|                       ,--49,63,121,302,351,479,564---72,122,204,241,297,300,309,429 'Orcinus_orca'
+                                                                                                                                        |                                         |     `--60,61,137,145,442,450|            ,--48,49,62,64,87,108,118,119,122,176,209,312,321,416,479,481,483,484,519,554,613 'Pteropus_alecto'
+                                                                                                                                        |                                         |                             `--51,282,434---90,116,137,145,194,230,270,305,308,322,325,346,350,361,410,425,436,440,442,444,452,461,475,495,526,537,538,562,565,573,612,616 'Felis_catus'
+                                                                                                                                        `--43,47,48,78,116,228,304,322,328,348,380|                                          ,--51,62,72,73,118,128,147,234,241,278,302,304,318,319,328,347,357,382,412,432,442,446,472,475,480,534,538,548,549,550,551,552,554,555,556,557,558,559,560,561,562,563,565,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,613,614,615,616,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642 'Tupaia_chinensis'
+                                                                                                                                                                                  |             ,--61,139,169,179,194,274,387---43,44,46,47,48,55,56,63,65,67,68,85,92,123,134,136,140,145,167,173,188,197,244,262,295,298,334,336,345,351,352,353,370,372,380,391,424,428,438,455,466,519,522,529 'Otolemur_garnettii'
+                                                                                                                                                                                  |             |                                                                               ,--188,273,279,434,533 'Papio_anubis'
+                                                                                                                                                                                  `--302,442,579|                                    ,--73,75,87,323,338,362,416,552,557,579,592---52,369 'Macaca_mulatta'
+                                                                                                                                                                                                |                                    |                                                          ,--50,57,106,175,203,240,565,600,634 'Callithrix_jacchus'
+                                                                                                                                                                                                `--54,280,329,345,351,373,376,480,536|                                                          |                                                           ,--22,46,62,116,368,483,522 'Saimiri_boliviensis_boliviensi
+                                                                                                                                                                                                                                     `--22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40|                                                           |                                                                                   ,--10,18,20,39,44,47,49,53,63,64,121,185,234,325,336,343,479,531,564,569,577,600,607 'Ovis_aries'
+                                                                                                                                                                                                                                                                                                `--0,1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,576|        ,--24,35,42,54,60,61,70,137,169,283,318,345,373,376,434,445,450,536,578,640---5,7,21,46,55,68,73,84,116,167,194,206,230,270,282,302,305,346,350,351,361,380,383,410,417,424,425,440,444,452,455,461,492,522,538,549,552,563,565,572,597,612,616 'Ailuropoda_melanoleuca'
+                                                                                                                                                                                                                                                                                                                                                            `--40,329|                          ,--56,57,63,283,304,382,448,549 'Nomascus_leucogenys'
+                                                                                                                                                                                                                                                                                                                                                                     `--49,75,87,178,317,576,609|                                 ,--337,633 'Pan_troglodytes'
+                                                                                                                                                                                                                                                                                                                                                                                                `--134,295,313,353,458,466,522,550---30,89,557,592 'Homo_sapiens'
+apo 0.00 secs. 
+Collapsing trees with TBR 
+Selecting tree(s) 1,  
+1 trees selected 
+Closing tmp.tre (with 1 trees saved)
+tsave 0.00 secs. 
+
+
+        ------------------------------------------------------------
+        Group supports are calculated by TBR-swapping the trees
+        found, keeping note of the number of steps needed to
+        loose each group.  The labels on branches show absolute
+        and relative bremer supports (Goloboff & Farris 2001).
+        Groups indicated with a question mark (?) are those
+        for which the absolute bremer supports appear to be
+        10 or more...
+        ------------------------------------------------------------ 
+Suboptimal 10.000 x 0.000 
+Reading from tmp.tre 
+'tree(s) from TNT, for data in ../results/tnt_input/bche.tnt'
+1 trees read (trees 1-1) 
+tread 0.00 secs. 
+Again reading from myscript.run 
+Copied legends: "Bremer supports (from 213 trees, cut 0)" 
+bsupport 0.00 secs. 
+Suboptimal 10.000 x 0.900 
+Note: TBR-swapping used to approximate supports 
+Copied legends: "Relative bremer supports (from 159 trees, cut 0)" 
+bsupport 0.00 secs. 
+ 
+Bremer supports (from 213 trees, cut 0)/Relative bremer supports (from 159 trees, cut 0) 
+    ,--/ 'Cricetulus_griseus'
+    |                     ,--/ 'Mus_musculus'
+|--/|          ,--10?/100?---/ 'Rattus_norvegicus'
+    |          |          ,--/ 'Cavia_porcellus'
+    `--10?/100?|          |             ,--/ 'Oryctolagus_cuniculus'
+               |          |             |             ,--/ 'Bos_taurus'
+               `--10?/100?|      ,--1/30|      ,--5/50---/ 'Orcinus_orca'
+                          |      |      `--3/30|      ,--/ 'Pteropus_alecto'
+                          |      |             `--1/30---/ 'Felis_catus'
+                          `--4/25|             ,--/ 'Tupaia_chinensis'
+                                 |      ,--2/14---/ 'Otolemur_garnettii'
+                                 |      |                ,--/ 'Papio_anubis'
+                                 `--2/14|      ,--10/100?---/ 'Macaca_mulatta'
+                                        |      |          ,--/ 'Callithrix_jacchus'
+                                        `--6/67|          |          ,--/ 'Saimiri_boliviensis_boliviensi
+                                               `--10?/100?|          |                 ,--/ 'Ovis_aries'
+                                                          `--10?/100?|      ,--10?/100?---/ 'Ailuropoda_melanoleuca'
+                                                                     `--2/80|      ,--/ 'Nomascus_leucogenys'
+                                                                            `--5/71|        ,--/ 'Pan_troglodytes'
+                                                                                   `--8/100?---/ 'Homo_sapiens'
+Suboptimal 0.000 x 0.900 
+1 trees in memory 
+ 
+WARNING: 
+Existing tree-tags will be erased 
+ 
+
+
+        ------------------------------------------------------------
+        Resampling is done with 100 replications of symmetric
+        resampling (see Goloboff et al. 2003), analyzing each data
+        set with a single random addition sequence plus TBR
+        (collapsing the resulting tree with TBR, see Goloboff &
+        Farris, 2001).  The labels on branches show frequency and
+        frequency differences (see Goloboff et al. 2003).
+        ------------------------------------------------------------ 
+Collapsing trees with TBR 
+Copied legends: "Group freqs., 100 replicates, cut=50 (tree 0) - Symmetric Resampling (P=33)" 
+Copied legends: "GC values, 100 replicates, cut=0 (tree 1) - Symmetric Resampling (P=33)" 
+ 
+0.00 secs. to complete resampling 
+1 trees in memory 
+ 
+Group freqs., 100 replicates, cut=50 (tree 0) - Symmetric Resampling (P=33)/GC values, 100 replicates, cut=0 (tree 1) - Symmetric Resampling (P=33) 
+    ,--/ 'Cricetulus_griseus'
+    |                   ,--/ 'Mus_musculus'
+|--/|         ,--100/100---/ 'Rattus_norvegicus'
+    |         |         ,--/ 'Cavia_porcellus'
+    `--100/100|         |                 ,--/ 'Oryctolagus_cuniculus'
+              |         |                 |              ,--/ 'Bos_taurus'
+              `--100/100|       ,--14/[13]|      ,--67/40---/ 'Orcinus_orca'
+                        |       |         `--31/4|         ,--/ 'Pteropus_alecto'
+                        |       |                `--20/[10]---/ 'Felis_catus'
+                        `--52/20|                  ,--/ 'Tupaia_chinensis'
+                                |         ,--31/[1]---/ 'Otolemur_garnettii'
+                                |         |                 ,--/ 'Papio_anubis'
+                                `--11/[21]|       ,--100/100---/ 'Macaca_mulatta'
+                                          |       |       ,--/ 'Callithrix_jacchus'
+                                          `--69/42|       |       ,--/ 'Saimiri_boliviensis_boliviensi
+                                                  `--71/44|       |               ,--/ 'Ovis_aries'
+                                                          `--71/43|       ,--72/45---/ 'Ailuropoda_melanoleuca'
+                                                                  `--59/31|       ,--/ 'Nomascus_leucogenys'
+                                                                          `--96/94|         ,--/ 'Pan_troglodytes'
+                                                                                  `--100/100---/ 'Homo_sapiens'
+ 
+WARNING: 
+File "myscript.tre" already exists.  It will be overwritten. 
+ 
+Saved trees (Nexus format) to file myscript.tre 
+Results saved (as text) to file myscript.out 
+

@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cluster_list>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="1" speclong="Aedes aegypti"/>
+    <clusters>
+      <cluster nr="1210">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="AAEL008041-PB" gene_id="AAEL008041" score="1" boot="100%" protlink="http://dec2008.archive.ensembl.org/Aedes_aegypti/protview?peptide=AAEL008041-PB" genelink="http://dec2008.archive.ensembl.org/Aedes_aegypti/geneview?gene=AAEL008041" speclink="http://dec2008.archive.ensembl.org/Aedes_aegypti/" speclong="Aedes aegypti" specshort="A.aegypti" spec_id="1">
+          <description>bleomycin hydrolase</description>
+          <alt_ids>
+            <alt_id id="Q1HQS7" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q1HQS7"/>
+            <alt_id id="ABF18400" db="Protein ID" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=ABF18400"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="2" speclong="Anopheles gambiae"/>
+    <clusters>
+      <cluster nr="1167">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="AGAP001341-PA" gene_id="AGAP001341" score="1" boot="100%" protlink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/protview?peptide=AGAP001341-PA" genelink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/geneview?gene=AGAP001341" speclink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/" speclong="Anopheles gambiae" specshort="A.gambiae" spec_id="2">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_321804" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_321804"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="5" speclong="Drosophila ananassae"/>
+    <clusters>
+      <cluster nr="1137">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0125556" gene_id="FBgn0099360" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0125556" genelink="http://flybase.org/.bin/fbidq.html?FBgn0099360" speclink="http://flybase.org/" speclong="Drosophila ananassae" specshort="D.ananassae" spec_id="5">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_001965609" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001965609"/>
+            <alt_id id="EDV35124" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDV35124"/>
+            <alt_id id="B3MVX9" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B3MVX9"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="6" speclong="Drosophila grimshawi"/>
+    <clusters>
+      <cluster nr="1173">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0146137" gene_id="FBgn0119710" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0146137" genelink="http://flybase.org/.bin/fbidq.html?FBgn0119710" speclink="http://flybase.org/" speclong="Drosophila grimshawi" specshort="D.grimshawi" spec_id="6">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_001991138" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001991138"/>
+            <alt_id id="EDV99762" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDV99762"/>
+            <alt_id id="B4JJL0" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B4JJL0"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="7" speclong="Drosophila melanogaster"/>
+    <clusters>
+      <cluster nr="1197">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0111875" gene_id="FBgn0030038" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0111875" genelink="http://flybase.org/.bin/fbidq.html?FBgn0030038" speclink="http://flybase.org/" speclong="Drosophila melanogaster" specshort="D.melanogaster" spec_id="7">
+          <description>cysteine-type endopeptidase activity</description>
+          <alt_ids>
+            <alt_id id="NP_001096907" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001096907"/>
+            <alt_id id="ABW09357" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=ABW09357"/>
+            <alt_id id="Q9W3F6" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=Q9W3F6"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="8" speclong="Drosophila mojavensis"/>
+    <clusters>
+      <cluster nr="1157">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0164982" gene_id="FBgn0138514" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0164982" genelink="http://flybase.org/.bin/fbidq.html?FBgn0138514" speclink="http://flybase.org/" speclong="Drosophila mojavensis" specshort="D.mojavensis" spec_id="8">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_002010141" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_002010141"/>
+            <alt_id id="EDW07458" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDW07458"/>
+            <alt_id id="B4L4I0" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B4L4I0"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="9" speclong="Drosophila pseudoobscura"/>
+    <clusters>
+      <cluster nr="1105">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0287347" gene_id="FBgn0072992" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0287347" genelink="http://flybase.org/.bin/fbidq.html?FBgn0072992" speclink="http://flybase.org/" speclong="Drosophila pseudoobscura" specshort="D.pseudoobscura" spec_id="9">
+          <description>cysteine-type endopeptidase activity</description>
+          <alt_ids>
+            <alt_id id="XP_001354712" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001354712"/>
+            <alt_id id="EAL31767" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EAL31767"/>
+            <alt_id id="Q29HJ1" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=Q29HJ1"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="10" speclong="Drosophila virilis"/>
+    <clusters>
+      <cluster nr="1158">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0233039" gene_id="FBgn0205778" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0233039" genelink="http://flybase.org/.bin/fbidq.html?FBgn0205778" speclink="http://flybase.org/" speclong="Drosophila virilis" specshort="D.virilis" spec_id="10">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_002055731" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_002055731"/>
+            <alt_id id="EDW65932" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDW65932"/>
+            <alt_id id="B4M2M8" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B4M2M8"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="11" speclong="Drosophila willistoni"/>
+    <clusters>
+      <cluster nr="1135">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0249128" gene_id="FBgn0221982" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0249128" genelink="http://flybase.org/.bin/fbidq.html?FBgn0221982" speclink="http://flybase.org/" speclong="Drosophila willistoni" specshort="D.willistoni" spec_id="11">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_002064095" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_002064095"/>
+            <alt_id id="EDW75081" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDW75081"/>
+            <alt_id id="B4MSJ2" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B4MSJ2"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="18" speclong="Culex pipiens"/>
+    <clusters>
+      <cluster nr="1094">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="CPIJ007788" gene_id="CPIJ007788" score="1" boot="100%" protlink="http://cpipiens.vectorbase.org/Genome/GeneView/?gene=CPIJ007788" genelink="http://cpipiens.vectorbase.org/Genome/GeneView/?gene=CPIJ007788" speclink="http://cpipiens.vectorbase.org" speclong="Culex pipiens" specshort="C.pipiens" spec_id="18">
+          <description>bleomycin hydrolase</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="19" speclong="Pediculus humanus"/>
+    <clusters>
+      <cluster nr="1479">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="PHUM001496-PA" gene_id="PHUM001496" score="1" boot="100%" protlink="http://www.tigr.org/tigr-scripts/gbrowse/gbrowse/louse/?=PHUM001496-PA" genelink="http://www.tigr.org/tigr-scripts/gbrowse/gbrowse/louse/?=PHUM001496" speclink="http://phumanus.vectorbase.org" speclong="Pediculus humanus" specshort="P.humanus" spec_id="19">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="20" speclong="Ixodes scapularis"/>
+    <clusters>
+      <cluster nr="2101">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ISCW001472-PA" gene_id="ISCW001472" score="1" boot="100%" protlink="http://iscapularis.vectorbase.org/Genome/ProtView/?db=core;peptide=ISCW001472-PA" genelink="http://iscapularis.vectorbase.org/Genome/GeneView/?gene=ISCW001472" speclink="http://iscapularis.vectorbase.org" speclong="Ixodes scapularis" specshort="I.scapularis" spec_id="20">
+          <description>bleomycin hydrolase, putative</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="21" speclong="Bombyx mori"/>
+    <clusters>
+      <cluster nr="983">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="BGIBMGA013023-PA" gene_id="BGIBMGA013023" score="1" boot="100%" genelink="http://silkworm.swu.edu.cn/cgi-bin/gbrowse/silkdb/?name=BGIBMGA013023" speclink="http://silkworm.swu.edu.cn/silkdb" speclong="Bombyx mori" specshort="B.mori" spec_id="21">
+          <description>Peptidase C1B, bleomycin hydrolase; Peptidase, cysteine peptidase active site</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="23" speclong="Branchiostoma floridae"/>
+    <clusters>
+      <cluster nr="1735">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="264854" gene_id="264854" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=264854" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=264854" speclink="http://genome.jgi-psf.org/Brafl1/Brafl1.home.html" speclong="Branchiostoma floridae" specshort="B.floridae" spec_id="23">
+          <description>Bleomycin hydrolases and aminopeptidases of cysteine protease family</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="25" speclong="Daphnia pulex"/>
+    <clusters>
+      <cluster nr="1438">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="300309" gene_id="300309" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Dappu1&amp;tid=300309" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Dappu1&amp;tid=300309" speclink="http://genome.jgi-psf.org/Dappu1/Dappu1.home.html" speclong="Daphnia pulex" specshort="D.pulex" spec_id="25">
+          <description>Bleomycin hydrolases and aminopeptidases of cysteine protease family</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="28" speclong="Nematostella vectensis"/>
+    <clusters>
+      <cluster nr="1267">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="86594" gene_id="86594" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Nemve1&amp;tid=86594" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Nemve1&amp;tid=86594" speclink="http://genome.jgi-psf.org/Nemve1/Nemve1.home.html" speclong="Nematostella vectensis" specshort="N.vectensis" spec_id="28">
+          <description>Bleomycin hydrolases and aminopeptidases of cysteine protease family</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="29" speclong="Trichoplax adhaerens"/>
+    <clusters>
+      <cluster nr="960">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="28626" gene_id="28626" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Triad1&amp;tid=28626" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Triad1&amp;tid=28626" speclink="http://genome.jgi-psf.org/Triad1/Triad1.home.html" speclong="Trichoplax adhaerens" specshort="T.adhaerens" spec_id="29">
+          <description>Bleomycin hydrolases and aminopeptidases of cysteine protease family</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="30" speclong="Acyrthosiphon pisum"/>
+    <clusters>
+      <cluster nr="1155">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001951564.1" gene_id="100162995" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001951564.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100162995" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13646" speclong="Acyrthosiphon pisum" specshort="A.pisum" spec_id="30">
+          <description> PREDICTED: similar to AGAP001341-PA</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="31" speclong="Apis mellifera"/>
+    <clusters>
+      <cluster nr="1224">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001119959.1" gene_id="724901" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001119959.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=724901" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=9555" speclong="Apis mellifera" specshort="A.mellifera" spec_id="31">
+          <description> PREDICTED: similar to CG1440-PA</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="32" speclong="Nasonia vitripennis"/>
+    <clusters>
+      <cluster nr="1184">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001599607.1" gene_id="100117484" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001599607.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100117484" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13647" speclong="Nasonia vitripennis" specshort="N.vitripennis" spec_id="32">
+          <description> PREDICTED: similar to LD46760p</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="33" speclong="Strongylocentrotus purpuratus"/>
+    <clusters>
+      <cluster nr="1981">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001178956.1" gene_id="752414" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001178956.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=752414" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=10728" speclong="Strongylocentrotus purpuratus" specshort="S.purpuratus" spec_id="33">
+          <description> PREDICTED: similar to bleomycin hydrolase variant</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_001182141.1" gene_id="758675" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001182141.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=758675" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=10728" speclong="Strongylocentrotus purpuratus" specshort="S.purpuratus" spec_id="33">
+          <description> PREDICTED: similar to bleomycin hydrolase variant</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="34" speclong="Tribolium castaneum"/>
+    <clusters>
+      <cluster nr="1332">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001814047.1" gene_id="660395" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001814047.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=660395" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=12539" speclong="Tribolium castaneum" specshort="T.castaneum" spec_id="34">
+          <description> PREDICTED: similar to CG1440 CG1440-PC</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="38" speclong="Candida albicans SC5314"/>
+    <clusters>
+      <cluster nr="484">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="CAL0000177" gene_id="orf19.539" score="1" boot="100%" protlink="http://www.candidagenome.org/cgi-bin/locus.pl?dbid=CAL0000177" genelink="http://www.candidagenome.org/cgi-bin/locus.pl?locus=orf19.539" speclink="http://www.candidagenome.org" speclong="Candida albicans SC5314" specshort="C.albicans" spec_id="38">
+          <description>Protein described as an aminopeptidase; transcription is positively regulated by Sfu1p; transcription is repressed in response to alpha pheromone in SpiderM medium</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="39" speclong="Candida glabrata CBS 138"/>
+    <clusters>
+      <cluster nr="522">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="CAGL0J07568g" gene_id="CAGL0J07568g" score="1" boot="100%" protlink="http://www.genolevures.org/elt/CAGL/CAGL0J07568g" genelink="http://www.genolevures.org/elt/CAGL/CAGL0J07568g" speclink="http://www.genolevures.org/cagl.html" speclong="Candida glabrata CBS 138" specshort="C.glabrata" spec_id="39">
+          <description>highly similar to uniprot|Q01532 Saccharomyces cerevisiae YNL239w LAP3 member of the GAL regulon [Candida glabrata] Complete CDS. CAGL0J07568g</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="41" speclong="Coprinopsis cinereus okayama7#130"/>
+    <clusters>
+      <cluster nr="715">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="CC1G_03271T0" gene_id="CC1G_03271" score="1" boot="100%" genelink="http://www.broad.mit.edu/annotation/genome/coprinus_cinereus/GeneLocus.html?sp=SCC1G_03271" speclink="http://www.broad.mit.edu/annotation/genome/coprinus_cinereus/" speclong="Coprinopsis cinereus okayama7#130" specshort="C.cinereus" spec_id="41">
+          <description>Coprinus cinereus okayama7#130 yeast bleomycin hydrolase</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="44" speclong="Fusarium graminearum FG3"/>
+    <clusters>
+      <cluster nr="594">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FGST_09390" gene_id="FGSG_08736" score="1" boot="100%" genelink="http://www.broad.mit.edu/annotation/genome/fusarium_graminearum/GeneLocus.html?sp=SFGSG_08736" speclink="http://www.broad.mit.edu/annotation/genome/fusarium_graminearum/" speclong="Fusarium graminearum FG3" specshort="F.graminearum" spec_id="44">
+          <description>Fusarium graminearum conserved hypothetical protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="46" speclong="Magnaporthe grisea 70-15"/>
+    <clusters>
+      <cluster nr="572">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="MGG_02695T0" gene_id="MGG_02695" score="1" boot="100%" genelink="http://www.broad.mit.edu/annotation/genome/magnaporthe_grisea/GeneLocus.html?sp=SMGG_02695" speclink="http://www.broad.mit.edu/annotation/genome/magnaporthe_grisea/" speclong="Magnaporthe grisea 70-15" specshort="M.grisea" spec_id="46">
+          <description>Magnaporthe grisea 70-15 cysteine proteinase 1, mitochondrial precursor</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="47" speclong="Monosiga brevicollis"/>
+    <clusters>
+      <cluster nr="885">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="35515" gene_id="estExt_fgenesh1_pg.C_20311" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Monbr1&amp;id=35515" speclink="http://genome.jgi-psf.org/Monbr1/Monbr1.home.html" speclong="Monosiga brevicollis" specshort="M.brevicollis" spec_id="47">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="48" speclong="Neurospora crassa OR74A"/>
+    <clusters>
+      <cluster nr="618">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="NCUT_06401" gene_id="NCU08333" score="1" boot="100%" genelink="http://www.broad.mit.edu/annotation/genome/neurospora/GeneLocus.html?sp=SNCU08333" speclink="http://www.broad.mit.edu/annotation/genome/neurospora/" speclong="Neurospora crassa OR74A" specshort="N.crassa" spec_id="48">
+          <description>Neurospora crassa conserved hypothetical protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="49" speclong="Puccinia graminis f. sp. tritici"/>
+    <clusters>
+      <cluster nr="550">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="PGTT_14638" gene_id="PGTG_14638" score="1" boot="100%" genelink="http://www.broad.mit.edu/annotation/genome/puccinia_graminis/GeneLocus.html?sp=SPGTG_14638" speclink="http://www.broad.mit.edu/annotation/genome/puccinia_graminis/" speclong="Puccinia graminis f. sp. tritici" specshort="P.graminis" spec_id="49">
+          <description>Puccinia graminis f. sp. tritici bleomycin hydrolase</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="50" speclong="Rhizopus oryzae"/>
+    <clusters>
+      <cluster nr="637">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="RO3T_08197" gene_id="RO3G_08198" score="1" boot="100%" genelink="http://www.broad.mit.edu/annotation/genome/rhizopus_oryzae/GeneLocus.html?sp=SRO3G_08198" speclink="http://www.broad.mit.edu/annotation/genome/rhizopus_oryzae/" speclong="Rhizopus oryzae" specshort="R.oryzae" spec_id="50">
+          <description>Rhizopus oryzae hypothetical protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="51" speclong="Saccharomyces cerevisiae S288c"/>
+    <clusters>
+      <cluster nr="525">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="YNL239W" gene_id="LAP3" score="1" boot="100%" protlink="http://www.yeastgenome.org/cgi-bin/locus.fpl?locus=YNL239W" genelink="http://www.yeastgenome.org/cgi-bin/locus.fpl?locus=LAP3" speclink="http://www.yeastgenome.org/" speclong="Saccharomyces cerevisiae S288c" specshort="S.cerevisiae" spec_id="51">
+          <description>Cysteine aminopeptidase with homocysteine-thiolactonase activity; protects cells against homocysteine toxicity; has bleomycin hydrolase activity in vitro; transcription is regulated by galactose via Gal4p; orthologous to human BLMH</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="53" speclong="Sclerotinia sclerotiorum 1980"/>
+    <clusters>
+      <cluster nr="567">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="SS1T_03526" gene_id="SS1G_03526" score="1" boot="100%" genelink="http://www.broad.mit.edu/annotation/genome/sclerotinia_sclerotiorum/GeneLocus.html?sp=SSS1G_03526" speclink="http://www.broad.mit.edu/annotation/genome/sclerotinia_sclerotiorum/" speclong="Sclerotinia sclerotiorum 1980" specshort="S.sclerotiorum" spec_id="53">
+          <description>Sclerotinia sclerotiorum bleomycin hydrolase</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="54" speclong="Stagonospora nodorum SN15"/>
+    <clusters>
+      <cluster nr="597">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="SNOT_06146" gene_id="SNOG_06146" score="1" boot="100%" genelink="http://www.broad.mit.edu/annotation/genome/stagonospora_nodoorum/GeneLocus.html?sp=SSNOG_06146" speclink="http://www.broad.mit.edu/annotation/genome/stagonospora_nodoorum/" speclong="Stagonospora nodorum SN15" specshort="S.nodoorum" spec_id="54">
+          <description>Stagonospora nodorum hypothetical protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="55" speclong="Ustilago maydis 521"/>
+    <clusters>
+      <cluster nr="659">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="UM01232" gene_id="UM01232" score="1" boot="100%" genelink="http://www.broad.mit.edu/annotation/genome/ustilago_maydis/GeneLocus.html?sp=SUM01232" speclink="http://www.broad.mit.edu/annotation/genome/ustilago_maydis/" speclong="Ustilago maydis 521" specshort="U.maydis" spec_id="55">
+          <description>Ustilago maydis hypothetical protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="56" speclong="Yarrowia lipolytica CLIB122"/>
+    <clusters>
+      <cluster nr="526">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="YALI0F17974g" gene_id="YALI0F17974g" score="1" boot="100%" protlink="http://www.genolevures.org/elt/YALI/YALI0F17974g" genelink="http://www.genolevures.org/elt/YALI/YALI0F17974g" speclink="http://www.genolevures.org/elt/YALI/YALI" speclong="Yarrowia lipolytica CLIB122" specshort="Y.lipolytica" spec_id="56">
+          <description>similar to uniprot|Q01532 Saccharomyces cerevisiae YNL239w Cysteine proteinase 1 (EC 3.4.22.40) (Y3) (Bleomycin hydrolase) (BLM hydrolase) [Yarrowia lipolytica] Complete CDS. YALI0F17974g</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="YALI0F05940g" gene_id="YALI0F05940g" score="0.276" boot="" protlink="http://www.genolevures.org/elt/YALI/YALI0F05940g" genelink="http://www.genolevures.org/elt/YALI/YALI0F05940g" speclink="http://www.genolevures.org/elt/YALI/YALI" speclong="Yarrowia lipolytica CLIB122" specshort="Y.lipolytica" spec_id="56">
+          <description>similar to uniprot|Q01532 Saccharomyces cerevisiae YNL239w [Yarrowia lipolytica] Complete CDS. YALI0F05940g</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="57" speclong="Pongo pygmaeus abelii"/>
+    <clusters>
+      <cluster nr="7075">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSPPYP00000009142" gene_id="ENSPPYG00000008132" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/protview?peptide=ENSPPYP00000009142" genelink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/geneview?gene=ENSPPYG00000008132" speclink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/Info/Index/" speclong="Pongo pygmaeus abelii" specshort="P.pygmaeus" spec_id="57">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="58" speclong="Gallus gallus"/>
+    <clusters>
+      <cluster nr="4821">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSGALP00000006762" gene_id="ENSGALG00000004259" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Gallus_gallus/protview?peptide=ENSGALP00000006762" genelink="http://Dec2008.archive.ensembl.org/Gallus_gallus/geneview?gene=ENSGALG00000004259" speclink="http://Dec2008.archive.ensembl.org/Gallus_gallus/Info/Index/" speclong="Gallus gallus" specshort="G.gallus" spec_id="58">
+          <description>Bleomycin hydrolase (EC 3.4.22.40) (BLM hydrolase) (BMH) (BH) (Aminopeptidase H). [Source:UniProtKB/Swiss-Prot;Acc:P87362]</description>
+          <alt_ids>
+            <alt_id id="NP_990435" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_990435"/>
+            <alt_id id="P87362" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P87362"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="59" speclong="Pan troglodytes"/>
+    <clusters>
+      <cluster nr="6194">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSPTRP00000015295" gene_id="ENSPTRG00000008959" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/protview?peptide=ENSPTRP00000015295" genelink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/geneview?gene=ENSPTRG00000008959" speclink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/Info/Index/" speclong="Pan troglodytes" specshort="P.troglodytes" spec_id="59">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="60" speclong="Bos taurus"/>
+    <clusters>
+      <cluster nr="5910">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSBTAP00000028490" gene_id="ENSBTAG00000021370" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Bos_taurus/protview?peptide=ENSBTAP00000028490" genelink="http://Dec2008.archive.ensembl.org/Bos_taurus/geneview?gene=ENSBTAG00000021370" speclink="http://Dec2008.archive.ensembl.org/Bos_taurus/Info/Index/" speclong="Bos taurus" specshort="B.taurus" spec_id="60">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="61" speclong="Canis familiaris"/>
+    <clusters>
+      <cluster nr="6144">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCAFP00000028054" gene_id="ENSCAFG00000019005" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Canis_familiaris/protview?peptide=ENSCAFP00000028054" genelink="http://Dec2008.archive.ensembl.org/Canis_familiaris/geneview?gene=ENSCAFG00000019005" speclink="http://Dec2008.archive.ensembl.org/Canis_familiaris/Info/Index/" speclong="Canis familiaris" specshort="C.familiaris" spec_id="61">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="62" speclong="Takifugu rubripes"/>
+    <clusters>
+      <cluster nr="4068">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSTRUP00000022004" gene_id="ENSTRUG00000008761" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/protview?peptide=ENSTRUP00000022004" genelink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/geneview?gene=ENSTRUG00000008761" speclink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/Info/Index/" speclong="Takifugu rubripes" specshort="T.rubripes" spec_id="62">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="63" speclong="Cavia porcellus"/>
+    <clusters>
+      <cluster nr="6001">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCPOP00000004542" gene_id="ENSCPOG00000005048" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/protview?peptide=ENSCPOP00000004542" genelink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/geneview?gene=ENSCPOG00000005048" speclink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/Info/Index/" speclong="Cavia porcellus" specshort="C.porcellus" spec_id="63">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="64" speclong="Equus caballus"/>
+    <clusters>
+      <cluster nr="7404">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSECAP00000016992" gene_id="ENSECAG00000019323" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Equus_caballus/protview?peptide=ENSECAP00000016992" genelink="http://Dec2008.archive.ensembl.org/Equus_caballus/geneview?gene=ENSECAG00000019323" speclink="http://Dec2008.archive.ensembl.org/Equus_caballus/Info/Index/" speclong="Equus caballus" specshort="E.caballus" spec_id="64">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="66" speclong="Macaca mulatta"/>
+    <clusters>
+      <cluster nr="7912">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMMUP00000001376" gene_id="ENSMMUG00000001026" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/protview?peptide=ENSMMUP00000001376" genelink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/geneview?gene=ENSMMUG00000001026" speclink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/Info/Index/" speclong="Macaca mulatta" specshort="M.mulatta" spec_id="66">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="67" speclong="Oryzias latipes"/>
+    <clusters>
+      <cluster nr="3905">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSORLP00000017515" gene_id="ENSORLG00000013970" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/protview?peptide=ENSORLP00000017515" genelink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/geneview?gene=ENSORLG00000013970" speclink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/Info/Index/" speclong="Oryzias latipes" specshort="O.latipes" spec_id="67">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="68" speclong="Mus musculus"/>
+    <clusters>
+      <cluster nr="6404">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMUSP00000021197" gene_id="ENSMUSG00000020840" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Mus_musculus/protview?peptide=ENSMUSP00000021197" genelink="http://Dec2008.archive.ensembl.org/Mus_musculus/geneview?gene=ENSMUSG00000020840" speclink="http://Dec2008.archive.ensembl.org/Mus_musculus/Info/Index/" speclong="Mus musculus" specshort="M.musculus" spec_id="68">
+          <description>bleomycin hydrolase Gene [Source:MGI (curated);Acc:Blmh-001]</description>
+          <alt_ids>
+            <alt_id id="Q8R016" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q8R016"/>
+            <alt_id id="NP_848760" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_848760"/>
+            <alt_id id="MGI:1345186" db="MGI ID" link="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1345186"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="69" speclong="Monodelphis domestica"/>
+    <clusters>
+      <cluster nr="5566">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMODP00000012402" gene_id="ENSMODG00000009909" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/protview?peptide=ENSMODP00000012402" genelink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/geneview?gene=ENSMODG00000009909" speclink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/Info/Index/" speclong="Monodelphis domestica" specshort="M.domestica" spec_id="69">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="70" speclong="Ornithorhynchus anatinus"/>
+    <clusters>
+      <cluster nr="3014">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSOANP00000020026" gene_id="ENSOANG00000012661" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/protview?peptide=ENSOANP00000020026" genelink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/geneview?gene=ENSOANG00000012661" speclink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/Info/Index/" speclong="Ornithorhynchus anatinus" specshort="O.anatinus" spec_id="70">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="71" speclong="Rattus norvegicus"/>
+    <clusters>
+      <cluster nr="5737">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSRNOP00000005125" gene_id="ENSRNOG00000003563" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/protview?peptide=ENSRNOP00000005125" genelink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/geneview?gene=ENSRNOG00000003563" speclink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/Info/Index/" speclong="Rattus norvegicus" specshort="R.norvegicus" spec_id="71">
+          <description>Bleomycin hydrolase (EC 3.4.22.40) (BLM hydrolase) (BMH) (BH). [Source:UniProtKB/Swiss-Prot;Acc:P70645]</description>
+          <alt_ids>
+            <alt_id id="A1A5L1" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=A1A5L1"/>
+            <alt_id id="P70645" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P70645"/>
+            <alt_id id="NP_001029335" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001029335"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="72" speclong="Gasterosteus aculeatus"/>
+    <clusters>
+      <cluster nr="3986">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSGACP00000008230" gene_id="ENSGACG00000006201" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/protview?peptide=ENSGACP00000008230" genelink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/geneview?gene=ENSGACG00000006201" speclink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/Info/Index/" speclong="Gasterosteus aculeatus" specshort="G.aculeatus" spec_id="72">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="73" speclong="Tetraodon nigroviridis"/>
+    <clusters>
+      <cluster nr="3569">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSTNIP00000007440" gene_id="ENSTNIG00000004782" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/protview?peptide=ENSTNIP00000007440" genelink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/geneview?gene=ENSTNIG00000004782" speclink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/Info/Index/" speclong="Tetraodon nigroviridis" specshort="T.nigroviridis" spec_id="73">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="74" speclong="Xenopus tropicalis"/>
+    <clusters>
+      <cluster nr="6050">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSXETP00000046160" gene_id="ENSXETG00000021342" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/protview?peptide=ENSXETP00000046160" genelink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/geneview?gene=ENSXETG00000021342" speclink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/Info/Index/" speclong="Xenopus tropicalis" specshort="X.tropicalis" spec_id="74">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="75" speclong="Danio rerio"/>
+    <clusters>
+      <cluster nr="2998">
+        <protein prot_id="ENSP00000378296" gene_id="ENSG00000108578" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000378296" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000108578" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Bleomycin hydrolase (BLM hydrolase)(BMH)(BH)(EC 3.4.22.40) [Source:UniProtKB/Swiss-Prot;Acc:Q13867]</description>
+          <alt_ids>
+            <alt_id id="Q13867" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q13867"/>
+            <alt_id id="NP_000377" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000377"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSDARP00000060254" gene_id="ENSDARG00000025977" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000060254" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000025977" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description>bleomycin hydrolase [Source:RefSeq_peptide;Acc:NP_956312]</description>
+          <alt_ids>
+            <alt_id id="Q7SXJ5" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q7SXJ5"/>
+            <alt_id id="NP_956312" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_956312"/>
+            <alt_id id="ZDB-GENE-030131-8485" db="ZFIN ID" link="zfin.org/cgi-bin/ZFIN_jump?record=ZDB-GENE-030131-8485"/>
+            <alt_id id="blmh" db="ZFIN symbol" link="http://zfin.org/cgi-bin/webdriver?MIval=aa-newmrkrselect.apg&amp;compare=contains&amp;input_name=zgc%3Ablmh&amp;input_acc=&amp;marker_type=all&amp;lg=0&amp;WINSIZE=25&amp;query_results=exist&amp;START=1&amp;action=SEARCH"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+</cluster_list>

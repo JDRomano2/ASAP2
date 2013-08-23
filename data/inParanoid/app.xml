@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cluster_list>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="1" speclong="Aedes aegypti"/>
+    <clusters>
+      <cluster nr="3362">
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="0.39" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000221891" gene_id="ENSG00000105290" score="0.124" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000221891" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000105290" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 1 Precursor (APLP-1)(APLP) [Contains C30] [Source:UniProtKB/Swiss-Prot;Acc:P51693]</description>
+          <alt_ids>
+            <alt_id id="NP_005157" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_005157"/>
+            <alt_id id="P51693" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P51693"/>
+            <alt_id id="NP_001019978" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001019978"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="AAEL005895-PA" gene_id="AAEL005895" score="1" boot="100%" protlink="http://dec2008.archive.ensembl.org/Aedes_aegypti/protview?peptide=AAEL005895-PA" genelink="http://dec2008.archive.ensembl.org/Aedes_aegypti/geneview?gene=AAEL005895" speclink="http://dec2008.archive.ensembl.org/Aedes_aegypti/" speclong="Aedes aegypti" specshort="A.aegypti" spec_id="1">
+          <description>conserved hypothetical protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="2" speclong="Anopheles gambiae"/>
+    <clusters>
+      <cluster nr="2611">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="90%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="0.35" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="AGAP002790-PA" gene_id="AGAP002790" score="1" boot="100%" protlink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/protview?peptide=AGAP002790-PA" genelink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/geneview?gene=AGAP002790" speclink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/" speclong="Anopheles gambiae" specshort="A.gambiae" spec_id="2">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_312126" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_312126"/>
+            <alt_id id="XP_001237428" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001237428"/>
+            <alt_id id="XP_001237429" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_001237429"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="7" speclong="Drosophila melanogaster"/>
+    <clusters>
+      <cluster nr="3524">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="0.387" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0070104" gene_id="FBgn0000108" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0070104" genelink="http://flybase.org/.bin/fbidq.html?FBgn0000108" speclink="http://flybase.org/" speclong="Drosophila melanogaster" specshort="D.melanogaster" spec_id="7">
+          <description>protein binding</description>
+          <alt_ids>
+            <alt_id id="P14599" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=P14599"/>
+            <alt_id id="NP_476626" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_476626"/>
+            <alt_id id="AAF45520" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=AAF45520"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="8" speclong="Drosophila mojavensis"/>
+    <clusters>
+      <cluster nr="4137">
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="0.418" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000221891" gene_id="ENSG00000105290" score="0.165" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000221891" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000105290" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 1 Precursor (APLP-1)(APLP) [Contains C30] [Source:UniProtKB/Swiss-Prot;Acc:P51693]</description>
+          <alt_ids>
+            <alt_id id="P51693" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P51693"/>
+            <alt_id id="NP_001019978" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001019978"/>
+            <alt_id id="NP_005157" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_005157"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="FBpp0164056" gene_id="FBgn0137590" score="1" boot="100%" protlink="http://flybase.org/.bin/fbidq.html?FBpp0164056" genelink="http://flybase.org/.bin/fbidq.html?FBgn0137590" speclink="http://flybase.org/" speclong="Drosophila mojavensis" specshort="D.mojavensis" spec_id="8">
+          <description></description>
+          <alt_ids>
+            <alt_id id="XP_002010177" db="RefSeq" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_002010177"/>
+            <alt_id id="EDW07494" db="GB protein" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=EDW07494"/>
+            <alt_id id="B4L4L6" db="Uniprot" link="http://www.uniprot.org/uniprot/?query=B4L4L6"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="13" speclong="Caenorhabditis briggsae"/>
+    <clusters>
+      <cluster nr="2595">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="0.395" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="CBP33927" gene_id="WBGene00035050" score="1" boot="100%" protlink="http://www.wormbase.org/db/seq/protein?name=BP:CBP33927" genelink="http://www.wormbase.org/db/gene/gene?name=WBGene00035050" speclink="http://wormbase.org/" speclong="Caenorhabditis briggsae" specshort="C.briggsae" spec_id="13">
+          <description>CBG14611|Cbr-apl-1</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="19" speclong="Pediculus humanus"/>
+    <clusters>
+      <cluster nr="3335">
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="0.377" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000221891" gene_id="ENSG00000105290" score="0.105" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000221891" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000105290" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 1 Precursor (APLP-1)(APLP) [Contains C30] [Source:UniProtKB/Swiss-Prot;Acc:P51693]</description>
+          <alt_ids>
+            <alt_id id="NP_005157" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_005157"/>
+            <alt_id id="P51693" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P51693"/>
+            <alt_id id="NP_001019978" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001019978"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="PHUM008287-PA" gene_id="PHUM008287" score="1" boot="100%" protlink="http://www.tigr.org/tigr-scripts/gbrowse/gbrowse/louse/?=PHUM008287-PA" genelink="http://www.tigr.org/tigr-scripts/gbrowse/gbrowse/louse/?=PHUM008287" speclink="http://phumanus.vectorbase.org" speclong="Pediculus humanus" specshort="P.humanus" spec_id="19">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="21" speclong="Bombyx mori"/>
+    <clusters>
+      <cluster nr="2601">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="0.371" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="BGIBMGA008317-PA" gene_id="BGIBMGA008317" score="1" boot="100%" genelink="http://silkworm.swu.edu.cn/cgi-bin/gbrowse/silkdb/?name=BGIBMGA008317" speclink="http://silkworm.swu.edu.cn/silkdb" speclong="Bombyx mori" specshort="B.mori" spec_id="21">
+          <description>Amyloidogenic glycoprotein; Amyloid A4 extracellular region</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="22" speclong="Schistosoma mansoni"/>
+    <clusters>
+      <cluster nr="3301">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="0.433" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000221891" gene_id="ENSG00000105290" score="0.098" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000221891" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000105290" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 1 Precursor (APLP-1)(APLP) [Contains C30] [Source:UniProtKB/Swiss-Prot;Acc:P51693]</description>
+          <alt_ids>
+            <alt_id id="P51693" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P51693"/>
+            <alt_id id="NP_001019978" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001019978"/>
+            <alt_id id="NP_005157" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_005157"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="Smp_149740" gene_id="Smp_149740" score="1" boot="100%" protlink="http://www.genedb.org/genedb/Search?submit=Search+for&amp;organism=smansoni&amp;name=Smp_149740" genelink="http://www.genedb.org/genedb/Search?submit=Search+for&amp;organism=smansoni&amp;name=Smp_149740" speclink="http://www.genedb.org/genedb/smansoni/" speclong="Schistosoma mansoni" specshort="S.mansoni" spec_id="22">
+          <description>alzheimer's disease beta-amyloid related</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="23" speclong="Branchiostoma floridae"/>
+    <clusters>
+      <cluster nr="2783">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="0.264" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="210607" gene_id="210607" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=210607" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=210607" speclink="http://genome.jgi-psf.org/Brafl1/Brafl1.home.html" speclong="Branchiostoma floridae" specshort="B.floridae" spec_id="23">
+          <description>Beta amyloid precursor protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="25" speclong="Daphnia pulex"/>
+    <clusters>
+      <cluster nr="2791">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="96%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="0.343" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="313180" gene_id="313180" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Dappu1&amp;tid=313180" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Dappu1&amp;tid=313180" speclink="http://genome.jgi-psf.org/Dappu1/Dappu1.home.html" speclong="Daphnia pulex" specshort="D.pulex" spec_id="25">
+          <description>Beta amyloid precursor protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="26" speclong="Helobdella robusta"/>
+    <clusters>
+      <cluster nr="2801">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="96%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="0.367" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="192286" gene_id="192286" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Helro1&amp;tid=192286" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Helro1&amp;tid=192286" speclink="http://genome.jgi-psf.org/Helro1/Helro1.home.html" speclong="Helobdella robusta" specshort="H.robusta" spec_id="26">
+          <description>Beta amyloid precursor protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="27" speclong="Lottia gigantea"/>
+    <clusters>
+      <cluster nr="3506">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="95%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="0.347" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="204381" gene_id="204381" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Lotgi1&amp;tid=204381" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Lotgi1&amp;tid=204381" speclink="http://genome.jgi-psf.org/Lotgi1/Lotgi1.home.html" speclong="Lottia gigantea" specshort="L.gigantea" spec_id="27">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="28" speclong="Nematostella vectensis"/>
+    <clusters>
+      <cluster nr="2983">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="94%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="0.348" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="181774" gene_id="181774" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Nemve1&amp;tid=181774" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Nemve1&amp;tid=181774" speclink="http://genome.jgi-psf.org/Nemve1/Nemve1.home.html" speclong="Nematostella vectensis" specshort="N.vectensis" spec_id="28">
+          <description>Beta amyloid precursor protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="29" speclong="Trichoplax adhaerens"/>
+    <clusters>
+      <cluster nr="4425">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="0.431" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000221891" gene_id="ENSG00000105290" score="0.096" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000221891" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000105290" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 1 Precursor (APLP-1)(APLP) [Contains C30] [Source:UniProtKB/Swiss-Prot;Acc:P51693]</description>
+          <alt_ids>
+            <alt_id id="P51693" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P51693"/>
+            <alt_id id="NP_001019978" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001019978"/>
+            <alt_id id="NP_005157" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_005157"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="55959" gene_id="55959" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Triad1&amp;tid=55959" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Triad1&amp;tid=55959" speclink="http://genome.jgi-psf.org/Triad1/Triad1.home.html" speclong="Trichoplax adhaerens" specshort="T.adhaerens" spec_id="29">
+          <description>Beta amyloid precursor protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="30" speclong="Acyrthosiphon pisum"/>
+    <clusters>
+      <cluster nr="2832">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="0.372" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001947569.1" gene_id="100164501" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001947569.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100164501" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13646" speclong="Acyrthosiphon pisum" specshort="A.pisum" spec_id="30">
+          <description> PREDICTED: similar to amyloid precursor protein-like protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="31" speclong="Apis mellifera"/>
+    <clusters>
+      <cluster nr="3373">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="0.382" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_624124.2" gene_id="551733" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_624124.2" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=551733" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=9555" speclong="Apis mellifera" specshort="A.mellifera" spec_id="31">
+          <description> PREDICTED: similar to amyloid protein precursor-like CG7727-PA isoform 1</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="32" speclong="Nasonia vitripennis"/>
+    <clusters>
+      <cluster nr="2713">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="96%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="0.357" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001601635.1" gene_id="100117376" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001601635.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100117376" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13647" speclong="Nasonia vitripennis" specshort="N.vitripennis" spec_id="32">
+          <description> PREDICTED: similar to GA20547-PA</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="57" speclong="Pongo pygmaeus abelii"/>
+    <clusters>
+      <cluster nr="3359">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSPPYP00000012629" gene_id="ENSPPYG00000011307" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/protview?peptide=ENSPPYP00000012629" genelink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/geneview?gene=ENSPPYG00000011307" speclink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/Info/Index/" speclong="Pongo pygmaeus abelii" specshort="P.pygmaeus" spec_id="57">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="58" speclong="Gallus gallus"/>
+    <clusters>
+      <cluster nr="1726">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSGALP00000036012" gene_id="ENSGALG00000015770" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Gallus_gallus/protview?peptide=ENSGALP00000036012" genelink="http://Dec2008.archive.ensembl.org/Gallus_gallus/geneview?gene=ENSGALG00000015770" speclink="http://Dec2008.archive.ensembl.org/Gallus_gallus/Info/Index/" speclong="Gallus gallus" specshort="G.gallus" spec_id="58">
+          <description>amyloid beta A4 protein [Source:RefSeq_peptide;Acc:NP_989639]</description>
+          <alt_ids>
+            <alt_id id="Q9DGJ7" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q9DGJ7"/>
+            <alt_id id="NP_989639" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_989639"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="59" speclong="Pan troglodytes"/>
+    <clusters>
+      <cluster nr="3399">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSPTRP00000023795" gene_id="ENSPTRG00000013811" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/protview?peptide=ENSPTRP00000023795" genelink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/geneview?gene=ENSPTRG00000013811" speclink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/Info/Index/" speclong="Pan troglodytes" specshort="P.troglodytes" spec_id="59">
+          <description>Amyloid beta A4 protein precursor (APP) (ABPP) (Alzheimer disease amyloid protein homolog) [Contains: Soluble APP-alpha (S-APP-alpha); Soluble APP-beta (S-APP-beta); C99; Beta-amyloid protein 42 (Beta- APP42); Beta-amyloid protein 40 (Beta-APP40); C83; P3 [Source:UniProtKB/Swiss-Prot;Acc:Q5IS80]</description>
+          <alt_ids>
+            <alt_id id="NP_001013036" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001013036"/>
+            <alt_id id="Q5IS80" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q5IS80"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="60" speclong="Bos taurus"/>
+    <clusters>
+      <cluster nr="2665">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSBTAP00000023608" gene_id="ENSBTAG00000017753" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Bos_taurus/protview?peptide=ENSBTAP00000023608" genelink="http://Dec2008.archive.ensembl.org/Bos_taurus/geneview?gene=ENSBTAG00000017753" speclink="http://Dec2008.archive.ensembl.org/Bos_taurus/Info/Index/" speclong="Bos taurus" specshort="B.taurus" spec_id="60">
+          <description>Amyloid beta A4 protein Fragment (Alzheimer disease amyloid A4 protein homolog)(ABPP)(APP) [Contains Soluble APP-beta(S-APP-beta);CTF-alpha;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))] [Source:UniProtKB/Swiss-Prot;Acc:Q28053]</description>
+          <alt_ids>
+            <alt_id id="Q28053" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q28053"/>
+            <alt_id id="O97917" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=O97917"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="61" speclong="Canis familiaris"/>
+    <clusters>
+      <cluster nr="2697">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCAFP00000012583" gene_id="ENSCAFG00000008557" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Canis_familiaris/protview?peptide=ENSCAFP00000012583" genelink="http://Dec2008.archive.ensembl.org/Canis_familiaris/geneview?gene=ENSCAFG00000008557" speclink="http://Dec2008.archive.ensembl.org/Canis_familiaris/Info/Index/" speclong="Canis familiaris" specshort="C.familiaris" spec_id="61">
+          <description>Amyloid beta A4 protein (APP) (ABPP) (Alzheimer disease amyloid A4 protein homolog) [Contains: Soluble APP-beta (S-APP-beta); CTF-alpha; Beta-amyloid protein 42 (Beta-APP42); Beta-amyloid protein 40 (Beta- APP40); Gamma-CTF(59) (Gamma-secretase C-terminal [Source:UniProtKB/Swiss-Prot;Acc:Q28280]</description>
+          <alt_ids>
+            <alt_id id="Q56JK6" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q56JK6"/>
+            <alt_id id="Q6RH30" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q6RH30"/>
+            <alt_id id="Q28280" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q28280"/>
+            <alt_id id="NP_001006601" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001006601"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="62" speclong="Takifugu rubripes"/>
+    <clusters>
+      <cluster nr="1827">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSTRUP00000026367" gene_id="ENSTRUG00000010470" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/protview?peptide=ENSTRUP00000026367" genelink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/geneview?gene=ENSTRUG00000010470" speclink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/Info/Index/" speclong="Takifugu rubripes" specshort="T.rubripes" spec_id="62">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSTRUP00000027587" gene_id="ENSTRUG00000010922" score="0.079" boot="" protlink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/protview?peptide=ENSTRUP00000027587" genelink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/geneview?gene=ENSTRUG00000010922" speclink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/Info/Index/" speclong="Takifugu rubripes" specshort="T.rubripes" spec_id="62">
+          <description>Amyloid beta A4 protein precursor (APP) (ABPP) (Alzheimer disease amyloid A4 A4 protein homolog) [Contains: Beta-amyloid protein (Beta- APP) (A-beta)]. [Source:UniProtKB/Swiss-Prot;Acc:O93279]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="63" speclong="Cavia porcellus"/>
+    <clusters>
+      <cluster nr="2441">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCPOP00000001291" gene_id="ENSCPOG00000001427" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/protview?peptide=ENSCPOP00000001291" genelink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/geneview?gene=ENSCPOG00000001427" speclink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/Info/Index/" speclong="Cavia porcellus" specshort="C.porcellus" spec_id="63">
+          <description>Amyloid beta A4 protein precursor (Alzheimer disease amyloid A4 protein homolog) (ABPP) (APP) [Contains: Soluble APP-alpha (S-APP- alpha); Soluble APP-beta (S-APP-beta); CTF-alpha; CTF-beta; Beta- amyloid protein 42 (Beta-APP42); Beta-amyloid protein 40 ( [Source:UniProtKB/Swiss-Prot;Acc:Q60495]</description>
+          <alt_ids>
+            <alt_id id="Q7M088" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q7M088"/>
+            <alt_id id="Q60495" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q60495"/>
+            <alt_id id="CAA66230" db="Protein ID" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=CAA66230"/>
+            <alt_id id="CAA67589" db="Protein ID" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=CAA67589"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="64" speclong="Equus caballus"/>
+    <clusters>
+      <cluster nr="2649">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSECAP00000019519" gene_id="ENSECAG00000021011" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Equus_caballus/protview?peptide=ENSECAP00000019519" genelink="http://Dec2008.archive.ensembl.org/Equus_caballus/geneview?gene=ENSECAG00000021011" speclink="http://Dec2008.archive.ensembl.org/Equus_caballus/Info/Index/" speclong="Equus caballus" specshort="E.caballus" spec_id="64">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="66" speclong="Macaca mulatta"/>
+    <clusters>
+      <cluster nr="3121">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMMUP00000018894" gene_id="ENSMMUG00000014384" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/protview?peptide=ENSMMUP00000018894" genelink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/geneview?gene=ENSMMUG00000014384" speclink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/Info/Index/" speclong="Macaca mulatta" specshort="M.mulatta" spec_id="66">
+          <description>Amyloid beta A4 protein (APP) (ABPP) (Alzheimer disease amyloid A4 protein homolog) (Fragment). [Source:UniProtKB/Swiss-Prot;Acc:P29216]</description>
+          <alt_ids>
+            <alt_id id="P29216" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P29216"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="67" speclong="Oryzias latipes"/>
+    <clusters>
+      <cluster nr="1969">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSORLP00000011186" gene_id="ENSORLG00000008914" score="1" boot="46%" protlink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/protview?peptide=ENSORLP00000011186" genelink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/geneview?gene=ENSORLG00000008914" speclink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/Info/Index/" speclong="Oryzias latipes" specshort="O.latipes" spec_id="67">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="68" speclong="Mus musculus"/>
+    <clusters>
+      <cluster nr="2723">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMUSP00000073883" gene_id="ENSMUSG00000022892" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Mus_musculus/protview?peptide=ENSMUSP00000073883" genelink="http://Dec2008.archive.ensembl.org/Mus_musculus/geneview?gene=ENSMUSG00000022892" speclink="http://Dec2008.archive.ensembl.org/Mus_musculus/Info/Index/" speclong="Mus musculus" specshort="M.musculus" spec_id="68">
+          <description>amyloid beta (A4) precursor protein Gene [Source:MGI Symbol;Acc:MGI:88059]</description>
+          <alt_ids>
+            <alt_id id="Q3TVS1" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q3TVS1"/>
+            <alt_id id="Q8BPV5" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q8BPV5"/>
+            <alt_id id="Q53ZT3" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q53ZT3"/>
+            <alt_id id="Q8BPC7" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q8BPC7"/>
+            <alt_id id="Q3TXI9" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q3TXI9"/>
+            <alt_id id="Q9QX46" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q9QX46"/>
+            <alt_id id="P12023" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12023"/>
+            <alt_id id="MGI:88059" db="MGI ID" link="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:88059"/>
+            <alt_id id="Q3TWF3" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q3TWF3"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="69" speclong="Monodelphis domestica"/>
+    <clusters>
+      <cluster nr="2908">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMODP00000037969" gene_id="ENSMODG00000021001" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/protview?peptide=ENSMODP00000037969" genelink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/geneview?gene=ENSMODG00000021001" speclink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/Info/Index/" speclong="Monodelphis domestica" specshort="M.domestica" spec_id="69">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="70" speclong="Ornithorhynchus anatinus"/>
+    <clusters>
+      <cluster nr="4641">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000263574" gene_id="ENSG00000084234" score="0.136" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000263574" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000084234" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid-like protein 2 Precursor (Amyloid protein homolog)(APPH)(CDEI box-binding protein)(CDEBP) [Source:UniProtKB/Swiss-Prot;Acc:Q06481]</description>
+          <alt_ids>
+            <alt_id id="Q06481" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q06481"/>
+            <alt_id id="NP_001633" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001633"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSOANP00000020532" gene_id="ENSOANG00000012989" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/protview?peptide=ENSOANP00000020532" genelink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/geneview?gene=ENSOANG00000012989" speclink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/Info/Index/" speclong="Ornithorhynchus anatinus" specshort="O.anatinus" spec_id="70">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="71" speclong="Rattus norvegicus"/>
+    <clusters>
+      <cluster nr="2362">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSRNOP00000041125" gene_id="ENSRNOG00000006997" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/protview?peptide=ENSRNOP00000041125" genelink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/geneview?gene=ENSRNOG00000006997" speclink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/Info/Index/" speclong="Rattus norvegicus" specshort="R.norvegicus" spec_id="71">
+          <description>Amyloid beta A4 protein precursor (APP) (ABPP) (Alzheimer disease amyloid protein homolog) (Amyloidogenic glycoprotein) (AG) [Contains: Soluble APP-alpha (S-APP-alpha); Soluble APP-beta (S-APP-beta); C99; Beta-amyloid protein 42 (Beta-APP42); Beta-amyloid [Source:UniProtKB/Swiss-Prot;Acc:P08592]</description>
+          <alt_ids>
+            <alt_id id="P08592" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P08592"/>
+            <alt_id id="NP_062161" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_062161"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="72" speclong="Gasterosteus aculeatus"/>
+    <clusters>
+      <cluster nr="2118">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSGACP00000004478" gene_id="ENSGACG00000003424" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/protview?peptide=ENSGACP00000004478" genelink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/geneview?gene=ENSGACG00000003424" speclink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/Info/Index/" speclong="Gasterosteus aculeatus" specshort="G.aculeatus" spec_id="72">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSGACP00000019895" gene_id="ENSGACG00000015081" score="0.163" boot="" protlink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/protview?peptide=ENSGACP00000019895" genelink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/geneview?gene=ENSGACG00000015081" speclink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/Info/Index/" speclong="Gasterosteus aculeatus" specshort="G.aculeatus" spec_id="72">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="73" speclong="Tetraodon nigroviridis"/>
+    <clusters>
+      <cluster nr="1728">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="97%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSTNIP00000002645" gene_id="ENSTNIG00000014537" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/protview?peptide=ENSTNIP00000002645" genelink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/geneview?gene=ENSTNIG00000014537" speclink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/Info/Index/" speclong="Tetraodon nigroviridis" specshort="T.nigroviridis" spec_id="73">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSTNIP00000016917" gene_id="ENSTNIG00000013912" score="0.053" boot="" protlink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/protview?peptide=ENSTNIP00000016917" genelink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/geneview?gene=ENSTNIG00000013912" speclink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/Info/Index/" speclong="Tetraodon nigroviridis" specshort="T.nigroviridis" spec_id="73">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="74" speclong="Xenopus tropicalis"/>
+    <clusters>
+      <cluster nr="1044">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSXETP00000029842" gene_id="ENSXETG00000013612" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/protview?peptide=ENSXETP00000029842" genelink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/geneview?gene=ENSXETG00000013612" speclink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/Info/Index/" speclong="Xenopus tropicalis" specshort="X.tropicalis" spec_id="74">
+          <description>Amyloid beta (A4) protein (Protease nexin-II, Alzheimer disease). [Source:UniProtKB/TrEMBL;Acc:Q6DJB6]</description>
+          <alt_ids>
+            <alt_id id="Q6DJB6" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q6DJB6"/>
+            <alt_id id="app" db="Xenopus jamboree" link="http://www.ensembl.org/Xenopus_tropicalis/geneview?gene=app"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="75" speclong="Danio rerio"/>
+    <clusters>
+      <cluster nr="1517">
+        <protein prot_id="ENSP00000284981" gene_id="ENSG00000142192" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000284981" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142192" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 protein Precursor (Alzheimer disease amyloid protein)(ABPP)(APPI)(APP)(PreA4)(Cerebral vascular amyloid peptide)(CVAP)(Protease nexin-II)(PN-II) [Contains Soluble APP-alpha(S-APP-alpha);Soluble APP-beta(S-APP-beta);C99;Beta-amyloid protein 42(Beta-APP42);Beta-amyloid protein 40(Beta-APP40);C83;P3(42);P3(40);Gamma-secretase C-terminal fragment 59(Gamma-CTF(59))(Amyloid intracellular domain 59)(AICD-59)(AID(59));Gamma-secretase C-terminal fragment 57(Gamma-CTF(57))(Amyloid intracellular domain 57)(AICD-57)(AID(57));Gamma-secretase C-terminal fragment 50(Gamma-CTF(50))(Amyloid intracellular domain 50)(AICD-50)(AID(50));C31] [Source:UniProtKB/Swiss-Prot;Acc:P05067]</description>
+          <alt_ids>
+            <alt_id id="P05067" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P05067"/>
+            <alt_id id="NP_001129602" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001129602"/>
+            <alt_id id="NP_000475" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000475"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSDARP00000091457" gene_id="ENSDARG00000055543" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000091457" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000055543" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description>amyloid beta (A4) precursor protein b [Source:RefSeq_peptide;Acc:NP_690842]</description>
+          <alt_ids>
+            <alt_id id="Q8UUI7" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q8UUI7"/>
+            <alt_id id="ZDB-GENE-020220-1" db="ZFIN ID" link="zfin.org/cgi-bin/ZFIN_jump?record=ZDB-GENE-020220-1"/>
+            <alt_id id="appb" db="ZFIN symbol" link="http://zfin.org/cgi-bin/webdriver?MIval=aa-newmrkrselect.apg&amp;compare=contains&amp;input_name=zgc%3Aappb&amp;input_acc=&amp;marker_type=all&amp;lg=0&amp;WINSIZE=25&amp;query_results=exist&amp;START=1&amp;action=SEARCH"/>
+            <alt_id id="Q7ZZT3" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q7ZZT3"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+</cluster_list>

@@ -1,0 +1,48 @@
+Structure of data produced by recursive BLAST:
+
+(Overall hash of all results)
+  (Each GI entered by user has its own hash, referring to results of its respective iteration of recursive BLAST)
+    (within each of THESE hashes, 3 more hashes: GIs in both sets, GIs in only recursive BLAST, GIs in only PSI-BLAST)
+
+Sample:
+blast_results = {
+  gi1 = {
+    both = {
+      ...
+    }
+    recursiveBlastOnly = {
+      ...
+    }
+    psiblastOnly = {
+      ...
+    }
+  }
+
+  gi2 = {
+    both = {
+      ...
+    }
+    recursiveBlastOnly = {
+      ...
+    }
+    psiblastOnly = {
+      ...
+    }
+  }
+
+  gi3 = {
+    both = {
+      ...
+    }
+    recursiveBlastOnly = {
+      ...
+    }
+    psiblastOnly = {
+      ...
+    }
+  }
+
+  .
+  .
+  .
+}

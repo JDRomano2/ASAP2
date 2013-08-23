@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cluster_list>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="2" speclong="Anopheles gambiae"/>
+    <clusters>
+      <cluster nr="324">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="AGAP004563-PA" gene_id="AGAP004563" score="1" boot="100%" protlink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/protview?peptide=AGAP004563-PA" genelink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/geneview?gene=AGAP004563" speclink="http://dec2008.archive.ensembl.org/Anopheles_gambiae/" speclong="Anopheles gambiae" specshort="A.gambiae" spec_id="2">
+          <description>Angiotensin-converting enzyme 9 [Source:Anopheles_symbol;Acc:ANCE9]</description>
+          <alt_ids>
+            <alt_id id="XP_313865" db="RefSeq Predicted Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=XP_313865"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="3" speclong="Ciona intestinalis"/>
+    <clusters>
+      <cluster nr="180">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCINP00000028028" gene_id="ENSCING00000009663" score="1" boot="100%" protlink="http://dec2008.archive.ensembl.org/Ciona_intestinalis/protview?peptide=ENSCINP00000028028" genelink="http://dec2008.archive.ensembl.org/Ciona_intestinalis/geneview?gene=ENSCING00000009663" speclink="http://dec2008.archive.ensembl.org/Ciona_intestinalis/" speclong="Ciona intestinalis" specshort="C.intestinalis" spec_id="3">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="4" speclong="Ciona savignyi"/>
+    <clusters>
+      <cluster nr="388">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCSAVP00000013154" gene_id="ENSCSAVG00000007719" score="1" boot="100%" protlink="http://dec2008.archive.ensembl.org/Ciona_savignyi/protview?peptide=ENSCSAVP00000013154" genelink="http://dec2008.archive.ensembl.org/Ciona_savignyi/geneview?gene=ENSCSAVG00000007719" speclink="http://dec2008.archive.ensembl.org/Ciona_savignyi/" speclong="Ciona savignyi" specshort="C.savignyi" spec_id="4">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="12" speclong="Caenorhabditis brenneri"/>
+    <clusters>
+      <cluster nr="1581">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="60%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="CN17664" gene_id="WBGene00164493" score="1" boot="100%" protlink="http://www.wormbase.org/db/seq/protein?name=CN:CN17664" genelink="http://www.wormbase.org/db/gene/gene?name=WBGene00164493" speclink="http://wormbase.org/" speclong="Caenorhabditis brenneri" specshort="C.brenneri" spec_id="12">
+          <description>CBN25768|Cbn-acn-1</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="13" speclong="Caenorhabditis briggsae"/>
+    <clusters>
+      <cluster nr="1887">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="56%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="CBP03404" gene_id="WBGene00035046" score="1" boot="100%" protlink="http://www.wormbase.org/db/seq/protein?name=BP:CBP03404" genelink="http://www.wormbase.org/db/gene/gene?name=WBGene00035046" speclink="http://wormbase.org/" speclong="Caenorhabditis briggsae" specshort="C.briggsae" spec_id="13">
+          <description>CBG14607|Cbr-acn-1</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="15" speclong="Caenorhabditis japonica"/>
+    <clusters>
+      <cluster nr="1591">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="60%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="JA04534" gene_id="WBGene00127186" score="1" boot="100%" protlink="http://www.wormbase.org/db/seq/protein?name=JA:JA04534" genelink="http://www.wormbase.org/db/gene/gene?name=WBGene00127186" speclink="http://wormbase.org/" speclong="Caenorhabditis japonica" specshort="C.japonica" spec_id="15">
+          <description>C. japonica CJP-ACN-1 protein; contains similarity to Pfam domain PF01401 Angiotensin-converting enzyme contains similarity to Interpro domain IPR001548 (Peptidase M2, peptidyl-dipeptidase A)</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="16" speclong="Caenorhabditis remanei"/>
+    <clusters>
+      <cluster nr="1890">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="61%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="RP25568" gene_id="WBGene00051736" score="1" boot="100%" protlink="http://www.wormbase.org/db/seq/protein?name=RP:RP25568" genelink="http://www.wormbase.org/db/gene/gene?name=WBGene00051736" speclink="http://wormbase.org/" speclong="Caenorhabditis remanei" specshort="C.remanei" spec_id="16">
+          <description>C. remanei CRE-ACN-1 protein; contains similarity to Pfam domain PF01401 Angiotensin-converting enzyme contains similarity to Interpro domain IPR001548 (Peptidase M2, peptidyl-dipeptidase A)</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="18" speclong="Culex pipiens"/>
+    <clusters>
+      <cluster nr="307">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="CPIJ004086" gene_id="CPIJ004086" score="1" boot="100%" protlink="http://cpipiens.vectorbase.org/Genome/GeneView/?gene=CPIJ004086" genelink="http://cpipiens.vectorbase.org/Genome/GeneView/?gene=CPIJ004086" speclink="http://cpipiens.vectorbase.org" speclong="Culex pipiens" specshort="C.pipiens" spec_id="18">
+          <description>angiotensin-converting enzyme</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="23" speclong="Branchiostoma floridae"/>
+    <clusters>
+      <cluster nr="346">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="246631" gene_id="246631" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=246631" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=246631" speclink="http://genome.jgi-psf.org/Brafl1/Brafl1.home.html" speclong="Branchiostoma floridae" specshort="B.floridae" spec_id="23">
+          <description>Angiotensin I-converting enzymes - M2 family peptidases</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="213336" gene_id="213336" score="0.555" boot="" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=213336" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=213336" speclink="http://genome.jgi-psf.org/Brafl1/Brafl1.home.html" speclong="Branchiostoma floridae" specshort="B.floridae" spec_id="23">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="101459" gene_id="101459" score="0.265" boot="" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=101459" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=101459" speclink="http://genome.jgi-psf.org/Brafl1/Brafl1.home.html" speclong="Branchiostoma floridae" specshort="B.floridae" spec_id="23">
+          <description>Angiotensin I-converting enzymes - M2 family peptidases</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="25" speclong="Daphnia pulex"/>
+    <clusters>
+      <cluster nr="304">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="307838" gene_id="307838" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Dappu1&amp;tid=307838" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Dappu1&amp;tid=307838" speclink="http://genome.jgi-psf.org/Dappu1/Dappu1.home.html" speclong="Daphnia pulex" specshort="D.pulex" spec_id="25">
+          <description>Angiotensin I-converting enzymes - M2 family peptidases</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="27" speclong="Lottia gigantea"/>
+    <clusters>
+      <cluster nr="252">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="215685" gene_id="215685" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Lotgi1&amp;tid=215685" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Lotgi1&amp;tid=215685" speclink="http://genome.jgi-psf.org/Lotgi1/Lotgi1.home.html" speclong="Lottia gigantea" specshort="L.gigantea" spec_id="27">
+          <description></description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="118685" gene_id="118685" score="0.133" boot="" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Lotgi1&amp;tid=118685" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Lotgi1&amp;tid=118685" speclink="http://genome.jgi-psf.org/Lotgi1/Lotgi1.home.html" speclong="Lottia gigantea" specshort="L.gigantea" spec_id="27">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="28" speclong="Nematostella vectensis"/>
+    <clusters>
+      <cluster nr="271">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="190941" gene_id="190941" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Nemve1&amp;tid=190941" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Nemve1&amp;tid=190941" speclink="http://genome.jgi-psf.org/Nemve1/Nemve1.home.html" speclong="Nematostella vectensis" specshort="N.vectensis" spec_id="28">
+          <description>Angiotensin I-converting enzymes - M2 family peptidases</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="29" speclong="Trichoplax adhaerens"/>
+    <clusters>
+      <cluster nr="158">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="37492" gene_id="37492" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Triad1&amp;tid=37492" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Triad1&amp;tid=37492" speclink="http://genome.jgi-psf.org/Triad1/Triad1.home.html" speclong="Trichoplax adhaerens" specshort="T.adhaerens" spec_id="29">
+          <description>Angiotensin I-converting enzymes - M2 family peptidases</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="33" speclong="Strongylocentrotus purpuratus"/>
+    <clusters>
+      <cluster nr="1111">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="92%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001191303.1" gene_id="580220" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001191303.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=580220" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=10728" speclong="Strongylocentrotus purpuratus" specshort="S.purpuratus" spec_id="33">
+          <description> PREDICTED: similar to angiotensin converting enzyme, partial</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_782641.1" gene_id="577312" score="0.396" boot="" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_782641.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=577312" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=10728" speclong="Strongylocentrotus purpuratus" specshort="S.purpuratus" spec_id="33">
+          <description> PREDICTED: similar to angiotensin converting enzyme</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="57" speclong="Pongo pygmaeus abelii"/>
+    <clusters>
+      <cluster nr="981">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSPPYP00000009573" gene_id="ENSPPYG00000008523" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/protview?peptide=ENSPPYP00000009573" genelink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/geneview?gene=ENSPPYG00000008523" speclink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/Info/Index/" speclong="Pongo pygmaeus abelii" specshort="P.pygmaeus" spec_id="57">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="58" speclong="Gallus gallus"/>
+    <clusters>
+      <cluster nr="860">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSGALP00000039731" gene_id="ENSGALG00000000498" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Gallus_gallus/protview?peptide=ENSGALP00000039731" genelink="http://Dec2008.archive.ensembl.org/Gallus_gallus/geneview?gene=ENSGALG00000000498" speclink="http://Dec2008.archive.ensembl.org/Gallus_gallus/Info/Index/" speclong="Gallus gallus" specshort="G.gallus" spec_id="58">
+          <description>Angiotensin-converting enzyme (EC 3.4.15.1) (Dipeptidyl carboxypeptidase I) (Kininase II) (Fragment). [Source:UniProtKB/Swiss-Prot;Acc:Q10751]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="59" speclong="Pan troglodytes"/>
+    <clusters>
+      <cluster nr="1425">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSPTRP00000038991" gene_id="ENSPTRG00000009513" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/protview?peptide=ENSPTRP00000038991" genelink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/geneview?gene=ENSPTRG00000009513" speclink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/Info/Index/" speclong="Pan troglodytes" specshort="P.troglodytes" spec_id="59">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="61" speclong="Canis familiaris"/>
+    <clusters>
+      <cluster nr="969">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCAFP00000019153" gene_id="ENSCAFG00000012998" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Canis_familiaris/protview?peptide=ENSCAFP00000019153" genelink="http://Dec2008.archive.ensembl.org/Canis_familiaris/geneview?gene=ENSCAFG00000012998" speclink="http://Dec2008.archive.ensembl.org/Canis_familiaris/Info/Index/" speclong="Canis familiaris" specshort="C.familiaris" spec_id="61">
+          <description>Angiotensin I converting enzyme 1 (Fragment). [Source:UniProtKB/TrEMBL;Acc:Q3HTU3]</description>
+          <alt_ids>
+            <alt_id id="Q95161" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q95161"/>
+            <alt_id id="Q3HTU3" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q3HTU3"/>
+            <alt_id id="O18865" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=O18865"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="62" speclong="Takifugu rubripes"/>
+    <clusters>
+      <cluster nr="631">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSTRUP00000042104" gene_id="ENSTRUG00000016473" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/protview?peptide=ENSTRUP00000042104" genelink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/geneview?gene=ENSTRUG00000016473" speclink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/Info/Index/" speclong="Takifugu rubripes" specshort="T.rubripes" spec_id="62">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="63" speclong="Cavia porcellus"/>
+    <clusters>
+      <cluster nr="882">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCPOP00000001456" gene_id="ENSCPOG00000001614" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/protview?peptide=ENSCPOP00000001456" genelink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/geneview?gene=ENSCPOG00000001614" speclink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/Info/Index/" speclong="Cavia porcellus" specshort="C.porcellus" spec_id="63">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="64" speclong="Equus caballus"/>
+    <clusters>
+      <cluster nr="941">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSECAP00000011650" gene_id="ENSECAG00000012910" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Equus_caballus/protview?peptide=ENSECAP00000011650" genelink="http://Dec2008.archive.ensembl.org/Equus_caballus/geneview?gene=ENSECAG00000012910" speclink="http://Dec2008.archive.ensembl.org/Equus_caballus/Info/Index/" speclong="Equus caballus" specshort="E.caballus" spec_id="64">
+          <description>Angiotensin-converting enzyme (Fragment). [Source:UniProtKB/TrEMBL;Acc:Q9MZ24]</description>
+          <alt_ids>
+            <alt_id id="Q9MZ24" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q9MZ24"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="66" speclong="Macaca mulatta"/>
+    <clusters>
+      <cluster nr="941">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMMUP00000016555" gene_id="ENSMMUG00000012608" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/protview?peptide=ENSMMUP00000016555" genelink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/geneview?gene=ENSMMUG00000012608" speclink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/Info/Index/" speclong="Macaca mulatta" specshort="M.mulatta" spec_id="66">
+          <description>Angiotensin-converting enzyme (Fragment). [Source:UniProtKB/TrEMBL;Acc:Q6V8L3]</description>
+          <alt_ids>
+            <alt_id id="Q6V8L3" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q6V8L3"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="67" speclong="Oryzias latipes"/>
+    <clusters>
+      <cluster nr="561">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSORLP00000005366" gene_id="ENSORLG00000004282" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/protview?peptide=ENSORLP00000005366" genelink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/geneview?gene=ENSORLG00000004282" speclink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/Info/Index/" speclong="Oryzias latipes" specshort="O.latipes" spec_id="67">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="68" speclong="Mus musculus"/>
+    <clusters>
+      <cluster nr="962">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMUSP00000001963" gene_id="ENSMUSG00000020681" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Mus_musculus/protview?peptide=ENSMUSP00000001963" genelink="http://Dec2008.archive.ensembl.org/Mus_musculus/geneview?gene=ENSMUSG00000020681" speclink="http://Dec2008.archive.ensembl.org/Mus_musculus/Info/Index/" speclong="Mus musculus" specshort="M.musculus" spec_id="68">
+          <description>angiotensin I converting enzyme (peptidyl-dipeptidase A) 1 Gene [Source:MGI (curated);Acc:Ace-001]</description>
+          <alt_ids>
+            <alt_id id="Q5XK22" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q5XK22"/>
+            <alt_id id="Q61265" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q61265"/>
+            <alt_id id="P09470" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P09470"/>
+            <alt_id id="NP_997507" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_997507"/>
+            <alt_id id="MGI:87874" db="MGI ID" link="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:87874"/>
+            <alt_id id="Q7TSV8" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q7TSV8"/>
+            <alt_id id="Q3TU20" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q3TU20"/>
+            <alt_id id="Q3U3Q7" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q3U3Q7"/>
+            <alt_id id="Q8K233" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q8K233"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="69" speclong="Monodelphis domestica"/>
+    <clusters>
+      <cluster nr="1869">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMODP00000012618" gene_id="ENSMODG00000010075" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/protview?peptide=ENSMODP00000012618" genelink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/geneview?gene=ENSMODG00000010075" speclink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/Info/Index/" speclong="Monodelphis domestica" specshort="M.domestica" spec_id="69">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="70" speclong="Ornithorhynchus anatinus"/>
+    <clusters>
+      <cluster nr="2505">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSOANP00000006295" gene_id="ENSOANG00000003975" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/protview?peptide=ENSOANP00000006295" genelink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/geneview?gene=ENSOANG00000003975" speclink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/Info/Index/" speclong="Ornithorhynchus anatinus" specshort="O.anatinus" spec_id="70">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="71" speclong="Rattus norvegicus"/>
+    <clusters>
+      <cluster nr="782">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSRNOP00000010627" gene_id="ENSRNOG00000007467" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/protview?peptide=ENSRNOP00000010627" genelink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/geneview?gene=ENSRNOG00000007467" speclink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/Info/Index/" speclong="Rattus norvegicus" specshort="R.norvegicus" spec_id="71">
+          <description>Angiotensin-converting enzyme, somatic isoform precursor (EC 3.4.15.1) (Dipeptidyl carboxypeptidase I) (Kininase II) [Contains: Angiotensin- converting enzyme, somatic isoform, soluble form]. [Source:UniProtKB/Swiss-Prot;Acc:P47820]</description>
+          <alt_ids>
+            <alt_id id="Q64603" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q64603"/>
+            <alt_id id="Q8CJ04" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q8CJ04"/>
+            <alt_id id="P47820" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P47820"/>
+            <alt_id id="NP_036676" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_036676"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="72" speclong="Gasterosteus aculeatus"/>
+    <clusters>
+      <cluster nr="610">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSGACP00000013098" gene_id="ENSGACG00000009898" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/protview?peptide=ENSGACP00000013098" genelink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/geneview?gene=ENSGACG00000009898" speclink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/Info/Index/" speclong="Gasterosteus aculeatus" specshort="G.aculeatus" spec_id="72">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="73" speclong="Tetraodon nigroviridis"/>
+    <clusters>
+      <cluster nr="549">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSTNIP00000015829" gene_id="ENSTNIG00000012854" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/protview?peptide=ENSTNIP00000015829" genelink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/geneview?gene=ENSTNIG00000012854" speclink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/Info/Index/" speclong="Tetraodon nigroviridis" specshort="T.nigroviridis" spec_id="73">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="74" speclong="Xenopus tropicalis"/>
+    <clusters>
+      <cluster nr="431">
+        <protein prot_id="ENSP00000290866" gene_id="ENSG00000159640" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000290866" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000159640" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids>
+            <alt_id id="P12821" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=P12821"/>
+            <alt_id id="NP_690043" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_690043"/>
+            <alt_id id="NP_000780" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_000780"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSXETP00000011659" gene_id="ENSXETG00000005315" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/protview?peptide=ENSXETP00000011659" genelink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/geneview?gene=ENSXETG00000005315" speclink="http://Dec2008.archive.ensembl.org/Xenopus_tropicalis/Info/Index/" speclong="Xenopus tropicalis" specshort="X.tropicalis" spec_id="74">
+          <description>Angiotensin-converting enzyme Precursor (EC 3.4.15.1)(EC 3.2.1.-)(Dipeptidyl carboxypeptidase I)(Kininase II)(CD143 antigen) [Contains Angiotensin-converting enzyme, soluble form] [Source:UniProtKB/Swiss-Prot;Acc:P12821]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+</cluster_list>

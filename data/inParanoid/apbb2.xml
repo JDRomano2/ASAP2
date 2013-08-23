@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cluster_list>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="1" speclong="Aedes aegypti"/>
+    <clusters>
+      <cluster nr="2290">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.173" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="AAEL004669-PA" gene_id="AAEL004669" score="1" boot="100%" protlink="http://dec2008.archive.ensembl.org/Aedes_aegypti/protview?peptide=AAEL004669-PA" genelink="http://dec2008.archive.ensembl.org/Aedes_aegypti/geneview?gene=AAEL004669" speclink="http://dec2008.archive.ensembl.org/Aedes_aegypti/" speclong="Aedes aegypti" specshort="A.aegypti" spec_id="1">
+          <description>conserved hypothetical protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="12" speclong="Caenorhabditis brenneri"/>
+    <clusters>
+      <cluster nr="1710">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.221" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000346378" gene_id="ENSG00000113108" score="0.083" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000346378" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000113108" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 3 (Fe65-like protein 2)(Fe65L2) [Source:UniProtKB/Swiss-Prot;Acc:O95704]</description>
+          <alt_ids>
+            <alt_id id="NP_006042" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006042"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="CN30079" gene_id="WBGene00154267" score="1" boot="100%" protlink="http://www.wormbase.org/db/seq/protein?name=CN:CN30079" genelink="http://www.wormbase.org/db/gene/gene?name=WBGene00154267" speclink="http://wormbase.org/" speclong="Caenorhabditis brenneri" specshort="C.brenneri" spec_id="12">
+          <description>CBN15542</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="13" speclong="Caenorhabditis briggsae"/>
+    <clusters>
+      <cluster nr="1965">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.216" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000346378" gene_id="ENSG00000113108" score="0.076" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000346378" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000113108" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 3 (Fe65-like protein 2)(Fe65L2) [Source:UniProtKB/Swiss-Prot;Acc:O95704]</description>
+          <alt_ids>
+            <alt_id id="NP_006042" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006042"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="CBP33327" gene_id="WBGene00031363" score="1" boot="100%" protlink="http://www.wormbase.org/db/seq/protein?name=BP:CBP33327" genelink="http://www.wormbase.org/db/gene/gene?name=WBGene00031363" speclink="http://wormbase.org/" speclong="Caenorhabditis briggsae" specshort="C.briggsae" spec_id="13">
+          <description>CBG09847|Cbr-feh-1</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="14" speclong="Caenorhabditis elegans"/>
+    <clusters>
+      <cluster nr="2069">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.218" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000346378" gene_id="ENSG00000113108" score="0.079" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000346378" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000113108" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 3 (Fe65-like protein 2)(Fe65L2) [Source:UniProtKB/Swiss-Prot;Acc:O95704]</description>
+          <alt_ids>
+            <alt_id id="NP_006042" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006042"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="CE27287" gene_id="WBGene00001410" score="1" boot="100%" protlink="http://www.wormbase.org/db/seq/protein?name=WP:CE27287" genelink="http://www.wormbase.org/db/gene/gene?name=WBGene00001410" speclink="http://wormbase.org/" speclong="Caenorhabditis elegans" specshort="C.elegans" spec_id="14">
+          <description>Y54F10AM.2|feh-1; CDS=Y54F10AM.2a</description>
+          <alt_ids>
+            <alt_id id="Q9BKZ9" db="UniProt Acc" link="http://www.uniprot.org/uniprot/?query=Q9BKZ9"/>
+            <alt_id id="AAK29940" db="Protein ID" link="http://www.ncbi.nlm.nih.gov/sites/entrez?db=protein&amp;cmd=&amp;term=AAK29940"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="15" speclong="Caenorhabditis japonica"/>
+    <clusters>
+      <cluster nr="1656">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.216" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000346378" gene_id="ENSG00000113108" score="0.076" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000346378" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000113108" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 3 (Fe65-like protein 2)(Fe65L2) [Source:UniProtKB/Swiss-Prot;Acc:O95704]</description>
+          <alt_ids>
+            <alt_id id="NP_006042" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006042"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="JA09737" gene_id="WBGene00123697" score="1" boot="100%" protlink="http://www.wormbase.org/db/seq/protein?name=JA:JA09737" genelink="http://www.wormbase.org/db/gene/gene?name=WBGene00123697" speclink="http://wormbase.org/" speclong="Caenorhabditis japonica" specshort="C.japonica" spec_id="15">
+          <description>C. japonica CJP-FEH-1 protein; contains similarity to Interpro domains IPR003006 (), IPR006020 (Phosphotyrosine interaction region), IPR011993 (Pleckstrin homology-type), IPR001202 (WW/Rsp5/WWP)</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="16" speclong="Caenorhabditis remanei"/>
+    <clusters>
+      <cluster nr="1914">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.214" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000346378" gene_id="ENSG00000113108" score="0.074" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000346378" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000113108" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 3 (Fe65-like protein 2)(Fe65L2) [Source:UniProtKB/Swiss-Prot;Acc:O95704]</description>
+          <alt_ids>
+            <alt_id id="NP_006042" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006042"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="RP11786" gene_id="WBGene00054882" score="1" boot="100%" protlink="http://www.wormbase.org/db/seq/protein?name=RP:RP11786" genelink="http://www.wormbase.org/db/gene/gene?name=WBGene00054882" speclink="http://wormbase.org/" speclong="Caenorhabditis remanei" specshort="C.remanei" spec_id="16">
+          <description>C. remanei CRE-FEH-1 protein; contains similarity to Pfam domains PF00397 (WW domain) , PF00640 (Phosphotyrosine interaction domain (PTB/PID)) (2)contains similarity to Interpro domains IPR011993 (Pleckstrin homology-type), IPR003006 (Immunoglobulin/major histocompatibility complex, conserved site), IPR006020 (Phosphotyrosine interaction region), IPR001202 (WW/Rsp5/WWP)</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="19" speclong="Pediculus humanus"/>
+    <clusters>
+      <cluster nr="2775">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.194" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000346378" gene_id="ENSG00000113108" score="0.05" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000346378" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000113108" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 3 (Fe65-like protein 2)(Fe65L2) [Source:UniProtKB/Swiss-Prot;Acc:O95704]</description>
+          <alt_ids>
+            <alt_id id="NP_006042" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006042"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="PHUM002697-PA" gene_id="PHUM002697" score="1" boot="100%" protlink="http://www.tigr.org/tigr-scripts/gbrowse/gbrowse/louse/?=PHUM002697-PA" genelink="http://www.tigr.org/tigr-scripts/gbrowse/gbrowse/louse/?=PHUM002697" speclink="http://phumanus.vectorbase.org" speclong="Pediculus humanus" specshort="P.humanus" spec_id="19">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="20" speclong="Ixodes scapularis"/>
+    <clusters>
+      <cluster nr="3059">
+        <protein prot_id="ENSP00000346378" gene_id="ENSG00000113108" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000346378" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000113108" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 3 (Fe65-like protein 2)(Fe65L2) [Source:UniProtKB/Swiss-Prot;Acc:O95704]</description>
+          <alt_ids>
+            <alt_id id="NP_006042" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006042"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="0.191" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.13" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ISCW011496-PA" gene_id="ISCW011496" score="1" boot="100%" protlink="http://iscapularis.vectorbase.org/Genome/ProtView/?db=core;peptide=ISCW011496-PA" genelink="http://iscapularis.vectorbase.org/Genome/GeneView/?gene=ISCW011496" speclink="http://iscapularis.vectorbase.org" speclong="Ixodes scapularis" specshort="I.scapularis" spec_id="20">
+          <description>amyloid beta A4 precursor protein (APP)-binding protein, putative</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="21" speclong="Bombyx mori"/>
+    <clusters>
+      <cluster nr="2139">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.196" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000346378" gene_id="ENSG00000113108" score="0.053" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000346378" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000113108" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 3 (Fe65-like protein 2)(Fe65L2) [Source:UniProtKB/Swiss-Prot;Acc:O95704]</description>
+          <alt_ids>
+            <alt_id id="NP_006042" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006042"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="BGIBMGA009333-PA" gene_id="BGIBMGA009333" score="1" boot="100%" genelink="http://silkworm.swu.edu.cn/cgi-bin/gbrowse/silkdb/?name=BGIBMGA009333" speclink="http://silkworm.swu.edu.cn/silkdb" speclong="Bombyx mori" specshort="B.mori" spec_id="21">
+          <description>Phosphotyrosine interaction region; WW/Rsp5/WWP</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="23" speclong="Branchiostoma floridae"/>
+    <clusters>
+      <cluster nr="2871">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.098" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="88451" gene_id="88451" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=88451" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Brafl1&amp;tid=88451" speclink="http://genome.jgi-psf.org/Brafl1/Brafl1.home.html" speclong="Branchiostoma floridae" specshort="B.floridae" spec_id="23">
+          <description>Predicted membrane protein, contains DoH and Cytochrome b-561/ferric reductase transmembrane domains</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="24" speclong="Capitella spI"/>
+    <clusters>
+      <cluster nr="3486">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.188" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="224794" gene_id="224794" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Capca1&amp;tid=224794" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Capca1&amp;tid=224794" speclink="http://genome.jgi-psf.org/Capca1/Capca1.home.html" speclong="Capitella spI" specshort="C.spI" spec_id="24">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="25" speclong="Daphnia pulex"/>
+    <clusters>
+      <cluster nr="2757">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.189" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="198588" gene_id="198588" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Dappu1&amp;tid=198588" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Dappu1&amp;tid=198588" speclink="http://genome.jgi-psf.org/Dappu1/Dappu1.home.html" speclong="Daphnia pulex" specshort="D.pulex" spec_id="25">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="26" speclong="Helobdella robusta"/>
+    <clusters>
+      <cluster nr="4782">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.31" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000346378" gene_id="ENSG00000113108" score="0.187" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000346378" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000113108" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 3 (Fe65-like protein 2)(Fe65L2) [Source:UniProtKB/Swiss-Prot;Acc:O95704]</description>
+          <alt_ids>
+            <alt_id id="NP_006042" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006042"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="194585" gene_id="194585" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Helro1&amp;tid=194585" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Helro1&amp;tid=194585" speclink="http://genome.jgi-psf.org/Helro1/Helro1.home.html" speclong="Helobdella robusta" specshort="H.robusta" spec_id="26">
+          <description>Chitinase</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="27" speclong="Lottia gigantea"/>
+    <clusters>
+      <cluster nr="5152">
+        <protein prot_id="ENSP00000346378" gene_id="ENSG00000113108" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000346378" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000113108" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 3 (Fe65-like protein 2)(Fe65L2) [Source:UniProtKB/Swiss-Prot;Acc:O95704]</description>
+          <alt_ids>
+            <alt_id id="NP_006042" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006042"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="0.236" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.179" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="104526" gene_id="104526" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Lotgi1&amp;tid=104526" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Lotgi1&amp;tid=104526" speclink="http://genome.jgi-psf.org/Lotgi1/Lotgi1.home.html" speclong="Lottia gigantea" specshort="L.gigantea" spec_id="27">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="28" speclong="Nematostella vectensis"/>
+    <clusters>
+      <cluster nr="4559">
+        <protein prot_id="ENSP00000346378" gene_id="ENSG00000113108" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000346378" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000113108" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 3 (Fe65-like protein 2)(Fe65L2) [Source:UniProtKB/Swiss-Prot;Acc:O95704]</description>
+          <alt_ids>
+            <alt_id id="NP_006042" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006042"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="0.237" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.18" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="136532" gene_id="136532" score="1" boot="100%" protlink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Nemve1&amp;tid=136532" genelink="http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Nemve1&amp;tid=136532" speclink="http://genome.jgi-psf.org/Nemve1/Nemve1.home.html" speclong="Nematostella vectensis" specshort="N.vectensis" spec_id="28">
+          <description>Adaptor protein CED-6, contains PTB domain</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="30" speclong="Acyrthosiphon pisum"/>
+    <clusters>
+      <cluster nr="2104">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.175" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_001944449.1" gene_id="100166623" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001944449.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100166623" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13646" speclong="Acyrthosiphon pisum" specshort="A.pisum" spec_id="30">
+          <description> PREDICTED: similar to mammalian FE65 Homolog family member (feh-1)</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="31" speclong="Apis mellifera"/>
+    <clusters>
+      <cluster nr="2337">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.17" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_394328.3" gene_id="410852" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_394328.3" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=410852" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=9555" speclong="Apis mellifera" specshort="A.mellifera" spec_id="31">
+          <description> PREDICTED: similar to mammalian FE65 Homolog family member (feh-1)</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="32" speclong="Nasonia vitripennis"/>
+    <clusters>
+      <cluster nr="2308">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.178" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_001603939.1" gene_id="100120281" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001603939.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=100120281" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=13647" speclong="Nasonia vitripennis" specshort="N.vitripennis" spec_id="32">
+          <description> PREDICTED: similar to conserved hypothetical protein</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="33" speclong="Strongylocentrotus purpuratus"/>
+    <clusters>
+      <cluster nr="2384">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.131" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="XP_787988.2" gene_id="582967" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_787988.2" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=582967" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=10728" speclong="Strongylocentrotus purpuratus" specshort="S.purpuratus" spec_id="33">
+          <description> PREDICTED: similar to amyloid beta A4 precursor protein-binding, family B, member 2</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="35" speclong="Brugia malayi"/>
+    <clusters>
+      <cluster nr="927">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSP00000374557" gene_id="ENSG00000166313" score="0.199" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000374557" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000166313" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 1 (Fe65 protein) [Source:UniProtKB/Swiss-Prot;Acc:O00213]</description>
+          <alt_ids/>
+        </protein>
+        <protein prot_id="ENSP00000346378" gene_id="ENSG00000113108" score="0.057" boot="" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000346378" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000113108" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 3 (Fe65-like protein 2)(Fe65L2) [Source:UniProtKB/Swiss-Prot;Acc:O95704]</description>
+          <alt_ids>
+            <alt_id id="NP_006042" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_006042"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="XP_001900938.1" gene_id="6104362" score="1" boot="100%" protlink="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=XP_001900938.1" genelink="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=search&amp;term=6104362" speclink="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genomeprj&amp;cmd=ShowDetailView&amp;TermToSearch=9549" speclong="Brugia malayi" specshort="B.malayi" spec_id="35">
+          <description>Mammalian fe65 homolog protein 1, isoform c</description>
+          <alt_ids>
+            <alt_id id="A8QA00" db="UniProt" link="http://www.uniprot.org/uniprot/?query=A8QA00"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="57" speclong="Pongo pygmaeus abelii"/>
+    <clusters>
+      <cluster nr="3429">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSPPYP00000016410" gene_id="ENSPPYG00000014690" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/protview?peptide=ENSPPYP00000016410" genelink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/geneview?gene=ENSPPYG00000014690" speclink="http://Dec2008.archive.ensembl.org/Pongo_pygmaeus/Info/Index/" speclong="Pongo pygmaeus abelii" specshort="P.pygmaeus" spec_id="57">
+          <description>Putative uncharacterized protein DKFZp469I236. [Source:UniProtKB/TrEMBL;Acc:Q5R9H8]</description>
+          <alt_ids>
+            <alt_id id="Q5RDE4" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q5RDE4"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="58" speclong="Gallus gallus"/>
+    <clusters>
+      <cluster nr="2211">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSGALP00000036634" gene_id="ENSGALG00000014262" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Gallus_gallus/protview?peptide=ENSGALP00000036634" genelink="http://Dec2008.archive.ensembl.org/Gallus_gallus/geneview?gene=ENSGALG00000014262" speclink="http://Dec2008.archive.ensembl.org/Gallus_gallus/Info/Index/" speclong="Gallus gallus" specshort="G.gallus" spec_id="58">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="59" speclong="Pan troglodytes"/>
+    <clusters>
+      <cluster nr="3520">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSPTRP00000027547" gene_id="ENSPTRG00000016008" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/protview?peptide=ENSPTRP00000027547" genelink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/geneview?gene=ENSPTRG00000016008" speclink="http://Dec2008.archive.ensembl.org/Pan_troglodytes/Info/Index/" speclong="Pan troglodytes" specshort="P.troglodytes" spec_id="59">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="60" speclong="Bos taurus"/>
+    <clusters>
+      <cluster nr="2670">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSBTAP00000039437" gene_id="ENSBTAG00000027569" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Bos_taurus/protview?peptide=ENSBTAP00000039437" genelink="http://Dec2008.archive.ensembl.org/Bos_taurus/geneview?gene=ENSBTAG00000027569" speclink="http://Dec2008.archive.ensembl.org/Bos_taurus/Info/Index/" speclong="Bos taurus" specshort="B.taurus" spec_id="60">
+          <description>amyloid beta A4 precursor protein-binding, family B, member 2  [Source:RefSeq peptide;Acc:NP_001070315]</description>
+          <alt_ids>
+            <alt_id id="Q08E17" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q08E17"/>
+            <alt_id id="NP_001070315" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_001070315"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="61" speclong="Canis familiaris"/>
+    <clusters>
+      <cluster nr="2864">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCAFP00000031402" gene_id="ENSCAFG00000015887" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Canis_familiaris/protview?peptide=ENSCAFP00000031402" genelink="http://Dec2008.archive.ensembl.org/Canis_familiaris/geneview?gene=ENSCAFG00000015887" speclink="http://Dec2008.archive.ensembl.org/Canis_familiaris/Info/Index/" speclong="Canis familiaris" specshort="C.familiaris" spec_id="61">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="62" speclong="Takifugu rubripes"/>
+    <clusters>
+      <cluster nr="2542">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSTRUP00000035195" gene_id="ENSTRUG00000013779" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/protview?peptide=ENSTRUP00000035195" genelink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/geneview?gene=ENSTRUG00000013779" speclink="http://Dec2008.archive.ensembl.org/Takifugu_rubripes/Info/Index/" speclong="Takifugu rubripes" specshort="T.rubripes" spec_id="62">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="63" speclong="Cavia porcellus"/>
+    <clusters>
+      <cluster nr="2761">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSCPOP00000006026" gene_id="ENSCPOG00000006689" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/protview?peptide=ENSCPOP00000006026" genelink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/geneview?gene=ENSCPOG00000006689" speclink="http://Dec2008.archive.ensembl.org/Cavia_porcellus/Info/Index/" speclong="Cavia porcellus" specshort="C.porcellus" spec_id="63">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="64" speclong="Equus caballus"/>
+    <clusters>
+      <cluster nr="3389">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSECAP00000018191" gene_id="ENSECAG00000020719" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Equus_caballus/protview?peptide=ENSECAP00000018191" genelink="http://Dec2008.archive.ensembl.org/Equus_caballus/geneview?gene=ENSECAG00000020719" speclink="http://Dec2008.archive.ensembl.org/Equus_caballus/Info/Index/" speclong="Equus caballus" specshort="E.caballus" spec_id="64">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="66" speclong="Macaca mulatta"/>
+    <clusters>
+      <cluster nr="3147">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMMUP00000035310" gene_id="ENSMMUG00000012563" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/protview?peptide=ENSMMUP00000035310" genelink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/geneview?gene=ENSMMUG00000012563" speclink="http://Dec2008.archive.ensembl.org/Macaca_mulatta/Info/Index/" speclong="Macaca mulatta" specshort="M.mulatta" spec_id="66">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="67" speclong="Oryzias latipes"/>
+    <clusters>
+      <cluster nr="2231">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSORLP00000007340" gene_id="ENSORLG00000005834" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/protview?peptide=ENSORLP00000007340" genelink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/geneview?gene=ENSORLG00000005834" speclink="http://Dec2008.archive.ensembl.org/Oryzias_latipes/Info/Index/" speclong="Oryzias latipes" specshort="O.latipes" spec_id="67">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="68" speclong="Mus musculus"/>
+    <clusters>
+      <cluster nr="3024">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMUSP00000066336" gene_id="ENSMUSG00000029207" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Mus_musculus/protview?peptide=ENSMUSP00000066336" genelink="http://Dec2008.archive.ensembl.org/Mus_musculus/geneview?gene=ENSMUSG00000029207" speclink="http://Dec2008.archive.ensembl.org/Mus_musculus/Info/Index/" speclong="Mus musculus" specshort="M.musculus" spec_id="68">
+          <description>amyloid beta (A4) precursor protein-binding, family B, member 2 Gene [Source:MGI Symbol;Acc:MGI:108405]</description>
+          <alt_ids>
+            <alt_id id="Q3TEP8" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q3TEP8"/>
+            <alt_id id="P70415" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=P70415"/>
+            <alt_id id="Q3T9N0" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q3T9N0"/>
+            <alt_id id="Q8BSK4" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q8BSK4"/>
+            <alt_id id="Q3TIZ5" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q3TIZ5"/>
+            <alt_id id="Q9R021" db="UniProt/TrEMBL Accession" link="http://www.uniprot.org/uniprot/?query=Q9R021"/>
+            <alt_id id="Q9DBR4" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q9DBR4"/>
+            <alt_id id="NP_033816" db="RefSeq Protein ID" link="http://www.ncbi.nlm.nih.gov/entrez/viewer.cgi?val=NP_033816"/>
+            <alt_id id="MGI:108405" db="MGI ID" link="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:108405"/>
+          </alt_ids>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="69" speclong="Monodelphis domestica"/>
+    <clusters>
+      <cluster nr="2228">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSMODP00000025725" gene_id="ENSMODG00000020566" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/protview?peptide=ENSMODP00000025725" genelink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/geneview?gene=ENSMODG00000020566" speclink="http://Dec2008.archive.ensembl.org/Monodelphis_domestica/Info/Index/" speclong="Monodelphis domestica" specshort="M.domestica" spec_id="69">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="70" speclong="Ornithorhynchus anatinus"/>
+    <clusters>
+      <cluster nr="3927">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSOANP00000001582" gene_id="ENSOANG00000000996" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/protview?peptide=ENSOANP00000001582" genelink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/geneview?gene=ENSOANG00000000996" speclink="http://Dec2008.archive.ensembl.org/Ornithorhynchus_anatinus/Info/Index/" speclong="Ornithorhynchus anatinus" specshort="O.anatinus" spec_id="70">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="71" speclong="Rattus norvegicus"/>
+    <clusters>
+      <cluster nr="3588">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSRNOP00000040294" gene_id="ENSRNOG00000025509" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/protview?peptide=ENSRNOP00000040294" genelink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/geneview?gene=ENSRNOG00000025509" speclink="http://Dec2008.archive.ensembl.org/Rattus_norvegicus/Info/Index/" speclong="Rattus norvegicus" specshort="R.norvegicus" spec_id="71">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="72" speclong="Gasterosteus aculeatus"/>
+    <clusters>
+      <cluster nr="2582">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSGACP00000021393" gene_id="ENSGACG00000016213" score="1" boot="99%" protlink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/protview?peptide=ENSGACP00000021393" genelink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/geneview?gene=ENSGACG00000016213" speclink="http://Dec2008.archive.ensembl.org/Gasterosteus_aculeatus/Info/Index/" speclong="Gasterosteus aculeatus" specshort="G.aculeatus" spec_id="72">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="73" speclong="Tetraodon nigroviridis"/>
+    <clusters>
+      <cluster nr="2560">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSTNIP00000000863" gene_id="ENSTNIG00000004641" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/protview?peptide=ENSTNIP00000000863" genelink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/geneview?gene=ENSTNIG00000004641" speclink="http://Dec2008.archive.ensembl.org/Tetraodon_nigroviridis/Info/Index/" speclong="Tetraodon nigroviridis" specshort="T.nigroviridis" spec_id="73">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+  <speciespair>
+    <species id="65" speclong="Homo Sapiens"/>
+    <species id="75" speclong="Danio rerio"/>
+    <clusters>
+      <cluster nr="1654">
+        <protein prot_id="ENSP00000318965" gene_id="ENSG00000163697" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Homo_sapiens/protview?peptide=ENSP00000318965" genelink="http://Dec2008.archive.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000163697" speclink="http://Dec2008.archive.ensembl.org/Homo_sapiens/Info/Index/" speclong="Homo Sapiens" specshort="H.sapiens" spec_id="65">
+          <description>Amyloid beta A4 precursor protein-binding family B member 2 (Fe65-like protein) [Source:UniProtKB/Swiss-Prot;Acc:Q92870]</description>
+          <alt_ids>
+            <alt_id id="Q92870" db="UniProt/SwissProt Accession" link="http://www.uniprot.org/uniprot/?query=Q92870"/>
+          </alt_ids>
+        </protein>
+        <protein prot_id="ENSDARP00000093821" gene_id="ENSDARG00000061880" score="1" boot="100%" protlink="http://Dec2008.archive.ensembl.org/Danio_rerio/protview?peptide=ENSDARP00000093821" genelink="http://Dec2008.archive.ensembl.org/Danio_rerio/geneview?gene=ENSDARG00000061880" speclink="http://Dec2008.archive.ensembl.org/Danio_rerio/Info/Index/" speclong="Danio rerio" specshort="D.rerio" spec_id="75">
+          <description></description>
+          <alt_ids/>
+        </protein>
+      </cluster>
+    </clusters>
+  </speciespair>
+</cluster_list>
