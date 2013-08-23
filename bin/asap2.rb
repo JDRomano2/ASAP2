@@ -27,9 +27,9 @@ require 'terminal-table'
 # USER CONFIGURATION #
 ######################
 
-$user_email = "jdromano@uvm.edu"
+$user_email = ""
 
-$tnt_path = "/usr/local/bin/tnt/"
+$tnt_path = ""
 
 ##########################
 # END USER CONFIGURATION #
