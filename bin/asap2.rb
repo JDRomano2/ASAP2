@@ -181,11 +181,13 @@ if resume == 0 #Without "resume" option, proceed with recursive BLAST + PSI-BLAS
       psiblast_gis.push(current_hash)
     end
 
-    gi_list.each do |custom_record|
-      if psiblast_gis.include?(custom_record)
-        both.push(custom_record)
+    #Sort all GIs into arrays, specifying whether the GI is present in either
+    #the PSI-BLAST results, the recursive BLAST results, or in both
+    gi_list.each do |recursive_blast_record|
+      if psiblast_gis.include?(recursive_blast_record)
+        both.push(recursive_blast_record)
       else
-        recursive_blast_only.push(custom_record)
+        recursive_blast_only.push(recursive_blast_record)
       end
     end
     psiblast_gis.each do |psiblast_record|
@@ -199,7 +201,7 @@ if resume == 0 #Without "resume" option, proceed with recursive BLAST + PSI-BLAS
     pp both
     puts "###"
     puts "size: #{both.length} items"
-    puts "\n\n\n###GIs only in custom BLAST:\n"
+    puts "\n\n\n###GIs only in recursive BLAST:\n"
     pp recursive_blast_only
     puts "###"
     puts "size: #{recursive_blast_only.length} items"
