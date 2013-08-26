@@ -24,3 +24,46 @@ ASAP2 requires the following software to be installed on the host machine:
 ASAP2 can be cloned to any desired directory on a host computer. TNT requires acceptance of a license agreement, so you will have to run TNT at least once before ASAP2 has the ability to utilize it.
 
 Before running ASAP2, you must edit the file "bin/asap2.rb" to include your email address (required for command-line queries of NCBI's GenBank and GenPept databases), and the installation directory of TNT on your computer.
+
+### Data Workflow
+
+* User specifies GenBank GIs of human (nucleotide) gene sequences to be analyzed
+* User is given the option to include PSI-BLAST result files, prepared prior to running ASAP2
+* ASAP2 performs a recursive BLASTx (nucleotide to amino-acid) on the human GIs specified previously
+* The results of the recursive BLAST are combined with the PSI-BLAST result files to create a list of GenPept GIs that are highly similar to the translated human GenBank GIs being analyzed
+* All of these results are used to create data partitions (see below) to be used in the phylogenetic analyses
+* For each data partition, all GIs within that partition are compared against one another via BLAST-2, and the resultant expect values (E-values) are saved as easily readable charts - these charts are intended to confirm that all protein sequences are highly similar to each of the other sequences in that partition (see below regarding how to interpret these charts)
+* Each data partition is aligned using MUSCLE
+* Each aligned data partition is used as the basis for a phylogenetic tree specific to that partition - the resultant trees are output in parenthetical notation
+* All partitions are combined into an interleaved data matrix, and the interleaved data matrix is used to create a consensus tree for all partitions, with each individual partition supplying a numerical PBS value to confirm the degrees of support for the consensus tree.
+
+### Data File Structures
+
+#### Results of recursive BLAST and PSI-BLAST
+
+The GenPept sequences returned by recursive BLAST (and PSI-BLAST, if used) are stored in a file as a JSON object. The file is "results/logs/reference_sequences.json" The overall structure is as follows:
+
+{
+  "partition_1": {
+    "Species_1": "gi_1",
+    "Species_2": "gi_2",
+    "Species_3": "gi_3"
+  },
+  "partition_2": {
+    "Species_1": "gi_4",
+    "Species_2": "gi_5",
+    "Species_3": "gi_6"
+  },
+  "partition_3": {
+    "Species_1": "gi_7",
+    "Species_2": "gi_8",
+    "Species_3": "gi_9"
+  }
+}
+
+A sample file can be found [here](MAKE_LINK). Note that the partition names are the GI numbers of the Human GenBank sequence that was used to construct them.
+
+#### TNT output files
+
+INCOMPLETE
+
