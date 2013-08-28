@@ -1,6 +1,8 @@
 # ASAP2
 ## Automated Simultaneous Analysis Phylogenetics - Version 2
 
+- - -
+
 ### What is it?
 ASAP2 is a phylogenomic software package for identifying the evolutionary history of a set of genes. Given a set of human genes, ASAP2 will identify organisms that contain homologies for all of the human genes specified. It will then create a phylogenetic tree for each gene family (gene partition), and a consensus tree using the data contained in all gene partitions. The final consensus tree implements Partitioned Bremer Support (PBS) to predict the likelihood that the tree is, in fact, the optimal tree based on all available data.
 
@@ -25,6 +27,37 @@ ASAP2 can be cloned to any desired directory on a host computer. TNT requires ac
 
 Before running ASAP2, you must edit the file "bin/asap2.rb" to include your email address (required for command-line queries of NCBI's GenBank and GenPept databases), and the installation directory of TNT on your computer.
 
+- - -
+
+### Running ASAP2
+
+The main script in ASAP2 is `bin/asap2.rb`. After meeting all the prereqs and configuring the TNT installation directory and default email address (see above), the script can be run by navigating to the `bin/` directory and executing:
+
+```
+ruby asap2.rb [options]
+```
+Under the normal (i.e., no options specified) execution procedure, ASAP2 will ask you to input the NCBI GI numbers for all of the human genes of interest, separated by spaces. For example:
+
+```
+Please enter all (nucleotide) GIs associated with the disease of interest, separated by spaces:
+62088808 295844837 50083291 324021738 
+```
+It will then loop through each of the GIs and prompt you to either enter a PSI-BLAST output file, or leave the field blank if you are not using predetermined PSI-BLAST results for that GI. For example: 
+
+```
+Enter the relative or absolute path to PSI-BLAST results for gi 62088808 (leave blank for no PSI-BLAST file):
+../data/psiblast/62088808.txt
+```
+ASAP2 will now perform the automated analysis. The recursive BLAST algorithm will return a message in the form of a ruby hash every time a new match is added to a data partition. It will also inform the user of how many items in the partition have been run against BLAST, along with the current total number of items in the partition. Since the data partition will likely grow as the analysis is performed, the number of total items should increment as new matches are found.
+
+Other messages will be output to the console following the BLAST analysis. Please refer to the "Data Workflow" section below for further information on the components.
+
+#### Options
+
+Currently, the only option that can be specified is `resume`. In context, the command syntax is `ruby asap2.rb resume`. This option is used if you have already generated a compatible set of partitions, saved in `results/logs/blast_results.json`. This file can simply be left from a previous run of ASAP2, but is most useful when the user wants to manually create/edit the data partitions to be used for phylogenetic analysis. See below - the structure of these JSON files is enumerated in "Data file Structures - Results of recursive BLAST and PSI-BLAST".
+
+- - -
+
 ### Data Workflow
 
 1. User specifies GenBank GIs of human (nucleotide) gene sequences to be analyzed
@@ -37,11 +70,13 @@ Before running ASAP2, you must edit the file "bin/asap2.rb" to include your emai
 8. Each aligned data partition is used as the basis for a phylogenetic tree specific to that partition - the resultant trees are output in parenthetical notation
 9. All partitions are combined into an interleaved data matrix, and the interleaved data matrix is used to create a consensus tree for all partitions, with each individual partition supplying a numerical PBS value to confirm the degrees of support for the consensus tree.
 
+- - -
+
 ### Data File Structures
 
 #### Results of recursive BLAST and PSI-BLAST
 
-The GenPept sequences returned by recursive BLAST (and PSI-BLAST, if used) are stored in a file as a JSON object. The file is "results/logs/reference_sequences.json" The overall structure is as follows:
+The GenPept sequences returned by recursive BLAST (and PSI-BLAST, if used) are stored in a file as a JSON object. The file is `results/logs/reference_sequences.json` (NOTE: this file is overwritten every time you run the BLAST analysis - see "Options" for information on running the alignment and TNT analysis on a manually edited `reference_sequences.json` generated previously). The overall structure is as follows:
 
 ```
 {
