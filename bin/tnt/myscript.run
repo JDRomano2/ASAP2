@@ -2,12 +2,6 @@
 macro=;
 lquote [ ;
 
-if ( ntax < 3 )
- if ( windows )
-      errmsg You must read the data set before running a quickie! ;
- else errmsg &10&10You must read the data set (with &34proc filename.,&34) before running a quickie! ; end
- end
-
 log myscript.out;
 
 watch=;
@@ -32,9 +26,10 @@ set dobremer 1 ;
 set bootit 1 ;
 
 
-if ( !windows ) cls ; end
+cls ;
 resettime ;
-if ( 'dobremer' ) tsave * tmp.tre; end
+tsave * tmp.tre
+
 if ( ( ntax > 'medium' ) && 'runquickie' )
   set 0 ntax / 70 ;
   set 1 'i' / 2 ;
@@ -61,11 +56,7 @@ if ( ( ntax > 'medium' ) && 'runquickie' )
            see documentation of TNT.
            Note: for consensus calculation, trees TBR-collapsed.
         ------------------------------------------------------------ ;
-       if ( 'dobremer' )
-           qnelsen [ xmu = rep 3 xss ; save ; ] ;
-       else
-           qnelsen [ xmu = rep 3 xss ; ] ;
-           end
+        qnelsen [ xmu = rep 3 xss ; save ; ] ;
 
   else
    if ( ntax < 'verybig' )
@@ -84,11 +75,7 @@ if ( ( ntax > 'medium' ) && 'runquickie' )
            see documentation of TNT.
            Note: for consensus calculation, trees TBR-collapsed.
         ------------------------------------------------------------ ;
-       if ( 'dobremer' )
           qnelsen [ mu1=ho1 ; sec=xss ; drift=iter5; save ; ] ;
-       else
-          qnelsen [ mu1=ho1 ; sec=xss ; drift=iter5; ] ;
-          end
    else
        quote &10
         ------------------------------------------------------------
@@ -97,17 +84,13 @@ if ( ( ntax > 'medium' ) && 'runquickie' )
            with 15 random addition sequences plus TBR.
            Note: for consensus calculation, trees TBR-collapsed.
         ------------------------------------------------------------ ;
-       if ( 'dobremer' )
-           qnelsen [ mu1=ho1 ; save ; ] ;
-       else
-           qnelsen [ mu1=ho1 ; ] ;
-           end
+        qnelsen [ mu1=ho1 ; save ; ] ;
 
     end
   end
 else
   report +/1 ;
-       if ( !windows ) cls ; end
+       cls ;
        quote &10
         ------------------------------------------------------------
         Search routine used:
@@ -119,90 +102,65 @@ else
         ------------------------------------------------------------ ;
   hold 1000 ;
   xmu = hit 20 drift 10 ;
-  if ( 'dobremer' ) save ; end
+  save ;
   nelsen * ;
-  if ( 'plotapo' )
-       set i ntrees ;
-       if ( !windows ) cls ; end
-       quote &10
-        ------------------------------------------------------------
-        Synapomorphies of 'i' trees plotted on the strict
-        consensus.  Only unambiguous synapomorphies, occuring in
-        every tree, are indicated. This makes results much more
-        conservative!
-        ------------------------------------------------------------ ;
-       coll rule 3 ;
-       set i -- ;
-       if ( windows )
-          log & myscript_apo.emf ;
-          end
-       apo [ 0.'i' ;
-       if ( windows ) log /& ; end
-       coll tbr ;
-       end
+   set i ntrees ;
+   cls ;
+   quote &10
+    ------------------------------------------------------------
+    Synapomorphies of 'i' trees plotted on the strict
+    consensus.  Only unambiguous synapomorphies, occuring in
+    every tree, are indicated. This makes results much more
+    conservative!
+    ------------------------------------------------------------ ;
+   coll rule 3 ;
+   set i -- ;
+   apo [ 0.'i' ;
+   coll tbr ;
   tchoose { strict } ;
 end
 
-if ( 'dobremer' )
-   tsave / ; end
-   quote &10
-        ------------------------------------------------------------
-        Group supports are calculated by TBR-swapping the trees
-        found, keeping note of the number of steps needed to
-        loose each group.  The labels on branches show absolute
-        and relative bremer supports (Goloboff &38  Farris 2001).
-        Groups indicated with a question mark (?) are those
-        for which the absolute bremer supports appear to be
-        10 or more...
-        ------------------------------------------------------------ ;
-   sub 10 ;
-   ttag= ;
-   p tmp.tre ;
-   bsupp !!+0 1. ;
-   sub 10x0.90 ;
-   bsupp [!!+0 1.;
-   if ( windows ) log & myscript_brem.emf ; end
-   ttag;
-   if ( windows ) log /& ; tplot [ ; end
-   sub 0 ;
-   keep 1 ;
-   ttag - ;
-   end
+tsave / ; end
+quote &10
+    ------------------------------------------------------------
+    Group supports are calculated by TBR-swapping the trees
+    found, keeping note of the number of steps needed to
+    loose each group.  The labels on branches show absolute
+    and relative bremer supports (Goloboff &38  Farris 2001).
+    Groups indicated with a question mark (?) are those
+    for which the absolute bremer supports appear to be
+    10 or more...
+    ------------------------------------------------------------ ;
+sub 10 ;
+ttag= ;
+p tmp.tre ;
+bsupp !!+0 1. ;
+sub 10x0.90 ;
+bsupp [!!+0 1.;
+ttag;
+sub 0 ;
+keep 1 ;
+ttag - ;
 
 
-if ( 'bootit' )
-  ttag = ;
-  if ( !windows ) cls ; end
-  quote &10
-        ------------------------------------------------------------
-        Resampling is done with 100 replications of symmetric
-        resampling (see Goloboff et al. 2003), analyzing each data
-        set with a single random addition sequence plus TBR
-        (collapsing the resulting tree with TBR, see Goloboff &38
-        Farris, 2001).  The labels on branches show frequency and
-        frequency differences (see Goloboff et al. 2003).
-        ------------------------------------------------------------ ;
-  coll tbr ;
-  resample [ mu1=ho1; ] rep 100 freq gc from 0 ;
-  keep 1 ;
-  if ( windows ) log & myscript.emf ; end
-  ttag ;
-  if ( windows ) log /& ; tplot [ ; end
-  end
+ttag = ;
+cls ;
+quote &10
+      ------------------------------------------------------------
+      Resampling is done with 100 replications of symmetric
+      resampling (see Goloboff et al. 2003), analyzing each data
+      set with a single random addition sequence plus TBR
+      (collapsing the resulting tree with TBR, see Goloboff &38
+      Farris, 2001).  The labels on branches show frequency and
+      frequency differences (see Goloboff et al. 2003).
+      ------------------------------------------------------------ ;
+coll tbr ;
+resample [ mu1=ho1; ] rep 100 freq gc from 0 ;
+keep 1 ;
+ttag ;
 
 
 export - myscript.tre ;
-if ( windows )
-  if ( 'bootit' )
-     quote Tree-diagram (with bremer supports) saved to file myscript_brem.emf  ;
-     end
-  if ( 'dobremer' )
-     quote Tree-diagram (with supports) saved to file myscript.emf  ;
-     end
-  if ( 'plotapo' )
-     quote Synapomorphies (as diagram) saved to file myscript_apo.emf ;
-     end
-  end
 quote Results saved (as text) to file myscript.out &10&10;
 
 log / ;
@@ -228,4 +186,3 @@ ANALYSIS COMPLETED (total time used: '/.0i' sec)
 ;
 
 proc/;
-
