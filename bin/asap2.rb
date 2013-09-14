@@ -104,7 +104,7 @@ if resume == 0 #Without "resume" option, proceed with recursive BLAST + PSI-BLAS
   # Get PSI-BLAST filenames one-by-one, if user wants to specify them
   all_psiblast_filenames = Hash.new()
   human_gis.each do |gi|
-    puts "Enter the relative or absolute path to PSI-BLAST results for gi #{gi} (leave blank for no PSI-BLAST file): "
+    puts "Enter the filename of PSI-BLAST results for gi #{gi} in ../data/psiblast_files (leave blank for no PSI-BLAST file): "
     curr_psiblast = gets.chomp
     all_psiblast_filenames[gi] = curr_psiblast
   end
@@ -134,7 +134,8 @@ if resume == 0 #Without "resume" option, proceed with recursive BLAST + PSI-BLAS
     File.open('blast_input.fasta', 'w') {|f| f.puts(query_fasta)}
 
     #Open psiblast results file and save as string
-    psiblast_filename == "" ? psiblast_results = "" : psiblast_results = File.open(psiblast_filename.chomp, 'r') { |f| f.read }
+    #Note: the .insert() method takes care of relative filepath
+    psiblast_filename == "" ? psiblast_results = "" : psiblast_results = File.open(psiblast_filename.insert(0, "../data/psiblast_files/").chomp, 'r') { |f| f.read }
 
     #Run BLASTx on query gi and store results as string (tab-delimited)
     puts "Running BLASTx on query gi. This may take a few minutes.\n"
