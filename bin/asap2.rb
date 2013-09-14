@@ -17,6 +17,9 @@
 ################################################################################
 
 require 'rubygems'
+require 'bundler/setup'
+Bundler.setup
+Bundler.require
 require 'json'
 require 'pp'
 require 'bio'
@@ -98,13 +101,22 @@ if resume == 0 #Without "resume" option, proceed with recursive BLAST + PSI-BLAS
   # Also, define the names of the keys (corresponding to each user-entered GI), to avoid problems down the road:
   human_gis.each { |name| blast_results[name] = Hash.new() }
 
+  # Get PSI-BLAST filenames one-by-one, if user wants to specify them
+  all_psiblast_filenames = Hash.new()
+  human_gis.each do |gi|
+    puts "Enter the relative or absolute path to PSI-BLAST results for gi #{gi} (leave blank for no PSI-BLAST file): "
+    curr_psiblast = gets.chomp
+    all_psiblast_filenames[gi] = curr_psiblast
+  end
+
   all_organisms_represented = Array.new()
 
   # Iterate through array, running recursive BLAST on each, store results in a hash, each key is a gene and each index is a hash
   human_gis.each do |gis|
 
-    puts "Enter the relative or absolute path to PSI-BLAST results for gi #{gis} (leave blank for no PSI-BLAST file):"
-    psiblast_filename = gets.chomp #May want to re-implement this!
+    puts "Running recursive blast on gi #{gis}"
+
+    psiblast_filename = all_psiblast_filenames[gis]
 
     #instantiate variables
     current_gi = String.new()
