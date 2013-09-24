@@ -41,11 +41,13 @@ $tnt_path = ""
 
 #PARSE ARGUMENTS
 #Command syntax: 'ruby asap2.rb (resume)'
-if ARGV.join(" ") == 'resume'
+if ARGV.include?("resume")
   resume = 1
 else
   resume = 0
 end
+
+ARGV.include?("nucleotide") ? mode = :nucleotide : mode = :protein
 
 #Set up REST and local parameters
 Bio::NCBI.default_email = $user_email
@@ -80,6 +82,7 @@ begin
   $blastx = `which blastx`
   # Handle exceptions? after next line too
   $blastp = `which blastp`
+  $blastn = `which blastn`
   # Muscle prepackaged - doesn't require user configuration
   $platform == :linux ? $muscle = "muscle3.8.31_i86linux64" : nil
   $platform == :darwin ? $muscle = "./muscle3.8.31_i86darwin64" : nil
@@ -137,9 +140,14 @@ if resume == 0 #Without "resume" option, proceed with recursive BLAST + PSI-BLAS
     #Note: the .insert() method takes care of relative filepath
     psiblast_filename == "" ? psiblast_results = "" : psiblast_results = File.open(psiblast_filename.insert(0, "../data/psiblast_files/").chomp, 'r') { |f| f.read }
 
-    #Run BLASTx on query gi and store results as string (tab-delimited)
-    puts "Running BLASTx on query gi. This may take a few minutes.\n"
-    query_blast = `blastx -remote -db nr -evalue 1e-256 -outfmt 6 -query blast_input.fasta`
+    #Run appropriate BLAST (depending on analysis type) on query gi and store results as string (tab-delimited)
+    if mode == :protein   
+      puts "Running BLASTx on query gi. This may take a few minutes.\n"
+      query_blast = `blastx -remote -db nr -evalue 1e-256 -outfmt 6 -query blast_input.fasta`
+    elsif mode == :nucleotide
+      puts "Running BLASTn on query gi. This may take a few minutes.\n"
+      query_blast = `blastn -remote -db nr -evalue 1e-256 -outfmt 6 -query blast_input.fasta`
+    end
 
     #Parse the GI from each BLASTx result, and store that GI and associated attributes in hashes
     #Add each of these hashes to the array "gi_list"
@@ -158,14 +166,18 @@ if resume == 0 #Without "resume" option, proceed with recursive BLAST + PSI-BLAS
     end
     puts "\n"
 
-    #Iterate through each entry, running BLASTp and appending any new records to
+    #Iterate through each entry, running appropriate BLAST and appending any new records to
     #growing array of hashes gi_list
     gi_list.each_with_index do |record, index|
-      puts "Running BLASTp on record \##{index + 1} of #{gi_list.length}"
+      puts "Running BLAST on record \##{index + 1} of #{gi_list.length}"
       puts "Current GI is #{record[:gi]}"
       current_fasta = Bio::FastaFormat.new(ncbi_fetch.sequence(record[:gi], format = 'fasta'))
       File.open('blast_input.fasta', 'w') {|f| f.puts(current_fasta)}
-      current_blast = `blastp -remote -db nr -evalue 1e-256 -outfmt 6 -query blast_input.fasta`
+      if mode == :protein 
+        current_blast = `blastp -remote -db nr -evalue 1e-256 -outfmt 6 -query blast_input.fasta`
+      elsif mode == :nucleotide
+        current_blast = `blastn -remote -db nr -evalue 1e-256 -outfmt 6 -query blast_input.fasta`
+      end
       current_blast.each_line do |line|
         line.scan(/^gi.*?(gi\|\d+).*?$/) {|gi| current_gi = "#{gi.join}"}
         unless used_gis.include?(current_gi)
@@ -292,7 +304,11 @@ results.each do |gene, matches|
       query_fasta = Bio::FastaFormat.new(ncbi_fetch.sequence(query, format = 'fasta'))
       File.open('blast_query.fasta', 'w') {|f| f.puts(query_fasta)}
 
-      current_blast = `blastp -query blast_query.fasta -subject blast_subject.fasta -outfmt '6 evalue'`
+      if mode == :protein
+        current_blast = `blastp -query blast_query.fasta -subject blast_subject.fasta -outfmt '6 evalue'`
+      elsif mode == :nucleotide
+        current_blast = `blastn -query blast_query.fasta -subject blast_subject.fasta -outfmt '6 evalue'`
+      end
       evalue = current_blast.lines.first
       curr_row.push(evalue)
     end
@@ -385,9 +401,9 @@ Dir.foreach("../results/partitions_aligned") do |file|
     #now, execute 'myscript.run' within tnt to build the trees
     case
     when RUBY_PLATFORM.downcase.include?("linux")
-      `#{$tnt_path}/tnt mxram 2000 , p ../results/tnt_input/#{outfile} , cd tnt , myscript , zzz ,`
+      `#{$tnt_path}/tnt mxram 2000 , p ../results/tnt_input/#{outfile} , cd tnt , sect:slack 10 , myscript , zzz ,`
     when RUBY_PLATFORM.downcase.include?("darwin")
-      `#{$tnt_path}/tnt.command mxram 2000 , p ../results/tnt_input/#{outfile} , cd tnt , myscript , zzz ,`
+      `#{$tnt_path}/tnt.command mxram 2000 , p ../results/tnt_input/#{outfile} , cd tnt , sect:slack 10 , myscript , zzz ,`
     end
 
     #save tree (parenthetical notation '.tre') and all tnt output ('.out') for current tree
