@@ -1,9 +1,7 @@
-add "partitions_aligned" and "partitions_pre_alignment" directories to git repo
 Also, "tnt_output" and "tnt_input" directories...
 
 Merge solution to multipart blast results parsing into single array (and selecting refseqs)
 
 Fix status (progress) text for e-value tables
 
-Fix TNT command for increased "slack" memory, ala: https://groups.google.com/forum/#!topic/tnt-tree-analysis-using-new-technology/bhLW2MZOXXk
 Copy fixed(?) command from working copy
