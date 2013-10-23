@@ -157,6 +157,7 @@ quote &10
 coll tbr ;
 resample [ mu1=ho1; ] rep 100 freq gc from 0 ;
 keep 1 ;
+blength * 0;
 ttag ;
 
 
@@ -184,5 +185,9 @@ ANALYSIS COMPLETED (total time used: '/.0i' sec)
 
 
 ;
+
+tsave *myscript.tre;
+save *;
+tsave/;
 
 proc/;
