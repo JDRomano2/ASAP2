@@ -1,0 +1,21 @@
+No messages to show 
+ 
+Current directory is C:\Users\jdromano2\Dropbox\ASAP2\previous_runs\results_100813\protein\tnt_output 
+Current directory is C:\Users\jdromano2\Dropbox\ASAP2\previous_runs\results_100813\protein\tnt_input 
+Reading from C:\Users\jdromano2\Dropbox\ASAP2\previous_runs\results_100813\protein\tnt_input\4557758.tnt 
+Matrices will be read as amino-acid data 
+Matrix space: allocate for up to 32 states 
+Matrix (799x34, 32 states). Memory required for data:   1.86 Mbytes 
+Current directory is C:\Users\jdromano2\Dropbox\ASAP2\bin\tnt 
+Allocation failure: not enough RAM available 
+ 
+TNT - max. ram = 1000.00 Mbytes 
+No ram used yet 
+Reading from C:\Users\jdromano2\Dropbox\ASAP2\previous_runs\results_100813\protein\tnt_input\4557758.tnt 
+Matrices will be read as amino-acid data 
+Matrix space: allocate for up to 32 states 
+Matrix (799x34, 32 states). Memory required for data:   1.86 Mbytes 
+Reading from C:\Users\jdromano2\Dropbox\ASAP2\bin\tnt\myscript.run 
+Running C:\Users\jdromano2\Dropbox\ASAP2\bin\tnt\myscript.run (with no arguments) 
+Macro language is ON 
+Macros: 42.7 Kb in use, 59.6 Kb free
