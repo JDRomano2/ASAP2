@@ -330,7 +330,6 @@ results = JSON.parse( IO.read('../results/logs/reference_sequences.json') )
 # FIND NUCLEOTIDE SEQUENCES ENCODING PROTEIN SEQUENCES
 ################################################################################
 
-=begin
 # Determine nucleotide sequences that encode the protein reference sequences
 nucleotide_results = results.clone
 if true
@@ -362,7 +361,6 @@ nucleotide_results = JSON.parse( IO.read('../results/logs/nuc_reference_sequence
 ################################################################################
 # CREATE TERMINAL TABLES FOR IDENTIFIED PROTEIN SEQUENCES
 ################################################################################
-=begin
 all_tables = Array.new()
 all_tables.push("(Remember to turn word-wrap off, or tables will not be readable on most displays)")
 # create the first row of each partition's terminal-table - this is static for all partitions
@@ -408,13 +406,11 @@ orig_std_out = STDOUT.clone #make clone of STDOUT to restore normal functionalit
 STDOUT.reopen(File.open('../results/logs/eval_tables.txt', 'w')) #instruct where to pipe STDOUT
 all_tables.each { |table| puts table; puts "\n" } #print each table
 STDOUT.reopen(orig_std_out) #switch back to normal STDOUT
-=end
 
 ################################################################################
 # FIRST, MAKE TREES FOR PROTEIN SEQUENCES...
 ################################################################################
 
-=begin
 ################################################################################
 # CREATE AND ALIGN FASTA FILES
 ################################################################################
@@ -443,7 +439,6 @@ Dir.foreach("../results/protein/partitions_pre_alignment/") do |file|
     end
   end
 end
-=end
 
 ################################################################################
 # CREATE TNT INPUT AND BUILD TREES IN TNT
@@ -560,7 +555,7 @@ puts "Protein analysis completed - proceeding with Nucleotide analysis..."
 ################################################################################
 # FINALLY, MAKE TREES FOR NUCLEOTIDE SEQUENCES...
 ################################################################################
-=begin
+
 ################################################################################
 # CREATE AND ALIGN FASTA FILES
 ################################################################################
@@ -597,9 +592,7 @@ Dir.foreach("../results/nucleotide/partitions_pre_alignment/") do |file|
     end
   end
 end
-=end
 
-=begin
 ################################################################################
 # CREATE TNT INPUT AND BUILD TREES IN TNT
 ################################################################################
@@ -719,4 +712,3 @@ current_tree = File.read("tnt/pbs.tre")
 File.open("../results/nucleotide/tnt_output/trees/pbs.tre", 'w') {|f| f.write(current_tree)}
 
 puts "Analysis completed"
-=end

@@ -161,5 +161,9 @@ quote -         |                                              |;
 quote -         |                                              |;
 quote -         \----------------------------------------------/;
 
+tsave *pbs.tre;
+save *;
+tsave/;
+
 proc/;
 
