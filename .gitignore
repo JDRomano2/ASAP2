@@ -16,3 +16,4 @@ bin/orthoMCL
 bin/blast*
 *.log
 *.out
+*.fasta
