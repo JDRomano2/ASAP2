@@ -1,7 +1,5 @@
 #!/usr/bin/env ruby
 
-#NEXT: FIX INVALID STRINGS IN NUC_REFERENCE_SEQUENCES.JSON!
-
 ################################################################################
 #
 # asap2_5_nuc_trees.rb

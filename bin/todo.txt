@@ -1,7 +1,0 @@
-Also, "tnt_output" and "tnt_input" directories...
-
-Merge solution to multipart blast results parsing into single array (and selecting refseqs)
-
-Fix status (progress) text for e-value tables
-
-Copy fixed(?) command from working copy

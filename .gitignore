@@ -1,1 +1,18 @@
-.DS_Store
+## generic files to ignore - language agnostic
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+## ruby files incl. bundler for gitignore
+bin/.bundle
+
+## specific ASAP2 files/directories for gitignore
+previous_runs
+results
+bin/inParanoid
+bin/orthoMCL
+bin/blast*
+*.log
+*.out
