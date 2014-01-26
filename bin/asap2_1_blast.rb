@@ -193,3 +193,7 @@ end
 pp "\n"
 pp trimmed_results
 File.open('../results/logs/reference_sequences.json', 'w') {|f| f.puts(JSON.pretty_generate(trimmed_results))}
+
+puts "NOTE:\nAt this point, it is strongly recommended that you open the '../results/logs/reference_sequences.json' file, and rename your partitions to something more descriptive."
+puts "Currently, each partition name is the GI/accession for the query you specified initially, which may make other data files hard to read down-the-line."
+puts "In the next version of ASAP2, this will be addressed: each partition will automatically be named something more human-readable."

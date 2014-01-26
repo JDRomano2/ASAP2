@@ -96,7 +96,7 @@ nucleotide_results = JSON.parse( IO.read('../results/logs/nuc_reference_sequence
 # CREATE AND ALIGN FASTA FILES
 ################################################################################
 # Create a fasta file for each partition, pulling sequences for all GIs from NCBI
-=begin
+
 nucleotide_results.each_pair do |partition, sequences|
   fasta_contents = String.new()
   sequences.each do |gi|
@@ -246,7 +246,7 @@ tnt_output = File.read("tnt/pbs.out")
 File.open("../results/nucleotide/tnt_output/pbs.out", 'w') {|f| f.write(tnt_output)}
 current_tree = File.read("tnt/pbs.tre")
 File.open("../results/nucleotide/tnt_output/trees/pbs.tre", 'w') {|f| f.write(current_tree)}
-=end
+
 ################################################################################
 # DETERMINE ROBINSON-FOULDS DISTANCE BETWEEN EACH TREE (NOT PBS TREE)
 ################################################################################

@@ -58,7 +58,7 @@ class Get_NCBI_Sequence
   attr_accessor :sequence
 end
 results = JSON.parse( IO.read('../results/logs/reference_sequences.json') )
-=begin
+
 ################################################################################
 # CREATE AND ALIGN FASTA FILES
 ################################################################################
@@ -198,7 +198,7 @@ tnt_output = File.read("tnt/pbs.out")
 File.open("../results/protein/tnt_output/pbs.out", 'w') {|f| f.write(tnt_output)}
 current_tree = File.read("tnt/pbs.tre")
 File.open("../results/protein/tnt_output/trees/pbs.tre", 'w') {|f| f.write(current_tree)}
-=end
+
 ################################################################################
 # DETERMINE ROBINSON-FOULDS DISTANCE BETWEEN EACH TREE (NOT PBS TREE)
 ################################################################################

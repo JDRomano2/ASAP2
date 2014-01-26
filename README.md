@@ -8,7 +8,7 @@ ASAP2 is a phylogenomic software package for identifying the evolutionary histor
 
 ASAP is written primarily in the Ruby programming language, and utilizes a set of publicly-available tools to perform various data manipulations. Data input comes primarily in the form of GenBank GI numbers, with the option of including PSI-BLAST result files to further increase the set of genes to be considered in the phylogenetic analyses.
 
-ASAP2 is the successor to ASAP - a similar tool developed by Neil Sarkar ([doi:10.1186/1471-2105-9-103](http://www.ncbi.nlm.nih.gov/pubmed/18282301)).
+ASAP2 is the successor to ASAP - a similar tool developed by Neil Sarkar ([doi:10.1186/1471-2105-9-103](http://dx.doi.org/10.1186/1471-2105-9-103)).
 
 ### System Prerequisites
 Operating system: Macintosh OS X or Linux
