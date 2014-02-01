@@ -105,7 +105,7 @@ The GenPept sequences returned by recursive BLAST (and PSI-BLAST, if used) are s
 }
 ```
 
-A sample file can be found [here](MAKE_LINK). Note that the partition names are the GI numbers of the Human GenBank sequence that was used to construct them.
+Note that the partition names are the GI numbers of the Human GenBank sequence that was used to construct them - after generating the JSON files, it is strongly recommended that you rename the data partitions to something more human-readable. This will be automatic in future versions of the software.
 
 #### TNT output files
 
