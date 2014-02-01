@@ -31,10 +31,10 @@ Before running ASAP2, you must edit the file "bin/asap2.rb" to include your emai
 
 ### Running ASAP2
 
-The main script in ASAP2 is `bin/asap2.rb`. After meeting all the prereqs and configuring the TNT installation directory and default email address (see above), the script can be run by navigating to the `bin/` directory and executing:
+The main scripts in ASAP2 are in the `bin` directory. After meeting all the prereqs and configuring the TNT installation directory and default email address (see above), the first script can be run by navigating to the `bin/` directory and executing:
 
 ```
-ruby asap2.rb [options]
+ruby asap2_1_blast.rb
 ```
 Under the normal (i.e., no options specified) execution procedure, ASAP2 will ask you to input the NCBI GI numbers for all of the human genes of interest, separated by spaces. For example:
 
@@ -48,13 +48,20 @@ It will then loop through each of the GIs and prompt you to either enter a PSI-B
 Enter the relative or absolute path to PSI-BLAST results for gi 62088808 (leave blank for no PSI-BLAST file):
 ../data/psiblast/62088808.txt
 ```
-ASAP2 will now perform the automated analysis. The recursive BLAST algorithm will return a message in the form of a ruby hash every time a new match is added to a data partition. It will also inform the user of how many items in the partition have been run against BLAST, along with the current total number of items in the partition. Since the data partition will likely grow as the analysis is performed, the number of total items should increment as new matches are found.
+
+ASAP2 will now perform the automated BLAST analyses. The recursive BLAST algorithm will return a message in the form of a ruby hash every time a new match is added to a data partition. It will also inform the user of how many items in the partition have been run against BLAST, along with the current total number of items in the partition. Since the data partition will likely grow as the analysis is performed, the number of total items should increment as new matches are found.
 
 Other messages will be output to the console following the BLAST analysis. Please refer to the "Data Workflow" section below for further information on the components.
 
-#### Options
+#### After running BLAST
 
-Currently, the only option that can be specified is `resume`. In context, the command syntax is `ruby asap2.rb resume`. This option is used if you have already generated a compatible set of partitions, saved in `results/logs/blast_results.json`. This file can simply be left from a previous run of ASAP2, but is most useful when the user wants to manually create/edit the data partitions to be used for phylogenetic analysis. See below - the structure of these JSON files is enumerated in "Data file Structures - Results of recursive BLAST and PSI-BLAST".
+After the BLAST script (`asap2_1_blast.rb`) completes, you can proceed with the next script in the collection:
+
+```
+ruby asap2_2_find_nucs.rb
+```
+
+Do likewise for each stage in the analysis.
 
 - - -
 
