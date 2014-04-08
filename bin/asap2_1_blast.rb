@@ -39,6 +39,12 @@ $tnt_path = "/usr/local/bin/tnt"
 ##########################
 ################################################################################
 
+#Set up REST and local parameters
+Bio::NCBI.default_email = $user_email
+ncbi_fetch = Bio::NCBI::REST::EFetch.new()
+
+mode = 2
+
 # Collect GIs of target disease; store in an array
 puts "Please enter all (nucleotide) GIs associated with the disease of interest, separated by spaces:"
 human_gis = gets.split(" ")

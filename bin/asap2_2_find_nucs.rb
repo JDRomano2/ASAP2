@@ -59,15 +59,31 @@ if true
       cds = record.features[(record.features.length - 1)]
       codedby = nil
       cds.qualifiers.each { |a_qualifier| codedby = a_qualifier.value if a_qualifier.qualifier == "coded_by" }
-      codedby.sub!(/\..*$/, '') unless codedby.scan(/^.{11}?join\(.+/).length > 0
+
+      flag = nil
+      start = nil
+      finish = nil
+ 
+=begin
+      if codedby.scan(/^.{11}?join\(.+/).length > 0
+        flag = "join"
+      elsif codedby.scan(/^(.+):(\d+)..(\d+)$/).length > 0
+        flag = "range"
+        start = $1
+        finish = $2
+      end
+      #codedby.sub!(/\..*$/, '') unless codedby.scan(/^.{11}?join\(.+/).length > 0
+=end
+
       if codedby == nil
         raise ArgumentError.new("Could not find nucleotide sequence for #{gi}. You should look the protein sequence up on www.ncbi.nlm.nih.gov, and find the reference sequence. Then, in 'reference_sequences.json', change #{gi} to the correct reference sequence, and restart this script, selecting option #2 at the first prompt.")
-      elsif (codedby.scan(/^.{11}?join\(.+/).length > 0)
+      elsif flag == "join"
         puts "found transsplice gene #{codedby} - expect a long string in logfile!"
-      elsif (codedby.match(/^[A-Z]{2}_?\d{4,}$/) == nil && codedby.match(/^[A-Z]_?\d{5,}$/) == nil)
-        puts "codedby = '#{codedby}'"
-        raise ArgumentError.new("Invalid CDS data for protein sequence #{gi}. Sequence is likely large genomic construct. Look up protein sequence and find a better alternative.")
+      #elsif (codedby.match(/^[A-Z]{2}_?\d{4,}$/) == nil && codedby.match(/^[A-Z]_?\d{5,}$/) == nil)
+      #  puts "codedby = '#{codedby}'"
+      #  raise ArgumentError.new("Invalid CDS data for protein sequence #{gi}. Sequence is likely large genomic construct. Look up protein sequence and find a better alternative.")
       end
+
       nucleotide_results[humangi][species] = codedby
     end
   end

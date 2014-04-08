@@ -92,10 +92,17 @@ end
 
 nucleotide_results = JSON.parse( IO.read('../results/logs/nuc_reference_sequences.json'))
 
+`mkdir -p ../results/nucleotide/partitions_pre_alignment`
+`mkdir -p ../results/nucleotide/partitions_aligned`
+`mkdir -p ../results/nucleotide/tnt_input`
+`mkdir -p ../results/nucleotide/tnt_output/trees`
+
 ################################################################################
 # CREATE AND ALIGN FASTA FILES
 ################################################################################
 # Create a fasta file for each partition, pulling sequences for all GIs from NCBI
+
+=begin
 
 nucleotide_results.each_pair do |partition, sequences|
   fasta_contents = String.new()
@@ -106,6 +113,18 @@ nucleotide_results.each_pair do |partition, sequences|
       splice.parse_components()
       fasta_contents << splice.make_fasta().to_s
       puts "\nMade FASTA for transsplice gene #{gi}"
+    elsif gi[1].scan(/^(.+):<?>?(\d+)..<?>?(\d+)$/).length > 0
+      seq = $1
+      start = $2
+      finish = $3
+  
+      splice_string = "#{start}..#{finish}"
+      seq_all = Bio::Sequence.auto(ncbi_fetch.sequence(seq, "fasta").gsub!(/^>.+\n/, ''))
+      fasta_definition = Get_NCBI_Sequence.new(seq).fetch_sequence.to_s.lines.first
+      seq_trimmed = seq_all.splice(splice_string)
+      fasta_contents << fasta_definition
+      fasta_contents << seq_trimmed
+      fasta_contents << "\n"
     else
       fasta_contents << Get_NCBI_Sequence.new(gi[1]).fetch_sequence.to_s
     end
@@ -130,6 +149,8 @@ Dir.foreach("../results/nucleotide/partitions_pre_alignment/") do |file|
     `rm ../results/nucleotide/partitions_aligned/unsorted_#{outfile}`
   end
 end
+
+=end
 
 ################################################################################
 # CREATE TNT INPUT AND BUILD TREES IN TNT

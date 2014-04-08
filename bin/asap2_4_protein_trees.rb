@@ -59,6 +59,11 @@ class Get_NCBI_Sequence
 end
 results = JSON.parse( IO.read('../results/logs/reference_sequences.json') )
 
+`mkdir -p ../results/protein/partitions_pre_alignment`
+`mkdir -p ../results/protein/partitions_aligned`
+`mkdir -p ../results/protein/tnt_input`
+`mkdir -p ../results/protein/tnt_output/trees`
+
 ################################################################################
 # CREATE AND ALIGN FASTA FILES
 ################################################################################
@@ -250,6 +255,7 @@ puts "\n\n"
 puts list
 puts "\n\n"
 
-File.open("../results/protein/rf_distances.txt", 'w') {|f| f.write(table + list)}
+File.open("../results/protein/rf_distances.txt", 'w') {|f| f.write(table)}
+File.open("../results/protein/rf_distances.txt", 'a') {|f| f.write(list)}
 
 puts "Protein analysis completed"
