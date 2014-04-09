@@ -64,6 +64,7 @@ results = JSON.parse( IO.read('../results/logs/reference_sequences.json') )
 `mkdir -p ../results/protein/tnt_input`
 `mkdir -p ../results/protein/tnt_output/trees`
 
+=begin
 ################################################################################
 # CREATE AND ALIGN FASTA FILES
 ################################################################################
@@ -156,14 +157,15 @@ Dir.foreach("../results/protein/partitions_aligned") do |file|
     total_nchar += nchar
   end
 end
-
-
+=end
 ################################################################################
 # CREATE CONSENSUS TREE WITH PARTITIONED BREMER SUPPORT
 ################################################################################
 #create interleaved TNT data matrix of all partitions
 pbtnt = String.new()
 int_matrix = String.new()
+
+total_nchar = 16198 ################ WARNING!!!!!!!! CHANGE THIS BEFORE RUNNING AGAIN!!!
 
 total_ntax = results.first[1].size
 
@@ -177,6 +179,27 @@ results.each_key do |partition|
   input = Bio::FastaFormat.open("../results/protein/partitions_aligned/#{partition}_aligned.fasta")
   input.each do |entry|
     taxname = Bio::GenPept.new(ncbi_fetch.sequence(entry.entry_id)).organism().tr!(" ", "_")
+    
+    # ONLY NEEDED FOR MTDNA + AD GENES!
+    if taxname == "Otolemur_crassicaudatus"
+      taxname = "Otolemur_garnettii"
+    end
+    if taxname == "Odobenus_rosmarus_rosmarus"
+      taxname = "Odobenus_rosmarus_divergens"
+    end
+    if taxname == "Tupaia_belangeri"
+      taxname = "Tupaia_chinensis"
+    end
+    if taxname == "Ceratotherium_simum"
+      taxname = "Ceratotherium_simum_simum"
+    end
+    if taxname == "Trichechus_manatus"
+      taxname = "Trichechus_manatus_latirostris"
+    end
+    if taxname == "Mustela_putorius"
+      taxname = "Mustela_putorius_furo"
+    end
+
     current_matrix << "#{taxname} "
     current_matrix << entry.seq
     current_matrix << "\n"
@@ -218,6 +241,8 @@ rows.push(firstrow)
 rf_array = Array.new()
 used = Array.new()
 
+rfstring = String.new()
+
 treefiles.each do |treefile1|
   current_row = ["#{treefile1}"]
   treefiles.each do |treefile2|
@@ -231,12 +256,8 @@ treefiles.each do |treefile1|
         `#{$tnt_path}/tnt.command cd tnt , mxram 2000 , p ../../results/protein/tnt_input/pbsup.tnt , p ../../results/protein/tnt_output/trees/#{treefile1} , p ../../results/protein/tnt_output/trees/#{treefile2} , rfdistances 0 1 , zzz ,`
       end
       rfvalue = IO.read('tnt/rflog.log').chomp
-      #new code
-      used.push([treefile1, treefile2])
-      duplicate = false
-      used.each {|i| duplicate = true if used.include?(i.reverse)}
-      rf_array.push({ :tree1 => "#{treefile1}", :tree2 => "#{treefile2}", :rf => "#{rfvalue}"}) unless duplicate == true
-      #end new code
+      transformed = (1 / (Math::E ** rfvalue.to_f))
+      rfstring << "#{treefile1}   #{treefile2}   #{rfvalue}    #{transformed}\n"
     end
     current_row.push(rfvalue)
   end
@@ -244,18 +265,12 @@ treefiles.each do |treefile1|
 end
 
 table = Terminal::Table.new :rows => rows
-list = String.new()
-
-rf_array.each do |rf|
-  transformed = 1 / (Math::E ** (rf[:rf].to_f))
-  list << "#{rf[:tree1]}  #{rf[:tree2]}  #{rf[:rf]}  #{transformed}\n"
-end
 puts table
 puts "\n\n"
-puts list
-puts "\n\n"
+puts "Gene 1    Gene 2    RF value    Transformed RF value"
+puts rfstring
 
 File.open("../results/protein/rf_distances.txt", 'w') {|f| f.write(table)}
-File.open("../results/protein/rf_distances.txt", 'a') {|f| f.write(list)}
+File.open("../results/protein/rf_distances.txt", 'a') {|f| f.write(rfstring)}
 
 puts "Protein analysis completed"

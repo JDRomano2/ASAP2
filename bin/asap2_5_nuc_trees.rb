@@ -51,7 +51,12 @@ class Get_NCBI_Sequence
 
   def fetch_sequence
     ncbi_fetch = Bio::NCBI::REST::EFetch.new()
-    @sequence = Bio::FastaFormat.new(ncbi_fetch.sequence(@accessor, "fasta"))
+    begin
+      @sequence = Bio::FastaFormat.new(ncbi_fetch.sequence(@accessor, "fasta"))
+    rescue Exception
+      puts "HTTP error... retrying."
+      retry
+    end
     return @sequence
   end
 
@@ -79,7 +84,12 @@ class Splice
   end
 
   def make_fasta
-    @seq = Bio::Sequence.auto(@ncbi_fetch.sequence(@accession, "fasta").gsub!(/^>.+\n/, '')) #gsub removes header line from fasta
+    begin
+      @seq = Bio::Sequence.auto(@ncbi_fetch.sequence(@accession, "fasta").gsub!(/^>.+\n/, '')) #gsub removes header line from fasta
+    rescue Exception
+      puts "HTTP error... retrying."
+      retry
+    end
     @range_string = @ranges.join(",")
     if (@complement.scan(/^.*.{11}join\(([0-9A-Z]+)\..*$/).length > 0)
       @seq_spliced = @seq.splice("complement(join(#{@range_string}))")
@@ -103,7 +113,6 @@ nucleotide_results = JSON.parse( IO.read('../results/logs/nuc_reference_sequence
 # Create a fasta file for each partition, pulling sequences for all GIs from NCBI
 
 =begin
-
 nucleotide_results.each_pair do |partition, sequences|
   fasta_contents = String.new()
   sequences.each do |gi|
@@ -113,13 +122,35 @@ nucleotide_results.each_pair do |partition, sequences|
       splice.parse_components()
       fasta_contents << splice.make_fasta().to_s
       puts "\nMade FASTA for transsplice gene #{gi}"
+    elsif gi[1].scan(/^complement\((\w+.\d+):<?>?(\d+)..<?>?(\d+)\)/).length > 0
+      seq = $1
+      start = $2
+      finish = $3
+
+      splice_string = "#{start}..#{finish}"
+      begin
+        seq_all = Bio::Sequence.auto(ncbi_fetch.sequence(seq, "fasta").gsub!(/^>.+\n/, ''))
+      rescue Exception
+        puts "HTTP error... retrying."
+        retry
+      end
+      fasta_definition = Get_NCBI_Sequence.new(seq).fetch_sequence.to_s.lines.first
+      seq_trimmed = seq_all.complement.splice(splice_string)
+      fasta_contents << fasta_definition
+      fasta_contents << seq_trimmed
+      fasta_contents << "\n"
     elsif gi[1].scan(/^(.+):<?>?(\d+)..<?>?(\d+)$/).length > 0
       seq = $1
       start = $2
       finish = $3
   
       splice_string = "#{start}..#{finish}"
-      seq_all = Bio::Sequence.auto(ncbi_fetch.sequence(seq, "fasta").gsub!(/^>.+\n/, ''))
+      begin
+        seq_all = Bio::Sequence.auto(ncbi_fetch.sequence(seq, "fasta").gsub!(/^>.+\n/, ''))
+      rescue Exception
+        puts "HTTP error... retrying."
+        retry
+      end
       fasta_definition = Get_NCBI_Sequence.new(seq).fetch_sequence.to_s.lines.first
       seq_trimmed = seq_all.splice(splice_string)
       fasta_contents << fasta_definition
@@ -133,6 +164,7 @@ nucleotide_results.each_pair do |partition, sequences|
   puts "\n\n\n\n"
   File.open("../results/nucleotide/partitions_pre_alignment/#{partition}_unaligned.fasta", 'w') { |f| f.write(fasta_contents) }
 end
+
 
 #align fasta files
 Dir.foreach("../results/nucleotide/partitions_pre_alignment/") do |file|
@@ -149,7 +181,6 @@ Dir.foreach("../results/nucleotide/partitions_pre_alignment/") do |file|
     `rm ../results/nucleotide/partitions_aligned/unsorted_#{outfile}`
   end
 end
-
 =end
 
 ################################################################################
@@ -185,11 +216,21 @@ Dir.foreach("../results/nucleotide/partitions_aligned") do |file|
       nchar = entry.seq.length() if nchar == 0
       ntax += 1
       if entry.entry_id.scan(/.*?gi.*?/).length > 0
-        taxname = Bio::GenPept.new(ncbi_fetch.sequence(entry.entry_id)).organism().tr!(" ", "_")
+        begin
+          taxname = Bio::GenPept.new(ncbi_fetch.sequence(entry.entry_id)).organism().tr!(" ", "_")
+        rescue Exception
+          puts "HTTP error... retrying."
+          retry
+        end
       else
         taxname = entry.entry_id
       end
-      taxname = Bio::GenPept.new(ncbi_fetch.sequence(entry.entry_id)).organism().tr!(" ", "_")
+      begin
+        taxname = Bio::GenPept.new(ncbi_fetch.sequence(entry.entry_id)).organism().tr!(" ", "_")
+      rescue Exception
+        puts "HTTP error... retrying."
+        retry
+      end
       matrix << "'#{taxname}' "
       matrix << entry.seq
       matrix << "\n"
@@ -241,6 +282,27 @@ nucleotide_results.each_key do |partition|
     else
       taxname = entry.entry_id
     end
+
+    # ONLY NEEDED FOR MTDNA + AD GENES!
+    if taxname == "Otolemur_crassicaudatus"
+      taxname = "Otolemur_garnettii"
+    end
+    if taxname == "Odobenus_rosmarus_rosmarus"
+      taxname = "Odobenus_rosmarus_divergens"
+    end
+    if taxname == "Tupaia_belangeri"
+      taxname = "Tupaia_chinensis"
+    end
+    if taxname == "Ceratotherium_simum"
+      taxname = "Ceratotherium_simum_simum"
+    end
+    if taxname == "Trichechus_manatus"
+      taxname = "Trichechus_manatus_latirostris"
+    end
+    if taxname == "Mustela_putorius"
+      taxname = "Mustela_putorius_furo"
+    end
+
     current_matrix << "#{taxname} "
     current_matrix << entry.seq
     current_matrix << "\n"
