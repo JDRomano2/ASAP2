@@ -3,7 +3,7 @@
 
 - - -
 
-#<mark>NOTE: ASAP2 is currently being refactored, and will be completely overhauled in the coming weeks. To follow development, navigate to the `refactor` branch.</mark>
+##<u>NOTE: ASAP2 is currently being refactored, and will be completely overhauled in the coming weeks. To follow development, navigate to the `refactor` branch.</u>
 
 ### What is it?
 ASAP2 is a phylogenomic software package for identifying the evolutionary history of a set of genes. Given a set of human genes, ASAP2 will identify organisms that contain homologies for all of the human genes specified. It will then create a phylogenetic tree for each gene family (gene partition), and a consensus tree using the data contained in all gene partitions. The final consensus tree implements Partitioned Bremer Support (PBS) to predict the likelihood that the tree is, in fact, the optimal tree based on all available data.
