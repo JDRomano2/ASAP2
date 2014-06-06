@@ -186,6 +186,7 @@ ANALYSIS COMPLETED (total time used: '/.0i' sec)
 
 ;
 
+taxname=;
 tsave *myscript.tre;
 save *;
 tsave/;

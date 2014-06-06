@@ -64,7 +64,7 @@ results = JSON.parse( IO.read('../results/logs/reference_sequences.json') )
 `mkdir -p ../results/protein/tnt_input`
 `mkdir -p ../results/protein/tnt_output/trees`
 
-=begin
+
 ################################################################################
 # CREATE AND ALIGN FASTA FILES
 ################################################################################
@@ -127,7 +127,12 @@ Dir.foreach("../results/protein/partitions_aligned") do |file|
     input.each do |entry|
       nchar = entry.seq.length() if nchar == 0
       ntax += 1
-      taxname = Bio::GenPept.new(ncbi_fetch.sequence(entry.entry_id)).organism().tr!(" ", "_")
+      begin
+        taxname = Bio::GenPept.new(ncbi_fetch.sequence(entry.entry_id)).organism().tr!(" ", "_")
+      rescue Exception
+        puts "HTTP error... retrying."
+        retry
+      end
       matrix << "'#{taxname}' "
       matrix << entry.seq
       matrix << "\n"
@@ -157,7 +162,12 @@ Dir.foreach("../results/protein/partitions_aligned") do |file|
     total_nchar += nchar
   end
 end
-=end
+
+
+##################
+exit
+##################
+
 ################################################################################
 # CREATE CONSENSUS TREE WITH PARTITIONED BREMER SUPPORT
 ################################################################################

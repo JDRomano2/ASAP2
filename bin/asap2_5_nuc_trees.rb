@@ -107,12 +107,13 @@ nucleotide_results = JSON.parse( IO.read('../results/logs/nuc_reference_sequence
 `mkdir -p ../results/nucleotide/tnt_input`
 `mkdir -p ../results/nucleotide/tnt_output/trees`
 
+
 ################################################################################
 # CREATE AND ALIGN FASTA FILES
 ################################################################################
 # Create a fasta file for each partition, pulling sequences for all GIs from NCBI
 
-=begin
+
 nucleotide_results.each_pair do |partition, sequences|
   fasta_contents = String.new()
   sequences.each do |gi|
@@ -181,7 +182,7 @@ Dir.foreach("../results/nucleotide/partitions_pre_alignment/") do |file|
     `rm ../results/nucleotide/partitions_aligned/unsorted_#{outfile}`
   end
 end
-=end
+
 
 ################################################################################
 # CREATE TNT INPUT AND BUILD TREES IN TNT
@@ -225,11 +226,10 @@ Dir.foreach("../results/nucleotide/partitions_aligned") do |file|
       else
         taxname = entry.entry_id
       end
-      begin
-        taxname = Bio::GenPept.new(ncbi_fetch.sequence(entry.entry_id)).organism().tr!(" ", "_")
-      rescue Exception
-        puts "HTTP error... retrying."
-        retry
+      if taxname.length < 3          ## Value is arbitrary... just very small
+        puts "Error - No Species name provided for #{file}"
+        puts "Enter species name manually:"
+        taxname = gets.chomp()
       end
       matrix << "'#{taxname}' "
       matrix << entry.seq
@@ -258,6 +258,10 @@ Dir.foreach("../results/nucleotide/partitions_aligned") do |file|
     total_nchar += nchar #UNCOMMENT FOR DEPLOYMENT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   end
 end
+
+#############
+exit 
+#############
 
 ################################################################################
 # CREATE CONSENSUS TREE WITH PARTITIONED BREMER SUPPORT
