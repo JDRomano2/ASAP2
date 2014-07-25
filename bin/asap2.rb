@@ -17,6 +17,7 @@
 ################################################################################
 
 require 'rubygems'
+require 'bio'
 require 'optparse'
 require 'optparse/time'
 require 'ostruct'
@@ -207,7 +208,22 @@ def loadConfig
   Bio::NCBI.default_email = config_hash[:email]
 end
 
-
+def loadAnalysis
+  analysisValid == false
+  until analysisValid
+    puts "Please enter the name of the folder containing the desired analysis, or type 'new' for a new analysis"
+    user_input = gets.chomp
+    if File.file?('../data/#{user_input}')
+      analysisValid = true
+      # load the file
+    elsif user_input == "new"
+      analysisValid = true
+      # make new analysis file and initialize values
+    else
+      puts "Analysis name not recognized - please try again"
+    end
+  end
+end
 
 ###########################################
 # FILE OPERATIONS / ADTs                  #
