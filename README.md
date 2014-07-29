@@ -1,6 +1,8 @@
 # ASAP2
 ## Automated Simultaneous Analysis Phylogenetics - Version 2
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.11075.png)](http://dx.doi.org/10.5281/zenodo.11075)
+
 - - -
 
 ##<u>NOTE: ASAP2 is currently being refactored, and will be completely overhauled in the coming weeks. To follow development, navigate to the `refactor` branch.</u>
