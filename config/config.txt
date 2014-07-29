@@ -1,1 +1,0 @@
-{"email":"jdromano2@gmail.com","tnt":"/usr/bin/tnt"}

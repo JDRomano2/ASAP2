@@ -29,6 +29,7 @@ require 'json'
 ###########################################
 
 $TNT_DIR = "/usr/local/bin"
+$CURRENT_ANALYSIS = ""
 
 ###########################################
 # DEFINE FUNCTIONS                        #
@@ -154,6 +155,9 @@ def main_menu()
   system "clear" or system "cls"
   puts $main_menu_string
 
+  puts red("config info:")
+  puts green("#{$config_hash}")
+
   #TODO: program should always store the name of the active analysis
 
   puts green("Current analysis: ") + red("{ #{$ACTIVE_ANALYSIS} }")
@@ -176,6 +180,8 @@ def main_menu()
     findRFs
   when 'c'
     doConfig
+  when 'a'
+    loadAnalysis
   when 'q'
     exit
   else
@@ -204,21 +210,25 @@ def doConfig
 end
 
 def loadConfig
-  config_hash = JSON.parse(IO.read('../config/config.txt'))
-  Bio::NCBI.default_email = config_hash[:email]
+  $config_hash = JSON.parse(IO.read('../config/config.txt'))
+  Bio::NCBI.default_email = $config_hash[:email]
 end
 
 def loadAnalysis
-  analysisValid == false
+  analysisValid = false
   until analysisValid
     puts "Please enter the name of the folder containing the desired analysis, or type 'new' for a new analysis"
     user_input = gets.chomp
-    if File.file?('../data/#{user_input}')
+    if File.directory?('../data/#{user_input}')
       analysisValid = true
       # load the file
     elsif user_input == "new"
       analysisValid = true
-      # make new analysis file and initialize values
+    # make new analysis file and initialize values
+      puts "Starting new analysis - please enter a name for the new analysis:"
+      new_name = gets.chomp
+      `mkdir -p ../data/#{new_name}`
+      # initialize the data structures 
     else
       puts "Analysis name not recognized - please try again"
     end
