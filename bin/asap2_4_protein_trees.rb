@@ -69,7 +69,7 @@ results = JSON.parse( IO.read('../results/logs/reference_sequences.json') )
 `mkdir -p ../results/protein/tnt_input`
 `mkdir -p ../results/protein/tnt_output/trees`
 
-
+=begin
 ################################################################################
 # CREATE AND ALIGN FASTA FILES
 ################################################################################
@@ -170,7 +170,7 @@ end
 
 
 ##################
-exit
+#exit
 ##################
 
 ################################################################################
@@ -241,7 +241,7 @@ tnt_output = File.read("tnt/pbs.out")
 File.open("../results/protein/tnt_output/pbs.out", 'w') {|f| f.write(tnt_output)}
 current_tree = File.read("tnt/pbs.tre")
 File.open("../results/protein/tnt_output/trees/pbs.tre", 'w') {|f| f.write(current_tree)}
-
+=end
 ################################################################################
 # DETERMINE ROBINSON-FOULDS DISTANCE BETWEEN EACH TREE (NOT PBS TREE)
 ################################################################################
