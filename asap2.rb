@@ -17,6 +17,26 @@ def writeScreen()
   addstr(main_menu_string)
 end
 
+def getUserChoice()
+  selection = nil
+  choice = getch
+  case choice
+  when '1'
+    selection = :new_session
+    addstr("You selected '1'!")
+    sleep(0.5)
+  when '2'
+    selection = :resume
+  when '3'
+    selection = :load
+  when '4'
+    selection = :license
+  when '5'
+    selection = :quitProg
+  end
+  selection
+end
+
 def quitProg
   close_screen
   exit
@@ -31,7 +51,7 @@ begin
   curs_set(0)
   writeScreen
   refresh
-  sleep(2)
+  next_action = getUserChoice
   quitProg
   ## MAIN contents go here
 ensure

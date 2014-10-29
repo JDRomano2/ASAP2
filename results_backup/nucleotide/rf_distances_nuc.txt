@@ -1,0 +1,83 @@
++---------------+--------------+---------------+--------------+--------------+--------------+--------------+---------------+--------------+--------------+
+|               | COI_tree.tre | CYTB_tree.tre | ND1_tree.tre | ND2_tree.tre | ND3_tree.tre | ND4_tree.tre | ND4L_tree.tre | ND5_tree.tre | ND6_tree.tre |
+| COI_tree.tre  | n/a          | 0.538         | 0.633        | 0.500        | 0.600        | 0.600        | 0.733         | 0.533        | 0.933        |
+| CYTB_tree.tre | 0.538        | n/a           | 0.577        | 0.500        | 0.538        | 0.538        | 0.692         | 0.538        | 0.923        |
+| ND1_tree.tre  | 0.633        | 0.577         | n/a          | 0.567        | 0.567        | 0.533        | 0.633         | 0.567        | 0.867        |
+| ND2_tree.tre  | 0.500        | 0.500         | 0.567        | n/a          | 0.500        | 0.300        | 0.567         | 0.367        | 0.900        |
+| ND3_tree.tre  | 0.600        | 0.538         | 0.567        | 0.500        | n/a          | 0.533        | 0.633         | 0.533        | 0.900        |
+| ND4_tree.tre  | 0.600        | 0.538         | 0.533        | 0.300        | 0.533        | n/a          | 0.533         | 0.433        | 0.900        |
+| ND4L_tree.tre | 0.733        | 0.692         | 0.633        | 0.567        | 0.633        | 0.533        | n/a           | 0.667        | 0.900        |
+| ND5_tree.tre  | 0.533        | 0.538         | 0.567        | 0.367        | 0.533        | 0.433        | 0.667         | n/a          | 0.900        |
+| ND6_tree.tre  | 0.933        | 0.923         | 0.867        | 0.900        | 0.900        | 0.900        | 0.900         | 0.900        | n/a          |
++---------------+--------------+---------------+--------------+--------------+--------------+--------------+---------------+--------------+--------------+COI_tree.tre   CYTB_tree.tre   0.538     0.5839149151526287
+COI_tree.tre   ND1_tree.tre   0.633     0.5309964198721143
+COI_tree.tre   ND2_tree.tre   0.500     0.6065306597126334
+COI_tree.tre   ND3_tree.tre   0.600     0.5488116360940265
+COI_tree.tre   ND4_tree.tre   0.600     0.5488116360940265
+COI_tree.tre   ND4L_tree.tre   0.733     0.48046542954342225
+COI_tree.tre   ND5_tree.tre   0.533     0.5868418008449466
+COI_tree.tre   ND6_tree.tre   0.933     0.3933718229580221
+CYTB_tree.tre   COI_tree.tre   0.538     0.5839149151526287
+CYTB_tree.tre   ND1_tree.tre   0.577     0.5615805837291813
+CYTB_tree.tre   ND2_tree.tre   0.500     0.6065306597126334
+CYTB_tree.tre   ND3_tree.tre   0.538     0.5839149151526287
+CYTB_tree.tre   ND4_tree.tre   0.538     0.5839149151526287
+CYTB_tree.tre   ND4L_tree.tre   0.692     0.5005739194116278
+CYTB_tree.tre   ND5_tree.tre   0.538     0.5839149151526287
+CYTB_tree.tre   ND6_tree.tre   0.923     0.397325275504954
+ND1_tree.tre   COI_tree.tre   0.633     0.5309964198721143
+ND1_tree.tre   CYTB_tree.tre   0.577     0.5615805837291813
+ND1_tree.tre   ND2_tree.tre   0.567     0.5672245624268841
+ND1_tree.tre   ND3_tree.tre   0.567     0.5672245624268841
+ND1_tree.tre   ND4_tree.tre   0.533     0.5868418008449466
+ND1_tree.tre   ND4L_tree.tre   0.633     0.5309964198721143
+ND1_tree.tre   ND5_tree.tre   0.567     0.5672245624268841
+ND1_tree.tre   ND6_tree.tre   0.867     0.42021029106405033
+ND2_tree.tre   COI_tree.tre   0.500     0.6065306597126334
+ND2_tree.tre   CYTB_tree.tre   0.500     0.6065306597126334
+ND2_tree.tre   ND1_tree.tre   0.567     0.5672245624268841
+ND2_tree.tre   ND3_tree.tre   0.500     0.6065306597126334
+ND2_tree.tre   ND4_tree.tre   0.300     0.740818220681718
+ND2_tree.tre   ND4L_tree.tre   0.567     0.5672245624268841
+ND2_tree.tre   ND5_tree.tre   0.367     0.6928096450443918
+ND2_tree.tre   ND6_tree.tre   0.900     0.40656965974059917
+ND3_tree.tre   COI_tree.tre   0.600     0.5488116360940265
+ND3_tree.tre   CYTB_tree.tre   0.538     0.5839149151526287
+ND3_tree.tre   ND1_tree.tre   0.567     0.5672245624268841
+ND3_tree.tre   ND2_tree.tre   0.500     0.6065306597126334
+ND3_tree.tre   ND4_tree.tre   0.533     0.5868418008449466
+ND3_tree.tre   ND4L_tree.tre   0.633     0.5309964198721143
+ND3_tree.tre   ND5_tree.tre   0.533     0.5868418008449466
+ND3_tree.tre   ND6_tree.tre   0.900     0.40656965974059917
+ND4_tree.tre   COI_tree.tre   0.600     0.5488116360940265
+ND4_tree.tre   CYTB_tree.tre   0.538     0.5839149151526287
+ND4_tree.tre   ND1_tree.tre   0.533     0.5868418008449466
+ND4_tree.tre   ND2_tree.tre   0.300     0.740818220681718
+ND4_tree.tre   ND3_tree.tre   0.533     0.5868418008449466
+ND4_tree.tre   ND4L_tree.tre   0.533     0.5868418008449466
+ND4_tree.tre   ND5_tree.tre   0.433     0.6485604918049761
+ND4_tree.tre   ND6_tree.tre   0.900     0.40656965974059917
+ND4L_tree.tre   COI_tree.tre   0.733     0.48046542954342225
+ND4L_tree.tre   CYTB_tree.tre   0.692     0.5005739194116278
+ND4L_tree.tre   ND1_tree.tre   0.633     0.5309964198721143
+ND4L_tree.tre   ND2_tree.tre   0.567     0.5672245624268841
+ND4L_tree.tre   ND3_tree.tre   0.633     0.5309964198721143
+ND4L_tree.tre   ND4_tree.tre   0.533     0.5868418008449466
+ND4L_tree.tre   ND5_tree.tre   0.667     0.5132460085129188
+ND4L_tree.tre   ND6_tree.tre   0.900     0.40656965974059917
+ND5_tree.tre   COI_tree.tre   0.533     0.5868418008449466
+ND5_tree.tre   CYTB_tree.tre   0.538     0.5839149151526287
+ND5_tree.tre   ND1_tree.tre   0.567     0.5672245624268841
+ND5_tree.tre   ND2_tree.tre   0.367     0.6928096450443918
+ND5_tree.tre   ND3_tree.tre   0.533     0.5868418008449466
+ND5_tree.tre   ND4_tree.tre   0.433     0.6485604918049761
+ND5_tree.tre   ND4L_tree.tre   0.667     0.5132460085129188
+ND5_tree.tre   ND6_tree.tre   0.900     0.40656965974059917
+ND6_tree.tre   COI_tree.tre   0.933     0.3933718229580221
+ND6_tree.tre   CYTB_tree.tre   0.923     0.397325275504954
+ND6_tree.tre   ND1_tree.tre   0.867     0.42021029106405033
+ND6_tree.tre   ND2_tree.tre   0.900     0.40656965974059917
+ND6_tree.tre   ND3_tree.tre   0.900     0.40656965974059917
+ND6_tree.tre   ND4_tree.tre   0.900     0.40656965974059917
+ND6_tree.tre   ND4L_tree.tre   0.900     0.40656965974059917
+ND6_tree.tre   ND5_tree.tre   0.900     0.40656965974059917

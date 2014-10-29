@@ -10,7 +10,6 @@ bin/.bundle
 
 ## specific ASAP2 files/directories for gitignore
 previous_runs
-results
 bin/inParanoid
 bin/orthoMCL
 bin/blast*

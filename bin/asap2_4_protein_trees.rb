@@ -51,7 +51,12 @@ class Get_NCBI_Sequence
 
   def fetch_sequence
     ncbi_fetch = Bio::NCBI::REST::EFetch.new()
-    @sequence = Bio::FastaFormat.new(ncbi_fetch.sequence(@accessor, "fasta"))
+    begin
+      @sequence = Bio::FastaFormat.new(ncbi_fetch.sequence(@accessor, "fasta"))
+    rescue
+      puts "There was an error getting the sequence.. retrying."
+      retry
+    end
     return @sequence
   end
 

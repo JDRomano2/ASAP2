@@ -1,0 +1,9 @@
+nstates dna;
+xread
+0 0
+;
+
+
+proc /;
+comments 0
+;
